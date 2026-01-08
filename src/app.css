@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,400;6..72,600&family=Playfair+Display:wght@600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+	color: #0f172a;
+	background: radial-gradient(120% 140% at 20% 20%, #f5ebe1 0%, #e9dfd5 40%, #fdfaf6 100%);
+}
+
+body {
+	@apply font-sans text-ink bg-transparent antialiased;
+}
+
+a {
+	@apply text-ink/80 underline underline-offset-4 decoration-amber hover:text-ink;
+}
+
+.glass {
+	@apply bg-white/70 backdrop-blur border border-white/50 shadow-soft;
+}
+
+.card {
+	@apply glass rounded-2xl p-6 transition transform hover:-translate-y-1 hover:shadow-xl;
+}
+
+.badge {
+	@apply inline-flex items-center gap-1 rounded-full bg-ink text-white px-3 py-1 text-xs uppercase tracking-wide;
+}
