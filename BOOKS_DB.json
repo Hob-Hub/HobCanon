@@ -400,26 +400,6 @@
     ]
   },
   {
-    "title_es": "El viaje de los Argonautas",
-    "title_orig": "Αργοναυτικά",
-    "title_en": "Argonautica",
-    "author": "APOLONIO DE RODAS",
-    "year": -250,
-    "pages": 400,
-    "lang": "el",
-    "difficulty": 4,
-    "importance": 4,
-    "genre": "epic poem",
-    "format": "poetry",
-    "country": "GR",
-    "period": "Hellenistic",
-    "tags": [
-      "myth",
-      "voyage",
-      "heroes"
-    ]
-  },
-  {
     "title_es": "Viaje de los Argonáutas",
     "title_orig": "Ἀργοναυτικά",
     "title_en": "Argonautica",
@@ -434,9 +414,12 @@
     "country": "GR",
     "period": "Hellenistic",
     "tags": [
+      "heroes",
+      "jason",
+      "myth",
       "mythology",
       "quest",
-      "jason"
+      "voyage"
     ]
   },
   {
@@ -1100,26 +1083,6 @@
     "title_en": "Yvain, the Knight of the Lion"
   },
   {
-    "title_es": "El caballero de la Carreta",
-    "title_orig": "Lancelot, le Chevalier de la Charrette",
-    "title_en": "Lancelot, the Knight of the Cart",
-    "author": "CHRÉTIEN DE TROYES",
-    "year": 1180,
-    "pages": 200,
-    "lang": "fr",
-    "difficulty": 4,
-    "importance": 4,
-    "genre": "chivalry",
-    "format": "poetry",
-    "country": "FR",
-    "period": "Medieval",
-    "tags": [
-      "arthurian",
-      "knights",
-      "courtly love"
-    ]
-  },
-  {
     "title_es": "Lancelot, el caballero de la carreta",
     "title_orig": "Lancelot ou le Chevalier de la Charrette",
     "author": "CHRÉTIEN DE TROYES",
@@ -1135,7 +1098,8 @@
     "tags": [
       "arthurian",
       "chivalry",
-      "courtly love"
+      "courtly love",
+      "knights"
     ],
     "title_en": "Lancelot, the Knight of the Cart"
   },
@@ -1600,46 +1564,6 @@
     ]
   },
   {
-    "title_es": "Comedia",
-    "title_orig": "Commedia",
-    "title_en": "The Divine Comedy",
-    "author": "DANTE, Alighieri",
-    "year": 1320,
-    "pages": 800,
-    "lang": "it",
-    "difficulty": 5,
-    "importance": 5,
-    "genre": "epic poem",
-    "format": "poetry",
-    "country": "IT",
-    "period": "Medieval",
-    "tags": [
-      "afterlife",
-      "religion",
-      "allegory"
-    ]
-  },
-  {
-    "title_es": "Dante. La Divina Comedia",
-    "title_orig": "Commedia",
-    "title_en": "The Divine Comedy",
-    "author": "DANTE, Alighieri",
-    "year": 1320,
-    "pages": 800,
-    "lang": "it",
-    "difficulty": 5,
-    "importance": 5,
-    "genre": "epic poem",
-    "format": "poetry",
-    "country": "IT",
-    "period": "Medieval",
-    "tags": [
-      "afterlife",
-      "religion",
-      "allegory"
-    ]
-  },
-  {
     "title_es": "La divina comedia",
     "title_orig": "Commedia",
     "title_en": "The Divine Comedy",
@@ -1655,8 +1579,8 @@
     "period": "Medieval",
     "tags": [
       "afterlife",
-      "religion",
-      "allegory"
+      "allegory",
+      "religion"
     ]
   },
   {
@@ -6840,26 +6764,6 @@
     "title_en": "Wuthering Heights"
   },
   {
-    "title_es": "Feria de las vanidades",
-    "title_orig": "Vanity Fair",
-    "author": "THACKERAY, William M.",
-    "year": 1847,
-    "pages": 800,
-    "lang": "en",
-    "difficulty": 3,
-    "importance": 5,
-    "genre": "novel",
-    "format": "prose",
-    "country": "GB",
-    "period": "Victorian",
-    "tags": [
-      "satire",
-      "society",
-      "novel"
-    ],
-    "title_en": "Vanity Fair"
-  },
-  {
     "title_es": "La feria de las vanidades",
     "title_orig": "Vanity Fair",
     "title_en": "Vanity Fair",
@@ -6874,9 +6778,10 @@
     "country": "GB",
     "period": "Victorian",
     "tags": [
+      "ambition",
+      "novel",
       "satire",
-      "society",
-      "ambition"
+      "society"
     ]
   },
   {
@@ -7100,26 +7005,6 @@
     ]
   },
   {
-    "title_es": "La casa de las siete chimeneas",
-    "title_orig": "The House of the Seven Gables",
-    "author": "HAWTHORNE, Nathaniel",
-    "year": 1851,
-    "pages": 350,
-    "lang": "en",
-    "difficulty": 4,
-    "importance": 4,
-    "genre": "novel",
-    "format": "prose",
-    "country": "US",
-    "period": "Romantic",
-    "tags": [
-      "gothic",
-      "family",
-      "curse"
-    ],
-    "title_en": "The House of the Seven Gables"
-  },
-  {
     "title_es": "La casa de los siete tejados",
     "title_orig": "The House of the Seven Gables",
     "title_en": "The House of the Seven Gables",
@@ -7134,7 +7019,9 @@
     "country": "US",
     "period": "Romantic",
     "tags": [
+      "curse",
       "family",
+      "gothic",
       "guilt",
       "new england"
     ]
@@ -7220,26 +7107,6 @@
     ]
   },
   {
-    "title_es": "Villete",
-    "title_orig": "Villette",
-    "title_en": "Villette",
-    "author": "BRONTE, Charlotte",
-    "year": 1853,
-    "pages": 600,
-    "lang": "en",
-    "difficulty": 4,
-    "importance": 4,
-    "genre": "novel",
-    "format": "prose",
-    "country": "GB",
-    "period": "Victorian",
-    "tags": [
-      "psychological",
-      "romance",
-      "gothic"
-    ]
-  },
-  {
     "title_es": "Villette",
     "title_orig": "Villette",
     "title_en": "Villette",
@@ -7254,9 +7121,12 @@
     "country": "GB",
     "period": "Victorian",
     "tags": [
-      "women",
+      "europe",
+      "gothic",
       "identity",
-      "europe"
+      "psychological",
+      "romance",
+      "women"
     ]
   },
   {
@@ -7385,26 +7255,6 @@
     "title_en": "The Song of Hiawatha",
     "author": "LONGFELLOW, Henry Wadsworth",
     "year": 1855,
-    "pages": 240,
-    "lang": "en",
-    "difficulty": 4,
-    "importance": 3,
-    "genre": "epic poem",
-    "format": "poetry",
-    "country": "US",
-    "period": "Romantic",
-    "tags": [
-      "myth",
-      "native american",
-      "poetry"
-    ]
-  },
-  {
-    "title_es": "Hiawatha",
-    "title_orig": "The Song of Hiawatha",
-    "title_en": "The Song of Hiawatha",
-    "author": "LONGFELLOW, Henry Wadsworth",
-    "year": 1855,
     "pages": 300,
     "lang": "en",
     "difficulty": 3,
@@ -7414,9 +7264,12 @@
     "country": "US",
     "period": "Romantic",
     "tags": [
-      "native americans",
+      "epic",
+      "myth",
       "mythology",
-      "epic"
+      "native american",
+      "native americans",
+      "poetry"
     ]
   },
   {
@@ -7700,26 +7553,6 @@
     "title_en": "The Woman in White"
   },
   {
-    "title_es": "El molino del Floss",
-    "title_orig": "The Mill on the Floss",
-    "title_en": "The Mill on the Floss",
-    "author": "ELIOT, George (ps. de EVANS, Mary Anne)",
-    "year": 1860,
-    "pages": 600,
-    "lang": "en",
-    "difficulty": 4,
-    "importance": 4,
-    "genre": "novel",
-    "format": "prose",
-    "country": "GB",
-    "period": "Victorian",
-    "tags": [
-      "family",
-      "society",
-      "tragedy"
-    ]
-  },
-  {
     "title_es": "El molino junto al Floss",
     "title_orig": "The Mill on the Floss",
     "author": "ELIOT, George (ps. de EVANS, Mary Anne)",
@@ -7734,8 +7567,8 @@
     "period": "Victorian",
     "tags": [
       "family",
-      "tragedy",
-      "society"
+      "society",
+      "tragedy"
     ],
     "title_en": "The Mill on the Floss"
   },
@@ -9080,26 +8913,6 @@
     ]
   },
   {
-    "title_es": "El retrato de una dama",
-    "title_orig": "The Portrait of a Lady",
-    "title_en": "The Portrait of a Lady",
-    "author": "JAMES, Henry",
-    "year": 1881,
-    "pages": 600,
-    "lang": "en",
-    "difficulty": 4,
-    "importance": 5,
-    "genre": "novel",
-    "format": "prose",
-    "country": "US",
-    "period": "Victorian",
-    "tags": [
-      "society",
-      "psychological",
-      "women"
-    ]
-  },
-  {
     "title_es": "Retrato de una dama",
     "title_orig": "The Portrait of a Lady",
     "author": "JAMES, Henry",
@@ -9760,26 +9573,6 @@
     ]
   },
   {
-    "title_es": "Tres hombres en barca",
-    "title_orig": "Three Men in a Boat",
-    "author": "JEROME, Jerome K.",
-    "year": 1889,
-    "pages": 250,
-    "lang": "en",
-    "difficulty": 2,
-    "importance": 4,
-    "genre": "humor",
-    "format": "prose",
-    "country": "GB",
-    "period": "Modern",
-    "tags": [
-      "travel",
-      "comedy",
-      "river"
-    ],
-    "title_en": "Three Men in a Boat"
-  },
-  {
     "title_es": "Tres hombres en una barca",
     "title_orig": "Three Men in a Boat",
     "title_en": "Three Men in a Boat",
@@ -9794,9 +9587,11 @@
     "country": "GB",
     "period": "Victorian",
     "tags": [
-      "travel",
+      "comedy",
       "friends",
-      "satire"
+      "river",
+      "satire",
+      "travel"
     ]
   },
   {
@@ -12160,26 +11955,6 @@
     "title_en": "The Judgment"
   },
   {
-    "title_es": "Pigmalión",
-    "title_orig": "Pygmalion",
-    "title_en": "Pygmalion",
-    "author": "SHAW, George Bernard",
-    "year": 1913,
-    "pages": 120,
-    "lang": "en",
-    "difficulty": 3,
-    "importance": 4,
-    "genre": "drama",
-    "format": "play",
-    "country": "GB",
-    "period": "Modern",
-    "tags": [
-      "class",
-      "language",
-      "satire"
-    ]
-  },
-  {
     "title_es": "Pygmalión",
     "title_orig": "Pygmalion",
     "title_en": "Pygmalion",
@@ -12196,6 +11971,7 @@
     "tags": [
       "class",
       "language",
+      "satire",
       "theatre"
     ]
   },
@@ -12880,26 +12656,6 @@
     "title_en": "The Enchanted April"
   },
   {
-    "title_es": "La tierra desolada",
-    "title_orig": "The Waste Land",
-    "author": "ELIOT, Thomas Stearns",
-    "year": 1922,
-    "pages": 80,
-    "lang": "en",
-    "difficulty": 5,
-    "importance": 5,
-    "genre": "poetry",
-    "format": "poetry",
-    "country": "GB",
-    "period": "Modern",
-    "tags": [
-      "modernism",
-      "poetry",
-      "fragmentation"
-    ],
-    "title_en": "The Waste Land"
-  },
-  {
     "title_es": "Tierra baldía",
     "title_orig": "The Waste Land",
     "title_en": "The Waste Land",
@@ -12914,9 +12670,10 @@
     "country": "GB",
     "period": "Modern",
     "tags": [
+      "fragmentation",
+      "london",
       "modernism",
-      "poetry",
-      "london"
+      "poetry"
     ]
   },
   {
@@ -13380,26 +13137,6 @@
     "title_en": "Lawrence and the Arabs"
   },
   {
-    "title_es": "Amerika",
-    "title_orig": "Amerika",
-    "title_en": "Amerika",
-    "author": "KAFKA, Franz",
-    "year": 1927,
-    "pages": 300,
-    "lang": "de",
-    "difficulty": 4,
-    "importance": 5,
-    "genre": "novel",
-    "format": "prose",
-    "country": "CZ",
-    "period": "Modern",
-    "tags": [
-      "alienation",
-      "modernism",
-      "kafka"
-    ]
-  },
-  {
     "title_es": "América",
     "title_orig": "Amerika",
     "title_en": "Amerika",
@@ -13414,9 +13151,11 @@
     "country": "CZ",
     "period": "Modern",
     "tags": [
-      "immigration",
+      "alienation",
       "america",
-      "alienation"
+      "immigration",
+      "kafka",
+      "modernism"
     ]
   },
   {
@@ -15462,26 +15201,6 @@
   {
     "title_es": "La canción de Bernadette",
     "title_orig": "Das Lied von Bernadette",
-    "author": "WERFEL, Franz",
-    "year": 1941,
-    "pages": 400,
-    "lang": "de",
-    "difficulty": 3,
-    "importance": 4,
-    "genre": "novel",
-    "format": "prose",
-    "country": "AT",
-    "period": "Modern",
-    "tags": [
-      "religion",
-      "lourdes",
-      "historical"
-    ],
-    "title_en": "The Song of Bernadette"
-  },
-  {
-    "title_es": "La canción de Bernadette. Historia de las Apariciones de la Virgen de Lourdes",
-    "title_orig": "Das Lied von Bernadette",
     "title_en": "The Song of Bernadette",
     "author": "WERFEL, Franz",
     "year": 1941,
@@ -15495,8 +15214,10 @@
     "period": "Modern",
     "tags": [
       "faith",
+      "france",
+      "historical",
       "lourdes",
-      "france"
+      "religion"
     ]
   },
   {
@@ -15842,26 +15563,6 @@
   {
     "title_es": "El principito",
     "title_orig": "Le Petit Prince",
-    "title_en": "The Little Prince",
-    "author": "SAINT-EXUPÉRY, Antoine de",
-    "year": 1943,
-    "pages": 100,
-    "lang": "fr",
-    "difficulty": 2,
-    "importance": 5,
-    "genre": "children",
-    "format": "prose",
-    "country": "FR",
-    "period": "Modern",
-    "tags": [
-      "allegory",
-      "friendship",
-      "children"
-    ]
-  },
-  {
-    "title_es": "El pequeño príncipe",
-    "title_orig": "Le Petit Prince",
     "author": "SAINT-EXUPÉRY, Antoine de",
     "year": 1943,
     "pages": 120,
@@ -15873,9 +15574,10 @@
     "country": "FR",
     "period": "Modern",
     "tags": [
-      "philosophy",
+      "allegory",
       "children",
-      "allegory"
+      "friendship",
+      "philosophy"
     ],
     "title_en": "The Little Prince"
   },
@@ -16040,26 +15742,6 @@
     ]
   },
   {
-    "title_es": "El puente sobre el Drina",
-    "title_orig": "Na Drini ćuprija",
-    "author": "ANDRIC, Ivo",
-    "year": 1945,
-    "pages": 400,
-    "lang": "sr",
-    "difficulty": 4,
-    "importance": 5,
-    "genre": "novel",
-    "format": "prose",
-    "country": "BA",
-    "period": "Modern",
-    "tags": [
-      "bosnia",
-      "history",
-      "bridge"
-    ],
-    "title_en": "The Bridge on the Drina"
-  },
-  {
     "title_es": "Un puente sobre el Drina",
     "title_orig": "Na Drini ćuprija",
     "title_en": "The Bridge on the Drina",
@@ -16075,8 +15757,8 @@
     "period": "Modern",
     "tags": [
       "bosnia",
-      "history",
-      "bridge"
+      "bridge",
+      "history"
     ]
   },
   {
@@ -17419,26 +17101,6 @@
     ]
   },
   {
-    "title_es": "El visconde demediado",
-    "title_orig": "Il visconte dimezzato",
-    "title_en": "The Cloven Viscount",
-    "author": "CALVINO, Italo",
-    "year": 1952,
-    "pages": 120,
-    "lang": "it",
-    "difficulty": 3,
-    "importance": 4,
-    "genre": "novel",
-    "format": "prose",
-    "country": "IT",
-    "period": "Modern",
-    "tags": [
-      "fantasy",
-      "allegory",
-      "italy"
-    ]
-  },
-  {
     "title_es": "El vizconde demediado",
     "title_orig": "Il visconte dimezzato",
     "author": "CALVINO, Italo",
@@ -17452,8 +17114,8 @@
     "country": "IT",
     "period": "Modern",
     "tags": [
-      "fantasy",
       "allegory",
+      "fantasy",
       "italy"
     ],
     "title_en": "The Cloven Viscount"
@@ -17559,26 +17221,6 @@
     ]
   },
   {
-    "title_es": "Jean Santeuil",
-    "title_orig": "Jean Santeuil",
-    "title_en": "Jean Santeuil",
-    "author": "PROUST, Marcel",
-    "year": 1952,
-    "pages": 700,
-    "lang": "fr",
-    "difficulty": 4,
-    "importance": 4,
-    "genre": "novel",
-    "format": "prose",
-    "country": "FR",
-    "period": "Modern",
-    "tags": [
-      "autobiographical",
-      "unfinished",
-      "france"
-    ]
-  },
-  {
     "title_es": "Juan Santeuil",
     "title_orig": "Jean Santeuil",
     "title_en": "Jean Santeuil",
@@ -17595,7 +17237,8 @@
     "tags": [
       "autobiographical",
       "france",
-      "memory"
+      "memory",
+      "unfinished"
     ]
   },
   {
@@ -17619,26 +17262,6 @@
     ]
   },
   {
-    "title_es": "Fahrenheit 451",
-    "title_orig": "Fahrenheit 451",
-    "title_en": "Fahrenheit 451",
-    "author": "BRADBURY, Ray",
-    "year": 1953,
-    "pages": 190,
-    "lang": "en",
-    "difficulty": 3,
-    "importance": 5,
-    "genre": "science fiction",
-    "format": "prose",
-    "country": "US",
-    "period": "Modern",
-    "tags": [
-      "dystopia",
-      "censorship",
-      "books"
-    ]
-  },
-  {
     "title_es": "Farenheit 451",
     "title_orig": "Fahrenheit 451",
     "title_en": "Fahrenheit 451",
@@ -17653,9 +17276,9 @@
     "country": "US",
     "period": "Modern",
     "tags": [
-      "dystopia",
+      "books",
       "censorship",
-      "books"
+      "dystopia"
     ]
   },
   {
@@ -18840,26 +18463,6 @@
   },
   {
     "title_es": "Las pequeñas virtudes",
-    "title_orig": "Le piccole virtù",
-    "title_en": "The Little Virtues",
-    "author": "GINZBURG, Natalia",
-    "year": 1962,
-    "pages": 200,
-    "lang": "it",
-    "difficulty": 3,
-    "importance": 3,
-    "genre": "essay",
-    "format": "prose",
-    "country": "IT",
-    "period": "Modern",
-    "tags": [
-      "essays",
-      "family",
-      "italy"
-    ]
-  },
-  {
-    "title_es": "Le piccole virtù",
     "title_orig": "Le piccole virtù",
     "title_en": "The Little Virtues",
     "author": "GINZBURG, Natalia",
