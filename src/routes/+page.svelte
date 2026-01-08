@@ -1,12 +1,10 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://svelte.dev/docs/kit">svelte.dev/docs/kit</a> to read the documentation</p>
 <svelte:options runes={false} />
 
 <script lang="ts">
-import { base } from '$app/paths';
-import type { Book } from '$lib/data/types';
-import { locale, t, titleFor } from '$lib/i18n';
-import type { PageData } from './$types';
+	import { base } from '$app/paths';
+	import type { Book } from '$lib/data/types';
+	import { locale, t, titleFor } from '$lib/i18n';
+	import type { PageData } from './$types';
 
 	export let data: PageData;
 
@@ -69,7 +67,10 @@ import type { PageData } from './$types';
 	<div class="grid gap-6 md:grid-cols-2">
 		{#each highlightedBooks as book, index (book.slug)}
 			<article class="card relative overflow-hidden">
-				<div class="absolute inset-0 bg-gradient-to-br from-amber-100/50 to-plum/5" style={`animation-delay:${index * 80}ms`}></div>
+				<div
+					class="absolute inset-0 bg-gradient-to-br from-amber-100/50 to-plum/5"
+					style={`animation-delay:${index * 80}ms`}
+				></div>
 				<div class="relative space-y-2">
 					<div class="flex items-center gap-2">
 						<span class="badge bg-ink text-white">{book.genre ?? '—'}</span>
@@ -81,15 +82,15 @@ import type { PageData } from './$types';
 						{/if}
 					</div>
 					<h3 class="font-display text-2xl text-ink">
-						<a href={`${base}/books/${book.slug}/`}>{titleFor(book, $locale)}</a>
+						<a class="hover:underline decoration-amber underline-offset-4" href={`${base}/books/${book.slug}/`}>
+							{titleFor(book, $locale)}
+						</a>
 					</h3>
 					<p class="text-ink/80">{book.author}</p>
 					<p class="text-sm text-ink/70">{bookSummary(book)}</p>
-					<a
-						class="inline-flex items-center gap-2 text-sm font-semibold text-ink underline decoration-amber underline-offset-4"
-						href={`${base}/books/${book.slug}/`}
-						>{$t('read_more')}</a
-					>
+					<a class="link inline-flex items-center gap-2 text-sm" href={`${base}/books/${book.slug}/`}>
+						{$t('read_more')}
+					</a>
 				</div>
 			</article>
 		{/each}
@@ -109,7 +110,9 @@ import type { PageData } from './$types';
 			<article class="card flex flex-col gap-2">
 				<div class="flex items-center justify-between">
 					<h3 class="font-display text-xl text-ink">
-						<a href={`${base}/authors/${author.slug}/`}>{author.name}</a>
+						<a class="hover:underline decoration-amber underline-offset-4" href={`${base}/authors/${author.slug}/`}>
+							{author.name}
+						</a>
 					</h3>
 					<span class="badge bg-amber text-ink">{author.bookCount} {$t('books')}</span>
 				</div>
@@ -118,11 +121,9 @@ import type { PageData } from './$types';
 					{#if author.death_year} — {author.death_year}{/if}
 					{#if author.country} • {author.country}{/if}
 				</p>
-				<a
-					class="inline-flex items-center gap-2 text-sm font-semibold text-ink underline decoration-amber underline-offset-4"
-					href={`/authors/${author.slug}/`}
-					>{$t('read_more')}</a
-				>
+				<a class="link inline-flex items-center gap-2 text-sm" href={`/authors/${author.slug}/`}>
+					{$t('read_more')}
+				</a>
 			</article>
 		{/each}
 	</div>

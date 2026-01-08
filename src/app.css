@@ -14,7 +14,15 @@ body {
 }
 
 a {
-	@apply text-ink/80 underline underline-offset-4 decoration-amber hover:text-ink;
+	@apply text-ink/80 no-underline hover:text-ink hover:underline hover:decoration-amber hover:underline-offset-4;
+}
+
+.link {
+	@apply underline underline-offset-4 decoration-amber font-semibold text-ink;
+}
+
+.nav-link {
+	@apply no-underline hover:no-underline focus:no-underline decoration-transparent;
 }
 
 .glass {

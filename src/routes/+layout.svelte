@@ -14,6 +14,8 @@
 			document.documentElement.lang = $locale;
 		}
 	}
+
+	const isActive = (path: string) => $page.url.pathname === path || $page.url.pathname.startsWith(path + '/');
 </script>
 
 <svelte:head>
@@ -24,7 +26,7 @@
 <div class="min-h-screen">
 	<header class="sticky top-0 z-20 backdrop-blur bg-white/70 border-b border-white/60">
 		<div class="mx-auto flex max-w-6xl items-center justify-between px-6 py-4">
-			<a class="flex items-center gap-3 text-lg font-display tracking-tight" href={base + '/'}>
+			<a class="nav-link flex items-center gap-3 text-lg font-display tracking-tight" href={base + '/'}>
 				<div class="h-10 w-10 rounded-xl bg-gradient-to-br from-amber-300 to-plum flex items-center justify-center text-ink font-bold shadow-soft">
 					H
 				</div>
@@ -34,9 +36,9 @@
 				</div>
 			</a>
 			<nav class="flex items-center gap-5 text-sm font-semibold uppercase tracking-[0.08em]">
-				<a class={`pb-1 border-b-2 ${$page.url.pathname === base + '/' ? 'border-ink' : 'border-transparent'}`} href={base + '/'}>{$t('nav_home')}</a>
-				<a class={`pb-1 border-b-2 ${$page.url.pathname.startsWith(base + '/books') ? 'border-ink' : 'border-transparent'}`} href={base + '/books/'}>{$t('nav_books')}</a>
-				<a class={`pb-1 border-b-2 ${$page.url.pathname.startsWith(base + '/authors') ? 'border-ink' : 'border-transparent'}`} href={base + '/authors/'}>{$t('nav_authors')}</a>
+				<a class={`nav-link pb-1 border-b-2 ${isActive(base + '/') ? 'border-ink' : 'border-transparent hover:border-amber'}`} href={base + '/'}>{$t('nav_home')}</a>
+				<a class={`nav-link pb-1 border-b-2 ${isActive(base + '/books') ? 'border-ink' : 'border-transparent hover:border-amber'}`} href={base + '/books/'}>{$t('nav_books')}</a>
+				<a class={`nav-link pb-1 border-b-2 ${isActive(base + '/authors') ? 'border-ink' : 'border-transparent hover:border-amber'}`} href={base + '/authors/'}>{$t('nav_authors')}</a>
 				<button
 					type="button"
 					class="ml-4 rounded-full border border-ink/20 bg-ink text-white px-4 py-2 text-xs font-semibold shadow-soft hover:-translate-y-[1px] transition"

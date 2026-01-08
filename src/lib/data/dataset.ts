@@ -23,19 +23,35 @@ const countValues = (values: (string | null | undefined)[], limit: number): Coun
 	return [...counts.entries()]
 		.sort((a, b) => b[1] - a[1])
 		.slice(0, limit)
-		.map(([value, count]) => ({ value, count }));
+	.map(([value, count]) => ({ value, count }));
+};
+
+const makeUniqueSlug = (base: string, seen: Map<string, number>): string => {
+	const current = seen.get(base) ?? 0;
+	if (current === 0) {
+		seen.set(base, 1);
+		return base;
+	}
+	const next = current + 1;
+	seen.set(base, next);
+	return `${base}-${next}`;
 };
 
 const buildDataset = (): Dataset & { index: Index } => {
-	const authors: Author[] = authorsRaw.map((author) => ({
-		name: author.name,
-		alias: author.alias ?? null,
-		birth_year: author.birth_year ?? null,
-		death_year: author.death_year ?? null,
-		country: author.country ?? null,
-		slug: slugify(author.name),
-		bookCount: 0
-	}));
+	const slugRegistry = new Map<string, number>();
+	const authors: Author[] = authorsRaw.map((author) => {
+		const baseSlug = slugify(author.name);
+		const slug = makeUniqueSlug(baseSlug, slugRegistry);
+		return {
+			name: author.name,
+			alias: author.alias ?? null,
+			birth_year: author.birth_year ?? null,
+			death_year: author.death_year ?? null,
+			country: author.country ?? null,
+			slug,
+			bookCount: 0
+		};
+	});
 
 	const authorsBySlug = new Map<string, Author>();
 	const authorsByName = new Map<string, Author>();
@@ -50,7 +66,8 @@ const buildDataset = (): Dataset & { index: Index } => {
 	const books: Book[] = booksRaw.map((book) => {
 		const match = authorsByName.get(normalize(book.author));
 		const tags = Array.isArray(book.tags) ? book.tags : [];
-		const slug = slugify(book.title_es);
+		const baseSlug = slugify(book.title_es);
+		const slug = makeUniqueSlug(baseSlug, slugRegistry);
 
 		if (match) {
 			match.bookCount += 1;

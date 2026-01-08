@@ -8530,26 +8530,6 @@
     ]
   },
   {
-    "title_es": "Tom Sawyer",
-    "title_en": "The Adventures of Tom Sawyer",
-    "title_orig": "The Adventures of Tom Sawyer",
-    "author": "TWAIN, Mark",
-    "year": 1876,
-    "pages": 300,
-    "lang": "en",
-    "difficulty": 2,
-    "importance": 5,
-    "genre": "novel",
-    "format": "prose",
-    "country": "US",
-    "period": "Realism",
-    "tags": [
-      "adventure",
-      "childhood",
-      "america"
-    ]
-  },
-  {
     "title_es": "Michel Strogoff",
     "title_en": "Michael Strogoff",
     "title_orig": "Michel Strogoff",
