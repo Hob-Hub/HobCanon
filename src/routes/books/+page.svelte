@@ -199,27 +199,55 @@ import type { PageData } from './$types';
 	{#if filtered.length === 0}
 		<div class="card text-center text-ink/70">{$t('empty_state')}</div>
 	{:else}
-		<div class="grid gap-4">
+		<div class="grid gap-3">
 			{#each filtered as book (book.slug)}
-				<article class="card grid gap-2 md:grid-cols-[auto,1fr,auto] md:items-center">
-					<div class="flex flex-wrap gap-2">
-						{#if book.genre}<span class="badge bg-ink text-white">{book.genre}</span>{/if}
-						{#if book.tags.length}
-							<span class="badge bg-amber text-ink">{book.tags.slice(0, 2).join(' · ')}</span>
-						{/if}
+				<article class="card flex flex-col gap-3">
+					<div class="flex flex-col gap-1 md:flex-row md:items-center md:justify-between">
+						<div>
+							<h2 class="font-display text-2xl text-ink">
+								<a class="hover:underline decoration-amber underline-offset-4" href={`${base}/books/${book.slug}/`}>
+									{titleFor(book, $locale)}
+								</a>
+							</h2>
+							<p class="text-sm text-ink/70 uppercase tracking-[0.12em]">{book.author}</p>
+						</div>
+						<div class="flex flex-wrap gap-2">
+							{#if book.format}
+								<span class="badge badge-amber">{book.format}</span>
+							{/if}
+							{#if book.importance}
+								<span class="badge badge-sand">★ {book.importance}</span>
+							{/if}
+							{#if book.difficulty}
+								<span class="badge badge-sand">✦ {book.difficulty}</span>
+							{/if}
+						</div>
 					</div>
-					<div class="space-y-1">
-						<h2 class="font-display text-2xl text-ink">
-							<a href={`${base}/books/${book.slug}/`}>{titleFor(book, $locale)}</a>
-						</h2>
-						<p class="text-ink/80">{book.author}</p>
-						<p class="text-sm text-ink/60">
-							{book.year ?? '—'} {book.lang ? ` • ${book.lang.toUpperCase()}` : ''} {book.country ? ` • ${book.country}` : ''}
-						</p>
+					<div class="grid gap-3 text-sm text-ink/80 md:grid-cols-[repeat(5,1fr)_auto] md:items-center">
+						<div>
+							<div class="text-[11px] uppercase tracking-[0.14em] text-ink/50">{$t('genre')}</div>
+							<div class="font-semibold text-ink">{book.genre ?? '—'}</div>
+						</div>
+						<div>
+							<div class="text-[11px] uppercase tracking-[0.14em] text-ink/50">{$t('year_range')}</div>
+							<div class="font-semibold text-ink">{book.year ?? '—'}</div>
+						</div>
+						<div>
+							<div class="text-[11px] uppercase tracking-[0.14em] text-ink/50">{$t('language')}</div>
+							<div class="font-semibold text-ink">{book.lang?.toUpperCase() ?? '—'}</div>
+						</div>
+						<div>
+							<div class="text-[11px] uppercase tracking-[0.14em] text-ink/50">{$t('country')}</div>
+							<div class="font-semibold text-ink">{book.country ?? '—'}</div>
+						</div>
+						<div>
+							<div class="text-[11px] uppercase tracking-[0.14em] text-ink/50">{$t('period')}</div>
+							<div class="font-semibold text-ink">{book.period ?? '—'}</div>
+						</div>
+						<a class="badge bg-ink text-white justify-self-start md:justify-self-end" href={`${base}/books/${book.slug}/`}>
+							{$t('see_book')}
+						</a>
 					</div>
-					<a class="badge bg-ink text-white justify-self-end" href={`${base}/books/${book.slug}/`}>
-						{$t('see_book')}
-					</a>
 				</article>
 			{/each}
 		</div>

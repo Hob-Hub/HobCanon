@@ -15,7 +15,12 @@
 		}
 	}
 
-	const isActive = (path: string) => $page.url.pathname === path || $page.url.pathname.startsWith(path + '/');
+	const normalizePath = (path: string) => {
+		const stripped = path.replace(/\/+$/, '');
+		return stripped === '' ? '/' : stripped;
+	};
+
+	const isActive = (_path: string) => false;
 </script>
 
 <svelte:head>
@@ -35,10 +40,21 @@
 					<div class="text-sm text-ink/70">{$t('tagline')}</div>
 				</div>
 			</a>
-			<nav class="flex items-center gap-5 text-sm font-semibold uppercase tracking-[0.08em]">
-				<a class={`nav-link pb-1 border-b-2 ${isActive(base + '/') ? 'border-ink' : 'border-transparent hover:border-amber'}`} href={base + '/'}>{$t('nav_home')}</a>
-				<a class={`nav-link pb-1 border-b-2 ${isActive(base + '/books') ? 'border-ink' : 'border-transparent hover:border-amber'}`} href={base + '/books/'}>{$t('nav_books')}</a>
-				<a class={`nav-link pb-1 border-b-2 ${isActive(base + '/authors') ? 'border-ink' : 'border-transparent hover:border-amber'}`} href={base + '/authors/'}>{$t('nav_authors')}</a>
+			<nav class="flex items-center gap-5 text-sm uppercase tracking-[0.08em]">
+				<a
+					class="nav-link pb-1"
+					href={base + '/books'}
+					aria-current={isActive(base + '/books') ? 'page' : undefined}
+				>
+					{$t('nav_books')}
+				</a>
+				<a
+					class="nav-link pb-1"
+					href={base + '/authors'}
+					aria-current={isActive(base + '/authors') ? 'page' : undefined}
+				>
+					{$t('nav_authors')}
+				</a>
 				<button
 					type="button"
 					class="ml-4 rounded-full border border-ink/20 bg-ink text-white px-4 py-2 text-xs font-semibold shadow-soft hover:-translate-y-[1px] transition"
