@@ -55,7 +55,8 @@
       },
       "format": {
         "type": ["string", "null"],
-        "description": "Format (e.g. novel, poetry, essay, play)."
+        "description": "Literary form (structure), not genre.",
+        "enum": ["prose", "poetry", "play", null]
       },
       "country": {
         "type": ["string", "null"],
