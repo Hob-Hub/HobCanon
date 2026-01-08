@@ -1,0 +1,55 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "AUTHORS_DB",
+  "description": "Schema for the authors database.",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "additionalProperties": false,
+    "properties": {
+      "name": {
+        "type": "string",
+        "description": "Author name."
+      },
+      "alias": {
+        "type": [
+          "string",
+          "null"
+        ],
+        "description": "Known aliases or pseudonyms."
+      },
+      "birth_year": {
+        "type": [
+          "integer",
+          "null"
+        ],
+        "description": "Birth year (approximate if unknown; use negative for BC)."
+      },
+      "death_year": {
+        "type": [
+          "integer",
+          "null"
+        ],
+        "description": "Death year (null if unknown or living; use negative for BC)."
+      },
+      "country": {
+        "type": [
+          "string",
+          "null"
+        ],
+        "description": "Country of origin (ISO 3166-1 alpha-2, uppercase).",
+        "pattern": "^[A-Z]{2}$",
+        "examples": [
+          "ES",
+          "FR",
+          "US",
+          "GB",
+          "DE"
+        ]
+      }
+    },
+    "required": [
+      "name"
+    ]
+  }
+}
