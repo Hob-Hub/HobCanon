@@ -1,17 +1,10 @@
 <svelte:options runes={false} />
 
 <script lang="ts">
-import { base } from '$app/paths';
-	import {
-		flagForLanguage,
-		flagFromCountry,
-		formatCountryName,
-		formatLanguageName,
-		locale,
-		t,
-		titleFor
-	} from '$lib/i18n';
-import type { PageData } from './$types';
+	import { base } from '$app/paths';
+import BookCard from '$lib/components/BookCard.svelte';
+import { formatCountryName, formatLanguageName, locale, t, titleFor } from '$lib/i18n';
+	import type { PageData } from './$types';
 
 	export let data: PageData;
 
@@ -209,68 +202,7 @@ import type { PageData } from './$types';
 	{:else}
 		<div class="grid gap-3">
 			{#each filtered as book (book.slug)}
-				<article class="card flex flex-col gap-3">
-					<div class="flex flex-col gap-1 md:flex-row md:items-center md:justify-between">
-						<div>
-							<h2 class="font-display text-2xl text-ink">
-								<a class="hover:underline decoration-amber underline-offset-4" href={`${base}/books/${book.slug}/`}>
-									{titleFor(book, $locale)}
-								</a>
-							</h2>
-							<p class="text-sm text-ink/70 uppercase tracking-[0.12em]">{book.author}</p>
-						</div>
-						<div class="flex flex-wrap gap-2">
-							{#if book.format}
-								<span class="badge badge-amber">{book.format}</span>
-							{/if}
-							{#if book.importance}
-								<span class="badge badge-sand">★ {book.importance}</span>
-							{/if}
-							{#if book.difficulty}
-								<span class="badge badge-sand">✦ {book.difficulty}</span>
-							{/if}
-						</div>
-					</div>
-					<div class="grid gap-3 text-sm text-ink/80 md:grid-cols-[repeat(5,1fr)_auto] md:items-center">
-						<div>
-							<div class="text-[11px] uppercase tracking-[0.14em] text-ink/50">{$t('genre')}</div>
-							<div class="font-semibold text-ink">{book.genre ?? '—'}</div>
-						</div>
-						<div>
-							<div class="text-[11px] uppercase tracking-[0.14em] text-ink/50">{$t('year_range')}</div>
-							<div class="font-semibold text-ink">{book.year ?? '—'}</div>
-						</div>
-						<div>
-							<div class="text-[11px] uppercase tracking-[0.14em] text-ink/50">{$t('language')}</div>
-							<div class="font-semibold text-ink">
-								{#if book.lang}
-									<span class="flag">{flagForLanguage(book.lang)}</span>
-									&nbsp;{formatLanguageName(book.lang, $locale)}
-								{:else}
-									—
-								{/if}
-							</div>
-						</div>
-						<div>
-							<div class="text-[11px] uppercase tracking-[0.14em] text-ink/50">{$t('country')}</div>
-							<div class="font-semibold text-ink">
-								{#if book.country}
-									<span class="flag">{flagFromCountry(book.country)}</span>
-									&nbsp;{formatCountryName(book.country, $locale)}
-								{:else}
-									—
-								{/if}
-							</div>
-						</div>
-						<div>
-							<div class="text-[11px] uppercase tracking-[0.14em] text-ink/50">{$t('period')}</div>
-							<div class="font-semibold text-ink">{book.period ?? '—'}</div>
-						</div>
-						<a class="badge bg-ink text-white justify-self-start md:justify-self-end" href={`${base}/books/${book.slug}/`}>
-							{$t('see_book')}
-						</a>
-					</div>
-				</article>
+				<BookCard {book} />
 			{/each}
 		</div>
 	{/if}

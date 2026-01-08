@@ -2,7 +2,8 @@
 
 <script lang="ts">
 	import { base } from '$app/paths';
-import { flagFromCountry, formatCountryName, locale, t, titleFor } from '$lib/i18n';
+	import BookCard from '$lib/components/BookCard.svelte';
+	import { flagFromCountry, formatCountryName, locale, t } from '$lib/i18n';
 	import type { PageData } from './$types';
 
 	export let data: PageData;
@@ -58,26 +59,7 @@ import { flagFromCountry, formatCountryName, locale, t, titleFor } from '$lib/i1
 		{:else}
 			<div class="grid gap-3">
 				{#each data.books as book (book.slug)}
-					<article class="card grid gap-2 md:grid-cols-[1fr,auto] md:items-center">
-						<div class="space-y-1">
-							<h3 class="font-display text-xl text-ink">
-								<a href={`${base}/books/${book.slug}/`}>{titleFor(book, $locale)}</a>
-							</h3>
-							<p class="text-sm text-ink/70">
-								{book.year ?? 'N/A'} {book.genre ? ` • ${book.genre}` : ''} {book.lang ? ` • ${book.lang.toUpperCase()}` : ''}
-							</p>
-							{#if book.tags.length}
-								<div class="flex flex-wrap gap-2">
-									{#each book.tags.slice(0, 3) as tag}
-										<span class="badge bg-ink text-white">{tag}</span>
-									{/each}
-								</div>
-							{/if}
-						</div>
-						<a class="badge bg-ink text-white justify-self-end" href={`${base}/books/${book.slug}/`}>
-							{$t('see_book')}
-						</a>
-					</article>
+					<BookCard {book} />
 				{/each}
 			</div>
 		{/if}
