@@ -55,6 +55,13 @@
 				>
 					{$t('nav_authors')}
 				</a>
+				<a
+					class="nav-link pb-1"
+					href={base + '/stats'}
+					aria-current={isActive(base + '/stats') ? 'page' : undefined}
+				>
+					Stats
+				</a>
 				<button
 					type="button"
 					class="ml-4 rounded-full border border-ink/20 bg-ink text-white px-4 py-2 text-xs font-semibold shadow-soft hover:-translate-y-[1px] transition"
