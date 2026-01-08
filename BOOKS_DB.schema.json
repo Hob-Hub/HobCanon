@@ -70,9 +70,10 @@
       },
       "tags": {
         "type": "array",
-        "description": "Content tags about what the book is about.",
+        "description": "Content tags; lowercase, singular, hyphen-separated words (e.g. coming-of-age, new-york).",
         "items": {
-          "type": "string"
+          "type": "string",
+          "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
         },
         "default": []
       }

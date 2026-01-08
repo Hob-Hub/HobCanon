@@ -14,9 +14,9 @@
     "country": "GR",
     "period": "Archaic Greece",
     "tags": [
-      "trojan war",
+      "trojan-war",
       "heroism",
-      "mythology"
+      "myth"
     ]
   },
   {
@@ -35,7 +35,7 @@
     "period": "Archaic Greece",
     "tags": [
       "journey",
-      "mythology",
+      "myth",
       "homecoming"
     ]
   },
@@ -56,7 +56,7 @@
     "tags": [
       "agriculture",
       "ethics",
-      "mythology"
+      "myth"
     ]
   },
   {
@@ -114,7 +114,7 @@
     "country": "GR",
     "period": "Classical Greece",
     "tags": [
-      "house of atreus",
+      "house-of-atreus",
       "revenge",
       "justice"
     ]
@@ -134,7 +134,7 @@
     "country": "GR",
     "period": "Classical Greece",
     "tags": [
-      "mythology",
+      "myth",
       "rebellion",
       "gods"
     ]
@@ -176,7 +176,7 @@
     "tags": [
       "betrayal",
       "revenge",
-      "mythology"
+      "myth"
     ]
   },
   {
@@ -236,7 +236,7 @@
     "tags": [
       "revenge",
       "family",
-      "mythology"
+      "myth"
     ]
   },
   {
@@ -395,7 +395,7 @@
     "period": "Classical Greece",
     "tags": [
       "ethics",
-      "character studies",
+      "character-studies",
       "satire"
     ]
   },
@@ -417,7 +417,6 @@
       "heroes",
       "jason",
       "myth",
-      "mythology",
       "quest",
       "voyage"
     ]
@@ -437,7 +436,7 @@
     "country": "GR",
     "period": "Hellenistic",
     "tags": [
-      "mythology",
+      "myth",
       "religion",
       "praise"
     ]
@@ -456,7 +455,7 @@
     "country": "IT",
     "period": "Roman Republic",
     "tags": [
-      "romantic comedy",
+      "romantic-comedy",
       "family",
       "identity"
     ],
@@ -478,7 +477,7 @@
     "tags": [
       "military",
       "gaul",
-      "roman republic"
+      "roman-republic"
     ],
     "title_en": "Commentaries on the Gallic War"
   },
@@ -597,7 +596,7 @@
     "period": "Roman Republic",
     "tags": [
       "war",
-      "north africa",
+      "north-africa",
       "rome"
     ],
     "title_en": "The Jugurthine War"
@@ -697,7 +696,7 @@
     "period": "Roman Empire",
     "tags": [
       "poetics",
-      "literary theory",
+      "literary-theory",
       "poetry"
     ],
     "title_en": "Ars Poetica"
@@ -716,7 +715,7 @@
     "country": "IT",
     "period": "Roman Empire",
     "tags": [
-      "mythology",
+      "myth",
       "rome",
       "founding"
     ],
@@ -736,7 +735,7 @@
     "country": "IT",
     "period": "Roman Empire",
     "tags": [
-      "mythology",
+      "myth",
       "transformation",
       "gods"
     ],
@@ -777,9 +776,9 @@
     "country": "IT",
     "period": "Roman Empire",
     "tags": [
-      "mythology",
+      "myth",
       "stoicism",
-      "roman drama"
+      "roman-drama"
     ]
   },
   {
@@ -816,7 +815,7 @@
     "country": "IT",
     "period": "Roman Empire",
     "tags": [
-      "civil war",
+      "civil-war",
       "rome",
       "history"
     ],
@@ -857,7 +856,7 @@
     "period": "Roman Empire",
     "tags": [
       "society",
-      "moral critique",
+      "moral-critique",
       "rome"
     ],
     "title_en": "Satires"
@@ -1058,7 +1057,7 @@
     "period": "Medieval",
     "tags": [
       "byzantium",
-      "courtly love",
+      "courtly-love",
       "chivalry"
     ]
   },
@@ -1098,7 +1097,7 @@
     "tags": [
       "arthurian",
       "chivalry",
-      "courtly love",
+      "courtly-love",
       "knights"
     ],
     "title_en": "Lancelot, the Knight of the Cart"
@@ -1218,7 +1217,7 @@
     "country": "DE",
     "period": "Medieval",
     "tags": [
-      "courtly love",
+      "courtly-love",
       "song",
       "medieval"
     ]
@@ -1298,7 +1297,7 @@
     "period": "Medieval",
     "tags": [
       "norse",
-      "mythology",
+      "myth",
       "poetics"
     ],
     "title_en": "Prose Edda"
@@ -1458,7 +1457,7 @@
     "period": "Medieval",
     "tags": [
       "love",
-      "dolce stil novo",
+      "dolce-stil-novo",
       "lyric"
     ],
     "title_en": "Poems"
@@ -1677,7 +1676,7 @@
     "country": "GB",
     "period": "Medieval",
     "tags": [
-      "dream vision",
+      "dream-vision",
       "loss",
       "religion"
     ],
@@ -1820,7 +1819,7 @@
     "tags": [
       "elegy",
       "death",
-      "memento mori"
+      "memento-mori"
     ]
   },
   {
@@ -1839,7 +1838,7 @@
     "period": "Renaissance",
     "tags": [
       "renaissance",
-      "mythology",
+      "myth",
       "lyric"
     ]
   },
@@ -1940,7 +1939,7 @@
     "tags": [
       "pastoral",
       "romance",
-      "theatre"
+      "theater"
     ]
   },
   {
@@ -2120,7 +2119,7 @@
     "tags": [
       "survival",
       "exploration",
-      "new world"
+      "new-world"
     ]
   },
   {
@@ -2319,7 +2318,7 @@
     "tags": [
       "exploration",
       "portugal",
-      "mythology"
+      "myth"
     ],
     "title_en": "The Lusiads"
   },
@@ -2700,7 +2699,7 @@
     "tags": [
       "morality",
       "religion",
-      "theatre"
+      "theater"
     ]
   },
   {
@@ -2740,7 +2739,7 @@
     "tags": [
       "satire",
       "greed",
-      "theatre"
+      "theater"
     ]
   },
   {
@@ -2798,7 +2797,7 @@
     "country": "ES",
     "period": "Early Modern",
     "tags": [
-      "mythology",
+      "myth",
       "baroque",
       "epyllion"
     ]
@@ -2819,7 +2818,7 @@
     "period": "Early Modern",
     "tags": [
       "religion",
-      "theatre",
+      "theater",
       "miracle"
     ]
   },
@@ -2878,8 +2877,8 @@
     "country": "ES",
     "period": "Early Modern",
     "tags": [
-      "theatre",
-      "romantic comedy",
+      "theater",
+      "romantic-comedy",
       "intrigue"
     ]
   },
@@ -2900,7 +2899,7 @@
     "tags": [
       "novel",
       "drama",
-      "short stories"
+      "short-story"
     ]
   },
   {
@@ -2918,7 +2917,7 @@
     "country": "ES",
     "period": "Early Modern",
     "tags": [
-      "theatre",
+      "theater",
       "crossdressing",
       "intrigue"
     ]
@@ -2940,7 +2939,7 @@
     "tags": [
       "cid",
       "honor",
-      "theatre"
+      "theater"
     ]
   },
   {
@@ -3000,7 +2999,7 @@
     "tags": [
       "drama",
       "poetry",
-      "theatre"
+      "theater"
     ]
   },
   {
@@ -3019,7 +3018,7 @@
     "tags": [
       "poetics",
       "theory",
-      "german"
+      "germany"
     ],
     "title_en": "Book on German Poetics"
   },
@@ -3078,8 +3077,8 @@
     "country": "ES",
     "period": "Early Modern",
     "tags": [
-      "don juan",
-      "theatre",
+      "don-juan",
+      "theater",
       "tragedy"
     ]
   },
@@ -3138,8 +3137,8 @@
     "period": "Early Modern",
     "tags": [
       "folklore",
-      "fairy tales",
-      "stories"
+      "fairy-tale",
+      "story"
     ],
     "title_en": "The Tale of Tales"
   },
@@ -3159,7 +3158,7 @@
     "period": "Early Modern",
     "tags": [
       "deception",
-      "theatre",
+      "theater",
       "comedy"
     ]
   },
@@ -3180,7 +3179,7 @@
     "tags": [
       "history",
       "tragedy",
-      "theatre"
+      "theater"
     ]
   },
   {
@@ -3198,7 +3197,7 @@
     "country": "ES",
     "period": "Early Modern",
     "tags": [
-      "free will",
+      "free-will",
       "honor",
       "spain"
     ]
@@ -3239,7 +3238,7 @@
     "period": "Early Modern",
     "tags": [
       "honor",
-      "theatre",
+      "theater",
       "drama"
     ]
   },
@@ -3259,7 +3258,7 @@
     "tags": [
       "honor",
       "tragedy",
-      "theatre"
+      "theater"
     ],
     "title_en": "The Cid"
   },
@@ -3279,7 +3278,7 @@
     "period": "Early Modern",
     "tags": [
       "satire",
-      "theatre",
+      "theater",
       "comedy"
     ]
   },
@@ -3299,7 +3298,7 @@
     "tags": [
       "rome",
       "honor",
-      "theatre"
+      "theater"
     ],
     "title_en": "Horace"
   },
@@ -3339,7 +3338,7 @@
     "period": "Early Modern",
     "tags": [
       "jealousy",
-      "theatre",
+      "theater",
       "comedy"
     ]
   },
@@ -3360,7 +3359,7 @@
     "tags": [
       "rome",
       "politics",
-      "theatre"
+      "theater"
     ]
   },
   {
@@ -3399,7 +3398,7 @@
     "tags": [
       "religion",
       "martyr",
-      "theatre"
+      "theater"
     ],
     "title_en": "Polyeucte"
   },
@@ -3560,7 +3559,7 @@
     "tags": [
       "comedy",
       "honor",
-      "theatre"
+      "theater"
     ]
   },
   {
@@ -3600,7 +3599,7 @@
     "tags": [
       "tragedy",
       "love",
-      "theatre"
+      "theater"
     ]
   },
   {
@@ -3637,7 +3636,7 @@
     "country": "FR",
     "period": "Early Modern",
     "tags": [
-      "theatre",
+      "theater",
       "marriage",
       "comedy"
     ],
@@ -3659,7 +3658,7 @@
     "period": "Early Modern",
     "tags": [
       "comedy",
-      "theatre",
+      "theater",
       "satire"
     ]
   },
@@ -3679,7 +3678,7 @@
     "tags": [
       "satire",
       "society",
-      "theatre"
+      "theater"
     ],
     "title_en": "The Misanthrope"
   },
@@ -3698,9 +3697,9 @@
     "country": "FR",
     "period": "Early Modern",
     "tags": [
-      "mythology",
+      "myth",
       "tragedy",
-      "theatre"
+      "theater"
     ]
   },
   {
@@ -3759,7 +3758,7 @@
     "tags": [
       "satire",
       "greed",
-      "theatre"
+      "theater"
     ],
     "title_en": "The Miser"
   },
@@ -3780,7 +3779,7 @@
     "tags": [
       "rome",
       "tragedy",
-      "theatre"
+      "theater"
     ]
   },
   {
@@ -3799,7 +3798,7 @@
     "tags": [
       "satire",
       "medicine",
-      "theatre"
+      "theater"
     ],
     "title_en": "The Imaginary Invalid"
   },
@@ -3818,9 +3817,9 @@
     "country": "FR",
     "period": "Early Modern",
     "tags": [
-      "mythology",
+      "myth",
       "tragedy",
-      "theatre"
+      "theater"
     ]
   },
   {
@@ -3839,7 +3838,7 @@
     "tags": [
       "court",
       "love",
-      "psychological"
+      "psychology"
     ],
     "title_en": "The Princess of Cleves"
   },
@@ -3919,7 +3918,7 @@
     "period": "Early Modern",
     "tags": [
       "baroque",
-      "dream vision",
+      "dream-vision",
       "philosophy"
     ]
   },
@@ -3938,7 +3937,7 @@
     "country": "FR",
     "period": "Early Modern",
     "tags": [
-      "fairy tales",
+      "fairy-tale",
       "folklore",
       "children"
     ]
@@ -4079,7 +4078,7 @@
     "tags": [
       "poetics",
       "theory",
-      "german"
+      "germany"
     ],
     "title_en": "Essay on German Poetics"
   },
@@ -4098,7 +4097,7 @@
     "period": "Enlightenment",
     "tags": [
       "love",
-      "theatre",
+      "theater",
       "comedy"
     ],
     "title_en": "The Game of Love and Chance"
@@ -4118,7 +4117,7 @@
     "period": "Enlightenment",
     "tags": [
       "love",
-      "theatre",
+      "theater",
       "comedy"
     ],
     "title_en": "The False Confidences"
@@ -4157,7 +4156,7 @@
     "country": "DE",
     "period": "Enlightenment",
     "tags": [
-      "theatre",
+      "theater",
       "germany",
       "criticism"
     ],
@@ -4179,7 +4178,7 @@
     "tags": [
       "epistolary",
       "morality",
-      "psychological"
+      "psychology"
     ],
     "title_en": "Clarissa"
   },
@@ -4197,7 +4196,7 @@
     "country": "FR",
     "period": "Enlightenment",
     "tags": [
-      "fairy tale",
+      "fairy-tale",
       "folklore",
       "children"
     ],
@@ -4219,7 +4218,7 @@
     "period": "Enlightenment",
     "tags": [
       "comedy",
-      "theatre",
+      "theater",
       "italy"
     ]
   },
@@ -4340,7 +4339,7 @@
     "tags": [
       "history",
       "knights",
-      "theatre"
+      "theater"
     ]
   },
   {
@@ -4379,7 +4378,7 @@
     "tags": [
       "tragedy",
       "honor",
-      "theatre"
+      "theater"
     ],
     "title_en": "Clavigo"
   },
@@ -4418,7 +4417,7 @@
     "period": "Enlightenment",
     "tags": [
       "satire",
-      "theatre",
+      "theater",
       "intrigue"
     ],
     "title_en": "The Barber of Seville"
@@ -4438,7 +4437,7 @@
     "period": "Enlightenment",
     "tags": [
       "comedy",
-      "theatre",
+      "theater",
       "manners"
     ],
     "title_en": "The Rivals"
@@ -4459,7 +4458,7 @@
     "tags": [
       "satire",
       "society",
-      "theatre"
+      "theater"
     ],
     "title_en": "The School for Scandal"
   },
@@ -4479,7 +4478,7 @@
     "period": "Enlightenment",
     "tags": [
       "tragedy",
-      "theatre",
+      "theater",
       "honor"
     ]
   },
@@ -4499,7 +4498,7 @@
     "tags": [
       "rebellion",
       "family",
-      "theatre"
+      "theater"
     ],
     "title_en": "The Robbers"
   },
@@ -4519,7 +4518,7 @@
     "tags": [
       "satire",
       "class",
-      "theatre"
+      "theater"
     ],
     "title_en": "The Marriage of Figaro"
   },
@@ -4537,9 +4536,9 @@
     "country": "DE",
     "period": "Enlightenment",
     "tags": [
-      "mythology",
+      "myth",
       "humanism",
-      "theatre"
+      "theater"
     ],
     "title_en": "Iphigenia in Tauris"
   },
@@ -4618,7 +4617,7 @@
     "country": "ES",
     "period": "Enlightenment",
     "tags": [
-      "theatre",
+      "theater",
       "satire",
       "criticism"
     ]
@@ -4699,7 +4698,7 @@
     "period": "Romantic",
     "tags": [
       "bildungsroman",
-      "theatre",
+      "theater",
       "self-discovery"
     ]
   },
@@ -4720,7 +4719,7 @@
     "tags": [
       "satire",
       "identity",
-      "german"
+      "germany"
     ]
   },
   {
@@ -4780,7 +4779,7 @@
     "tags": [
       "ballads",
       "lyric",
-      "german"
+      "germany"
     ]
   },
   {
@@ -4797,8 +4796,8 @@
     "country": "DE",
     "period": "Romantic",
     "tags": [
-      "fairy tale",
-      "theatre",
+      "fairy-tale",
+      "theater",
       "satire"
     ],
     "title_en": "Puss in Boots"
@@ -4817,9 +4816,9 @@
     "country": "DE",
     "period": "Romantic",
     "tags": [
-      "fairy tale",
+      "fairy-tale",
       "mystery",
-      "psychological"
+      "psychology"
     ],
     "title_en": "The Blond Eckbert"
   },
@@ -4860,7 +4859,7 @@
     "tags": [
       "lyric",
       "nature",
-      "german"
+      "germany"
     ]
   },
   {
@@ -4899,7 +4898,7 @@
     "tags": [
       "history",
       "politics",
-      "theatre"
+      "theater"
     ],
     "title_en": "Mary Stuart"
   },
@@ -4917,9 +4916,9 @@
     "country": "DE",
     "period": "Romantic",
     "tags": [
-      "joan of arc",
+      "joan-of-arc",
       "war",
-      "theatre"
+      "theater"
     ],
     "title_en": "The Maid of Orleans"
   },
@@ -4979,7 +4978,7 @@
     "tags": [
       "freedom",
       "switzerland",
-      "theatre"
+      "theater"
     ],
     "title_en": "William Tell"
   },
@@ -5000,7 +4999,7 @@
     "tags": [
       "education",
       "marriage",
-      "theatre"
+      "theater"
     ]
   },
   {
@@ -5040,7 +5039,7 @@
     "tags": [
       "lyric",
       "romantic",
-      "german"
+      "germany"
     ]
   },
   {
@@ -5060,7 +5059,7 @@
     "tags": [
       "myth",
       "knowledge",
-      "deal with the devil"
+      "deal-with-the-devil"
     ]
   },
   {
@@ -5079,7 +5078,7 @@
     "tags": [
       "comedy",
       "law",
-      "theatre"
+      "theater"
     ],
     "title_en": "The Broken Jug"
   },
@@ -5099,7 +5098,7 @@
     "tags": [
       "chivalry",
       "love",
-      "theatre"
+      "theater"
     ],
     "title_en": "Catherine of Heilbronn"
   },
@@ -5118,8 +5117,8 @@
     "period": "Romantic",
     "tags": [
       "romantic",
-      "german",
-      "stories"
+      "germany",
+      "story"
     ],
     "title_en": "Stories"
   },
@@ -5197,7 +5196,7 @@
     "country": "DE",
     "period": "Romantic",
     "tags": [
-      "fairy tales",
+      "fairy-tale",
       "folklore",
       "children"
     ],
@@ -5240,7 +5239,7 @@
     "tags": [
       "history",
       "tragedy",
-      "theatre"
+      "theater"
     ]
   },
   {
@@ -5298,7 +5297,7 @@
     "country": "DE",
     "period": "Romantic",
     "tags": [
-      "fantastic",
+      "fantasy",
       "gothic",
       "music"
     ]
@@ -5337,7 +5336,7 @@
     "country": "FR",
     "period": "Romantic",
     "tags": [
-      "psychological",
+      "psychology",
       "love",
       "confession"
     ],
@@ -5378,7 +5377,7 @@
     "country": "DE",
     "period": "Romantic",
     "tags": [
-      "fantastic",
+      "fantasy",
       "war",
       "story"
     ]
@@ -5397,7 +5396,7 @@
     "country": "DE",
     "period": "Romantic",
     "tags": [
-      "fantastic",
+      "fantasy",
       "art",
       "romantic"
     ],
@@ -5418,7 +5417,7 @@
     "country": "US",
     "period": "Romantic",
     "tags": [
-      "new york",
+      "new-york",
       "folklore",
       "travel"
     ]
@@ -5499,7 +5498,7 @@
     "tags": [
       "criticism",
       "literature",
-      "essays"
+      "essay"
     ],
     "title_en": "Essays"
   },
@@ -5517,7 +5516,7 @@
     "country": "GB",
     "period": "Romantic",
     "tags": [
-      "essays",
+      "essay",
       "personal",
       "criticism"
     ],
@@ -5580,7 +5579,7 @@
     "tags": [
       "ballads",
       "lyric",
-      "german"
+      "germany"
     ]
   },
   {
@@ -5619,7 +5618,7 @@
     "tags": [
       "frontier",
       "war",
-      "native americans"
+      "native-american"
     ],
     "title_en": "The Last of the Mohicans"
   },
@@ -5699,7 +5698,7 @@
     "period": "Romantic",
     "tags": [
       "tragedy",
-      "theatre",
+      "theater",
       "romantic"
     ]
   },
@@ -5737,7 +5736,7 @@
     "country": "FR",
     "period": "Romantic",
     "tags": [
-      "fantastic",
+      "fantasy",
       "fairy",
       "romantic"
     ],
@@ -5840,7 +5839,7 @@
     "tags": [
       "history",
       "venice",
-      "theatre"
+      "theater"
     ]
   },
   {
@@ -5879,7 +5878,7 @@
     "tags": [
       "revolution",
       "history",
-      "theatre"
+      "theater"
     ],
     "title_en": "Danton's Death"
   },
@@ -5900,7 +5899,7 @@
     "tags": [
       "tragedy",
       "fate",
-      "theatre"
+      "theater"
     ]
   },
   {
@@ -5937,7 +5936,7 @@
     "country": "FI",
     "period": "Romantic",
     "tags": [
-      "mythology",
+      "myth",
       "finland",
       "epic"
     ],
@@ -5979,7 +5978,7 @@
     "period": "Romantic",
     "tags": [
       "tragedy",
-      "theatre",
+      "theater",
       "romantic"
     ]
   },
@@ -6019,7 +6018,7 @@
     "tags": [
       "history",
       "russia",
-      "coming of age"
+      "coming-of-age"
     ],
     "title_en": "The Captain's Daughter"
   },
@@ -6060,7 +6059,7 @@
     "tags": [
       "nature",
       "lyric",
-      "german"
+      "germany"
     ]
   },
   {
@@ -6118,7 +6117,7 @@
     "period": "Romantic",
     "tags": [
       "comedy",
-      "theatre",
+      "theater",
       "lies"
     ],
     "title_en": "Woe to Him Who Lies!"
@@ -6159,7 +6158,7 @@
     "tags": [
       "lyric",
       "nature",
-      "german"
+      "germany"
     ],
     "title_en": "Poems"
   },
@@ -6177,7 +6176,7 @@
     "country": "DE",
     "period": "Romantic",
     "tags": [
-      "mythology",
+      "myth",
       "classical",
       "retellings"
     ],
@@ -6237,7 +6236,7 @@
     "country": "RU",
     "period": "Romantic",
     "tags": [
-      "psychological",
+      "psychology",
       "russia",
       "romantic"
     ],
@@ -6299,7 +6298,7 @@
     "tags": [
       "gothic",
       "horror",
-      "short stories"
+      "short-story"
     ],
     "title_en": "Tales of the Grotesque and Arabesque"
   },
@@ -6419,7 +6418,7 @@
     "tags": [
       "tragedy",
       "portugal",
-      "theatre"
+      "theater"
     ],
     "title_en": "Frei Luis de Sousa"
   },
@@ -6459,7 +6458,7 @@
     "tags": [
       "history",
       "criticism",
-      "essays"
+      "essay"
     ],
     "title_en": "Critical and Historical Essays"
   },
@@ -6539,7 +6538,7 @@
     "period": "Romantic",
     "tags": [
       "history",
-      "theatre",
+      "theater",
       "romantic"
     ]
   },
@@ -6560,7 +6559,7 @@
     "tags": [
       "bourgeois",
       "tragedy",
-      "theatre"
+      "theater"
     ]
   },
   {
@@ -6598,8 +6597,8 @@
     "country": "ES",
     "period": "Romantic",
     "tags": [
-      "don juan",
-      "theatre",
+      "don-juan",
+      "theater",
       "romantic"
     ]
   },
@@ -6617,7 +6616,7 @@
     "country": "DK",
     "period": "Romantic",
     "tags": [
-      "fairy tales",
+      "fairy-tale",
       "children",
       "folklore"
     ],
@@ -6699,7 +6698,7 @@
     "tags": [
       "criticism",
       "biography",
-      "essays"
+      "essay"
     ],
     "title_en": "Contemporary Portraits"
   },
@@ -6820,7 +6819,7 @@
     "tags": [
       "dream",
       "love",
-      "st petersburg"
+      "st-petersburg"
     ],
     "title_en": "White Nights"
   },
@@ -6840,7 +6839,7 @@
     "period": "Victorian",
     "tags": [
       "industrial",
-      "working class",
+      "working-class",
       "social"
     ]
   },
@@ -6980,7 +6979,7 @@
     "period": "Romantic",
     "tags": [
       "opera",
-      "mythology",
+      "myth",
       "knights"
     ]
   },
@@ -7023,7 +7022,7 @@
       "family",
       "gothic",
       "guilt",
-      "new england"
+      "new-england"
     ]
   },
   {
@@ -7101,7 +7100,7 @@
     "country": "RU",
     "period": "Realism",
     "tags": [
-      "coming of age",
+      "coming-of-age",
       "russia",
       "memoir"
     ]
@@ -7124,7 +7123,7 @@
       "europe",
       "gothic",
       "identity",
-      "psychological",
+      "psychology",
       "romance",
       "women"
     ]
@@ -7146,7 +7145,7 @@
     "tags": [
       "bureaucracy",
       "alienation",
-      "new york"
+      "new-york"
     ]
   },
   {
@@ -7164,7 +7163,7 @@
     "period": "Romantic",
     "tags": [
       "travel",
-      "essays",
+      "essay",
       "bohemia"
     ],
     "title_en": "Little Castles of Bohemia"
@@ -7224,7 +7223,7 @@
     "period": "Romantic",
     "tags": [
       "folklore",
-      "fairy tales",
+      "fairy-tale",
       "russia"
     ],
     "title_en": "Russian Fairy Tales"
@@ -7266,9 +7265,7 @@
     "tags": [
       "epic",
       "myth",
-      "mythology",
-      "native american",
-      "native americans",
+      "native-american",
       "poetry"
     ]
   },
@@ -7527,7 +7524,7 @@
     "period": "Realism",
     "tags": [
       "norway",
-      "coming of age",
+      "coming-of-age",
       "rural"
     ],
     "title_en": "A Happy Boy"
@@ -7587,7 +7584,7 @@
     "period": "Realism",
     "tags": [
       "love",
-      "coming of age",
+      "coming-of-age",
       "russia"
     ],
     "title_en": "First Love"
@@ -7786,7 +7783,7 @@
     "country": "RU",
     "period": "Realism",
     "tags": [
-      "psychological",
+      "psychology",
       "crime",
       "philosophy"
     ],
@@ -7808,7 +7805,7 @@
     "tags": [
       "gambling",
       "obsession",
-      "psychological"
+      "psychology"
     ],
     "title_en": "The Gambler"
   },
@@ -7849,7 +7846,7 @@
     "tags": [
       "folklore",
       "identity",
-      "theatre"
+      "theater"
     ]
   },
   {
@@ -7887,7 +7884,7 @@
     "country": "ES",
     "period": "Realism",
     "tags": [
-      "theatre",
+      "theater",
       "history",
       "drama"
     ]
@@ -7907,7 +7904,7 @@
     "period": "Realism",
     "tags": [
       "family",
-      "coming of age",
+      "coming-of-age",
       "women"
     ],
     "title_en": "Little Women"
@@ -7987,7 +7984,7 @@
     "period": "Realism",
     "tags": [
       "provence",
-      "stories",
+      "story",
       "rural"
     ],
     "title_en": "Letters from My Mill"
@@ -8006,7 +8003,7 @@
     "country": "RU",
     "period": "Realism",
     "tags": [
-      "psychological",
+      "psychology",
       "society",
       "faith"
     ],
@@ -8688,7 +8685,7 @@
     "period": "Realism",
     "tags": [
       "catalan",
-      "mythology",
+      "myth",
       "epic"
     ]
   },
@@ -8748,7 +8745,7 @@
     "tags": [
       "satire",
       "society",
-      "psychological"
+      "psychology"
     ],
     "title_en": "The Egoist"
   },
@@ -8769,7 +8766,7 @@
     "tags": [
       "folklore",
       "romania",
-      "stories"
+      "story"
     ]
   },
   {
@@ -8807,7 +8804,7 @@
     "period": "Realism",
     "tags": [
       "folklore",
-      "stories",
+      "story",
       "south"
     ],
     "title_en": "Uncle Remus"
@@ -8829,7 +8826,7 @@
     "tags": [
       "society",
       "family",
-      "new york"
+      "new-york"
     ]
   },
   {
@@ -8926,7 +8923,7 @@
     "country": "US",
     "period": "Realism",
     "tags": [
-      "psychological",
+      "psychology",
       "society",
       "women"
     ],
@@ -8988,7 +8985,7 @@
     "tags": [
       "politics",
       "society",
-      "theatre"
+      "theater"
     ],
     "title_en": "An Enemy of the People"
   },
@@ -9027,7 +9024,7 @@
     "period": "Realism",
     "tags": [
       "children",
-      "fairy tale",
+      "fairy-tale",
       "italy"
     ],
     "title_en": "The Adventures of Pinocchio"
@@ -9348,7 +9345,7 @@
     "tags": [
       "gothic",
       "science",
-      "dual nature"
+      "dual-nature"
     ],
     "title_en": "The Strange Case of Dr Jekyll and Mr Hyde"
   },
@@ -9467,7 +9464,7 @@
     "country": "NI",
     "period": "Modern",
     "tags": [
-      "modernismo",
+      "modernism",
       "prose",
       "poetry"
     ]
@@ -9546,7 +9543,7 @@
     "country": "FR",
     "period": "Realism",
     "tags": [
-      "psychological",
+      "psychology",
       "ethics",
       "science"
     ],
@@ -9651,7 +9648,7 @@
     "tags": [
       "russia",
       "realism",
-      "stories"
+      "story"
     ]
   },
   {
@@ -9689,7 +9686,7 @@
     "country": "ES",
     "period": "Realism",
     "tags": [
-      "stories",
+      "story",
       "galicia",
       "society"
     ]
@@ -9791,7 +9788,7 @@
     "tags": [
       "lyric",
       "cuba",
-      "modernismo"
+      "modernism"
     ]
   },
   {
@@ -9811,7 +9808,7 @@
     "tags": [
       "rural",
       "nostalgia",
-      "stories"
+      "story"
     ]
   },
   {
@@ -9850,7 +9847,7 @@
     "tags": [
       "workers",
       "industrial",
-      "theatre"
+      "theater"
     ],
     "title_en": "The Weavers"
   },
@@ -9869,7 +9866,7 @@
     "period": "Modern",
     "tags": [
       "satire",
-      "theatre",
+      "theater",
       "society"
     ],
     "title_en": "The Beaver Coat"
@@ -9950,7 +9947,7 @@
     "tags": [
       "animals",
       "india",
-      "stories"
+      "story"
     ],
     "title_en": "The Jungle Book"
   },
@@ -9969,8 +9966,8 @@
     "period": "Realism",
     "tags": [
       "war",
-      "psychological",
-      "civil war"
+      "psychology",
+      "civil-war"
     ],
     "title_en": "The Red Badge of Courage"
   },
@@ -10090,7 +10087,7 @@
     "tags": [
       "satire",
       "society",
-      "theatre"
+      "theater"
     ],
     "title_en": "The Importance of Being Earnest"
   },
@@ -10110,7 +10107,7 @@
     "tags": [
       "society",
       "politics",
-      "theatre"
+      "theater"
     ],
     "title_en": "An Ideal Husband"
   },
@@ -10130,7 +10127,7 @@
     "period": "Realism",
     "tags": [
       "morality",
-      "stories",
+      "story",
       "spain"
     ]
   },
@@ -10168,7 +10165,7 @@
     "country": "RU",
     "period": "Modern",
     "tags": [
-      "theatre",
+      "theater",
       "art",
       "tragedy"
     ],
@@ -10211,7 +10208,7 @@
     "tags": [
       "lyric",
       "colombia",
-      "modernismo"
+      "modernism"
     ]
   },
   {
@@ -10228,7 +10225,7 @@
     "country": "RU",
     "period": "Modern",
     "tags": [
-      "theatre",
+      "theater",
       "family",
       "melancholy"
     ],
@@ -10270,7 +10267,7 @@
     "period": "Modern",
     "tags": [
       "romance",
-      "theatre",
+      "theater",
       "heroism"
     ]
   },
@@ -10330,7 +10327,7 @@
     "tags": [
       "gothic",
       "ghost",
-      "psychological"
+      "psychology"
     ],
     "title_en": "The Turn of the Screw"
   },
@@ -10391,7 +10388,7 @@
     "tags": [
       "colonialism",
       "africa",
-      "psychological"
+      "psychology"
     ]
   },
   {
@@ -10530,8 +10527,8 @@
     "period": "Modern",
     "tags": [
       "humor",
-      "twist endings",
-      "stories"
+      "twist-endings",
+      "story"
     ]
   },
   {
@@ -10590,7 +10587,7 @@
     "tags": [
       "catalan",
       "sea",
-      "stories"
+      "story"
     ],
     "title_en": "Pinecone of Rose"
   },
@@ -10689,7 +10686,7 @@
     "country": "ES",
     "period": "Modern",
     "tags": [
-      "modernismo",
+      "modernism",
       "lyric",
       "spain"
     ]
@@ -10771,7 +10768,7 @@
     "tags": [
       "sea",
       "catalan",
-      "stories"
+      "story"
     ]
   },
   {
@@ -10850,7 +10847,7 @@
     "period": "Modern",
     "tags": [
       "spain",
-      "essays",
+      "essay",
       "society"
     ]
   },
@@ -10869,7 +10866,7 @@
     "country": "NI",
     "period": "Modern",
     "tags": [
-      "modernismo",
+      "modernism",
       "lyric",
       "poetry"
     ]
@@ -10910,7 +10907,7 @@
     "period": "Modern",
     "tags": [
       "lyric",
-      "modernismo",
+      "modernism",
       "argentina"
     ]
   },
@@ -11050,7 +11047,7 @@
     "period": "Modern",
     "tags": [
       "lyric",
-      "modernismo",
+      "modernism",
       "peru"
     ]
   },
@@ -11069,7 +11066,7 @@
     "country": "ES",
     "period": "Modern",
     "tags": [
-      "theatre",
+      "theater",
       "satire",
       "comedy"
     ]
@@ -11130,7 +11127,7 @@
     "period": "Modern",
     "tags": [
       "austria",
-      "stories",
+      "story",
       "symbolism"
     ]
   },
@@ -11249,7 +11246,7 @@
     "country": "CA",
     "period": "Modern",
     "tags": [
-      "coming of age",
+      "coming-of-age",
       "canada",
       "orphan"
     ]
@@ -11270,7 +11267,7 @@
     "period": "Modern",
     "tags": [
       "lyric",
-      "modernismo",
+      "modernism",
       "colombia"
     ]
   },
@@ -11310,7 +11307,7 @@
     "tags": [
       "society",
       "switzerland",
-      "psychological"
+      "psychology"
     ],
     "title_en": "The Assistant"
   },
@@ -11390,7 +11387,7 @@
     "tags": [
       "lyric",
       "spain",
-      "modernismo"
+      "modernism"
     ],
     "title_en": "Poems"
   },
@@ -11430,7 +11427,7 @@
     "period": "Modern",
     "tags": [
       "venezuela",
-      "stories",
+      "story",
       "rural"
     ]
   },
@@ -11451,7 +11448,7 @@
     "tags": [
       "lyric",
       "spain",
-      "modernismo"
+      "modernism"
     ]
   },
   {
@@ -11470,7 +11467,7 @@
     "period": "Modern",
     "tags": [
       "history",
-      "theatre",
+      "theater",
       "spain"
     ]
   },
@@ -11489,8 +11486,8 @@
     "period": "Modern",
     "tags": [
       "religion",
-      "theatre",
-      "joan of arc"
+      "theater",
+      "joan-of-arc"
     ],
     "title_en": "The Mystery of the Charity of Joan of Arc"
   },
@@ -11609,7 +11606,7 @@
     "period": "Modern",
     "tags": [
       "detective",
-      "stories",
+      "story",
       "religion"
     ],
     "title_en": "The Innocence of Father Brown"
@@ -11629,7 +11626,7 @@
     "period": "Modern",
     "tags": [
       "allegory",
-      "theatre",
+      "theater",
       "morality"
     ],
     "title_en": "Everyman"
@@ -11649,7 +11646,7 @@
     "period": "Modern",
     "tags": [
       "opera",
-      "theatre",
+      "theater",
       "music"
     ],
     "title_en": "The Knight of the Rose"
@@ -11669,7 +11666,7 @@
     "period": "Modern",
     "tags": [
       "satire",
-      "stories",
+      "story",
       "modernism"
     ],
     "title_en": "In a German Pension"
@@ -11709,8 +11706,8 @@
     "country": "ES",
     "period": "Modern",
     "tags": [
-      "theatre",
-      "modernismo",
+      "theater",
+      "modernism",
       "spain"
     ]
   },
@@ -11730,7 +11727,7 @@
     "period": "Modern",
     "tags": [
       "tragedy",
-      "new england",
+      "new-england",
       "marriage"
     ]
   },
@@ -11751,7 +11748,7 @@
     "tags": [
       "spain",
       "travel",
-      "essays"
+      "essay"
     ]
   },
   {
@@ -11789,7 +11786,7 @@
     "period": "Modern",
     "tags": [
       "religion",
-      "theatre",
+      "theater",
       "mystery"
     ],
     "title_en": "The Tidings Brought to Mary"
@@ -11811,7 +11808,7 @@
     "tags": [
       "lyric",
       "spain",
-      "generation of 98"
+      "generation-of-98"
     ]
   },
   {
@@ -11831,7 +11828,7 @@
     "tags": [
       "identity",
       "society",
-      "german"
+      "germany"
     ]
   },
   {
@@ -11868,7 +11865,7 @@
     "country": "FR",
     "period": "Modern",
     "tags": [
-      "coming of age",
+      "coming-of-age",
       "nostalgia",
       "france"
     ],
@@ -11972,7 +11969,7 @@
       "class",
       "language",
       "satire",
-      "theatre"
+      "theater"
     ]
   },
   {
@@ -12032,7 +12029,7 @@
     "tags": [
       "lyric",
       "andalusia",
-      "poetic prose"
+      "poetic-prose"
     ]
   },
   {
@@ -12051,7 +12048,7 @@
     "tags": [
       "ireland",
       "realism",
-      "stories"
+      "story"
     ],
     "title_en": "Dubliners"
   },
@@ -12070,7 +12067,7 @@
     "period": "Modern",
     "tags": [
       "history",
-      "theatre",
+      "theater",
       "sacrifice"
     ],
     "title_en": "The Burghers of Calais"
@@ -12110,7 +12107,7 @@
     "country": "GT",
     "period": "Modern",
     "tags": [
-      "modernismo",
+      "modernism",
       "satire",
       "story"
     ]
@@ -12132,7 +12129,7 @@
     "tags": [
       "criticism",
       "classics",
-      "essays"
+      "essay"
     ]
   },
   {
@@ -12171,7 +12168,7 @@
     "period": "Modern",
     "tags": [
       "religion",
-      "theatre",
+      "theater",
       "spain"
     ]
   },
@@ -12231,7 +12228,7 @@
     "period": "Modern",
     "tags": [
       "religion",
-      "essays",
+      "essay",
       "spain"
     ]
   },
@@ -12311,7 +12308,7 @@
     "period": "Modern",
     "tags": [
       "parody",
-      "theatre",
+      "theater",
       "romance"
     ]
   },
@@ -12352,7 +12349,7 @@
     "tags": [
       "jungle",
       "children",
-      "stories"
+      "story"
     ]
   },
   {
@@ -12390,7 +12387,7 @@
     "country": "ES",
     "period": "Modern",
     "tags": [
-      "lyric prose",
+      "lyric-prose",
       "spain",
       "meditation"
     ]
@@ -12411,7 +12408,7 @@
     "tags": [
       "satire",
       "war",
-      "stories"
+      "story"
     ],
     "title_en": "The Toys of Peace"
   },
@@ -12491,7 +12488,7 @@
     "tags": [
       "race",
       "power",
-      "theatre"
+      "theater"
     ],
     "title_en": "The Emperor Jones"
   },
@@ -12590,7 +12587,7 @@
     "period": "Modern",
     "tags": [
       "society",
-      "new york",
+      "new-york",
       "romance"
     ],
     "title_en": "The Age of Innocence"
@@ -12611,7 +12608,7 @@
     "period": "Modern",
     "tags": [
       "family",
-      "theatre",
+      "theater",
       "sea"
     ]
   },
@@ -12691,7 +12688,7 @@
     "period": "Modern",
     "tags": [
       "family",
-      "new zealand",
+      "new-zealand",
       "modernist"
     ],
     "title_en": "At the Bay"
@@ -12751,8 +12748,8 @@
     "period": "Modern",
     "tags": [
       "history",
-      "joan of arc",
-      "theatre"
+      "joan-of-arc",
+      "theater"
     ],
     "title_en": "Saint Joan"
   },
@@ -12890,9 +12887,9 @@
     "country": "US",
     "period": "Modern",
     "tags": [
-      "new york",
+      "new-york",
       "society",
-      "stories"
+      "story"
     ],
     "title_en": "Old New York"
   },
@@ -12930,7 +12927,7 @@
     "country": "RU",
     "period": "Modern",
     "tags": [
-      "civil war",
+      "civil-war",
       "russia",
       "family"
     ],
@@ -13051,7 +13048,7 @@
     "period": "Modern",
     "tags": [
       "war",
-      "arab revolt",
+      "arab-revolt",
       "memoir"
     ],
     "title_en": "Seven Pillars of Wisdom"
@@ -13073,7 +13070,7 @@
     "tags": [
       "argentina",
       "rural",
-      "stories"
+      "story"
     ]
   },
   {
@@ -13092,7 +13089,7 @@
     "period": "Modern",
     "tags": [
       "spain",
-      "psychological",
+      "psychology",
       "society"
     ]
   },
@@ -13112,7 +13109,7 @@
     "tags": [
       "cossacks",
       "war",
-      "stories"
+      "story"
     ],
     "title_en": "Tales of the Don"
   },
@@ -13132,7 +13129,7 @@
     "tags": [
       "biography",
       "war",
-      "middle east"
+      "middle-east"
     ],
     "title_en": "Lawrence and the Arabs"
   },
@@ -13313,7 +13310,7 @@
     "country": "ES",
     "period": "Modern",
     "tags": [
-      "generation of 27",
+      "generation-of-27",
       "lyric",
       "spain"
     ]
@@ -13334,7 +13331,7 @@
     "period": "Modern",
     "tags": [
       "satire",
-      "essays",
+      "essay",
       "criticism"
     ]
   },
@@ -13655,7 +13652,7 @@
     "tags": [
       "sociology",
       "politics",
-      "mass culture"
+      "mass-culture"
     ]
   },
   {
@@ -13692,9 +13689,9 @@
     "country": "US",
     "period": "Modern",
     "tags": [
-      "stories",
+      "story",
       "humor",
-      "new york"
+      "new-york"
     ],
     "title_en": "The Collected Stories"
   },
@@ -13794,7 +13791,7 @@
     "tags": [
       "odessa",
       "crime",
-      "stories"
+      "story"
     ],
     "title_en": "Odessa Stories"
   },
@@ -13834,7 +13831,7 @@
     "tags": [
       "crime",
       "noir",
-      "short story"
+      "short-story"
     ],
     "title_en": "Goldfish"
   },
@@ -13972,7 +13969,7 @@
     "country": "FR",
     "period": "Modern",
     "tags": [
-      "essays",
+      "essay",
       "modernity",
       "culture"
     ],
@@ -14013,7 +14010,7 @@
     "period": "Modern",
     "tags": [
       "satire",
-      "theatre",
+      "theater",
       "bureaucracy"
     ],
     "title_en": "The Captain of Köpenick"
@@ -14074,7 +14071,7 @@
     "tags": [
       "family",
       "religion",
-      "psychological"
+      "psychology"
     ],
     "title_en": "Viper's Tangle"
   },
@@ -14093,7 +14090,7 @@
     "country": "ES",
     "period": "Modern",
     "tags": [
-      "theatre",
+      "theater",
       "absurd",
       "comedy"
     ]
@@ -14214,7 +14211,7 @@
     "period": "Modern",
     "tags": [
       "religion",
-      "theatre",
+      "theater",
       "spain"
     ]
   },
@@ -14233,7 +14230,7 @@
     "country": "ES",
     "period": "Modern",
     "tags": [
-      "generation of 27",
+      "generation-of-27",
       "lyric",
       "spain"
     ]
@@ -14353,7 +14350,7 @@
     "period": "Modern",
     "tags": [
       "immigrant",
-      "new york",
+      "new-york",
       "modernism"
     ],
     "title_en": "Call It Sleep"
@@ -14474,7 +14471,7 @@
     "tags": [
       "religion",
       "martyrdom",
-      "theatre"
+      "theater"
     ],
     "title_en": "Murder in the Cathedral"
   },
@@ -14554,8 +14551,8 @@
     "period": "Modern",
     "tags": [
       "galicia",
-      "stories",
-      "fantastic"
+      "story",
+      "fantasy"
     ]
   },
   {
@@ -14692,7 +14689,7 @@
     "country": "US",
     "period": "Modern",
     "tags": [
-      "civil war",
+      "civil-war",
       "romance",
       "south"
     ],
@@ -14793,8 +14790,8 @@
     "country": "FR",
     "period": "Modern",
     "tags": [
-      "mythology",
-      "theatre",
+      "myth",
+      "theater",
       "modern"
     ]
   },
@@ -14892,7 +14889,7 @@
     "country": "US",
     "period": "Modern",
     "tags": [
-      "theatre",
+      "theater",
       "community",
       "life"
     ],
@@ -14914,7 +14911,7 @@
     "period": "Modern",
     "tags": [
       "history",
-      "latin america",
+      "latin-america",
       "exploration"
     ]
   },
@@ -15073,7 +15070,7 @@
     "period": "Modern",
     "tags": [
       "kentucky",
-      "tobacco wars",
+      "tobacco-wars",
       "politics"
     ],
     "title_en": "Night Rider"
@@ -15133,7 +15130,7 @@
     "country": "ES",
     "period": "Modern",
     "tags": [
-      "theatre",
+      "theater",
       "comedy",
       "absurd"
     ]
@@ -15316,7 +15313,7 @@
     "tags": [
       "south",
       "race",
-      "stories"
+      "story"
     ],
     "title_en": "Go Down, Moses"
   },
@@ -15354,7 +15351,7 @@
     "country": "DE",
     "period": "Modern",
     "tags": [
-      "nazi germany",
+      "nazi-germany",
       "escape",
       "resistance"
     ],
@@ -15416,7 +15413,7 @@
     "period": "Modern",
     "tags": [
       "chess",
-      "psychological",
+      "psychology",
       "war"
     ]
   },
@@ -15597,7 +15594,7 @@
     "tags": [
       "war",
       "family",
-      "coming of age"
+      "coming-of-age"
     ],
     "title_en": "The Human Comedy"
   },
@@ -15616,7 +15613,7 @@
     "period": "Modern",
     "tags": [
       "greece",
-      "asia minor",
+      "asia-minor",
       "memory"
     ],
     "title_en": "Aeolian Earth"
@@ -15676,7 +15673,7 @@
     "period": "Modern",
     "tags": [
       "justice",
-      "theatre",
+      "theater",
       "corruption"
     ],
     "title_en": "Corruption in the Palace of Justice"
@@ -15696,7 +15693,7 @@
     "country": "ES",
     "period": "Modern",
     "tags": [
-      "theatre",
+      "theater",
       "myth",
       "death"
     ]
@@ -15718,7 +15715,7 @@
     "tags": [
       "spain",
       "postwar",
-      "coming of age"
+      "coming-of-age"
     ]
   },
   {
@@ -15915,8 +15912,8 @@
     "country": "GB",
     "period": "Modern",
     "tags": [
-      "social critique",
-      "theatre",
+      "social-critique",
+      "theater",
       "mystery"
     ],
     "title_en": "An Inspector Calls"
@@ -15977,7 +15974,7 @@
     "period": "Modern",
     "tags": [
       "comedy",
-      "theatre",
+      "theater",
       "myth"
     ]
   },
@@ -16016,7 +16013,7 @@
     "period": "Modern",
     "tags": [
       "india",
-      "coming of age",
+      "coming-of-age",
       "river"
     ],
     "title_en": "The River"
@@ -16035,7 +16032,7 @@
     "country": "US",
     "period": "Modern",
     "tags": [
-      "coming of age",
+      "coming-of-age",
       "identity",
       "south"
     ],
@@ -16056,7 +16053,7 @@
     "period": "Modern",
     "tags": [
       "war",
-      "theatre",
+      "theater",
       "resistance"
     ],
     "title_en": "The Devil's General"
@@ -16414,8 +16411,8 @@
     "country": "ZA",
     "period": "Modern",
     "tags": [
-      "south africa",
-      "racial injustice",
+      "south-africa",
+      "racial-injustice",
       "society"
     ],
     "title_en": "Cry, the Beloved Country"
@@ -16497,7 +16494,7 @@
     "tags": [
       "history",
       "power",
-      "stories"
+      "story"
     ]
   },
   {
@@ -16516,7 +16513,7 @@
     "tags": [
       "religion",
       "martyrdom",
-      "theatre"
+      "theater"
     ],
     "title_en": "Dialogues of the Carmelites"
   },
@@ -16535,9 +16532,9 @@
     "country": "AR",
     "period": "Modern",
     "tags": [
-      "fantastic",
+      "fantasy",
       "metaphysics",
-      "stories"
+      "story"
     ]
   },
   {
@@ -16654,7 +16651,7 @@
     "country": "US",
     "period": "Modern",
     "tags": [
-      "american dream",
+      "american-dream",
       "family",
       "tragedy"
     ],
@@ -16736,7 +16733,7 @@
     "period": "Modern",
     "tags": [
       "exile",
-      "stories",
+      "story",
       "spain"
     ]
   },
@@ -16755,7 +16752,7 @@
     "country": "ES",
     "period": "Modern",
     "tags": [
-      "coming of age",
+      "coming-of-age",
       "rural",
       "spain"
     ]
@@ -16895,7 +16892,7 @@
     "country": "MX",
     "period": "Modern",
     "tags": [
-      "essays",
+      "essay",
       "mexico",
       "literature"
     ]
@@ -16916,7 +16913,7 @@
     "period": "Modern",
     "tags": [
       "spain",
-      "civil war",
+      "civil-war",
       "youth"
     ]
   },
@@ -16955,7 +16952,7 @@
     "period": "Modern",
     "tags": [
       "southern",
-      "coming of age",
+      "coming-of-age",
       "family"
     ],
     "title_en": "The Grass Harp"
@@ -17054,9 +17051,9 @@
     "country": "US",
     "period": "Modern",
     "tags": [
-      "coming of age",
+      "coming-of-age",
       "identity",
-      "new york"
+      "new-york"
     ],
     "title_en": "The Catcher in the Rye"
   },
@@ -17096,7 +17093,7 @@
     "period": "Modern",
     "tags": [
       "spain",
-      "coming of age",
+      "coming-of-age",
       "memory"
     ]
   },
@@ -17296,7 +17293,7 @@
     "country": "ES",
     "period": "Modern",
     "tags": [
-      "civil war",
+      "civil-war",
       "spain",
       "religion"
     ]
@@ -17336,7 +17333,7 @@
     "period": "Modern",
     "tags": [
       "politics",
-      "essays",
+      "essay",
       "totalitarianism"
     ],
     "title_en": "The Seizure of Power"
@@ -17418,7 +17415,7 @@
     "tags": [
       "lyric",
       "spain",
-      "generation of 27"
+      "generation-of-27"
     ]
   },
   {
@@ -17578,7 +17575,7 @@
     "tags": [
       "mystery",
       "argentina",
-      "psychological"
+      "psychology"
     ]
   },
   {
@@ -17596,7 +17593,7 @@
     "period": "Modern",
     "tags": [
       "religion",
-      "theatre",
+      "theater",
       "trial"
     ],
     "title_en": "The Trial of Jesus"
@@ -17615,8 +17612,8 @@
     "country": "DE",
     "period": "Modern",
     "tags": [
-      "east prussia",
-      "stories",
+      "east-prussia",
+      "story",
       "humor"
     ],
     "title_en": "So Tender Was Suleiken"
@@ -17816,9 +17813,9 @@
     "country": "ES",
     "period": "Modern",
     "tags": [
-      "fantastic",
+      "fantasy",
       "catalan",
-      "stories"
+      "story"
     ]
   },
   {
@@ -17955,7 +17952,7 @@
     "country": "DK",
     "period": "Modern",
     "tags": [
-      "stories",
+      "story",
       "fate",
       "danish"
     ],
@@ -17975,8 +17972,8 @@
     "country": "IT",
     "period": "Modern",
     "tags": [
-      "fantastic",
-      "stories",
+      "fantasy",
+      "story",
       "italy"
     ],
     "title_en": "Sixty Stories"
@@ -17996,7 +17993,7 @@
     "period": "Modern",
     "tags": [
       "satire",
-      "theatre",
+      "theater",
       "allegory"
     ],
     "title_en": "The Fire Raisers"
@@ -18096,7 +18093,7 @@
     "period": "Modern",
     "tags": [
       "history",
-      "theatre",
+      "theater",
       "religion"
     ],
     "title_en": "Becket, or the Honor of God"
@@ -18216,7 +18213,7 @@
     "country": "ES",
     "period": "Modern",
     "tags": [
-      "psychological",
+      "psychology",
       "society",
       "spain"
     ]
@@ -18317,7 +18314,7 @@
     "tags": [
       "racism",
       "justice",
-      "coming of age"
+      "coming-of-age"
     ],
     "title_en": "To Kill a Mockingbird"
   },
@@ -18398,7 +18395,7 @@
     "tags": [
       "poverty",
       "colonel",
-      "latin america"
+      "latin-america"
     ]
   },
   {
@@ -18476,7 +18473,7 @@
     "country": "IT",
     "period": "Modern",
     "tags": [
-      "essays",
+      "essay",
       "family",
       "italy"
     ]
@@ -18535,7 +18532,7 @@
     "country": "IT",
     "period": "Modern",
     "tags": [
-      "fairy tales",
+      "fairy-tale",
       "children",
       "italy"
     ],
@@ -18857,7 +18854,7 @@
     "tags": [
       "folklore",
       "jewish",
-      "stories"
+      "story"
     ],
     "title_en": "Zlateh the Goat and Other Stories"
   },
@@ -18896,7 +18893,7 @@
     "country": "ES",
     "period": "Modern",
     "tags": [
-      "civil war",
+      "civil-war",
       "basque",
       "children"
     ]
@@ -19076,7 +19073,7 @@
     "country": "ES",
     "period": "Modern",
     "tags": [
-      "stories",
+      "story",
       "spain",
       "realism"
     ]
@@ -19137,7 +19134,7 @@
     "tags": [
       "memoir",
       "jewish",
-      "stories"
+      "story"
     ],
     "title_en": "A Day of Pleasure"
   },
@@ -19236,7 +19233,7 @@
     "period": "Modern",
     "tags": [
       "italy",
-      "stories",
+      "story",
       "memory"
     ],
     "title_en": "The Smell of Hay"
@@ -19376,9 +19373,9 @@
     "country": "AR",
     "period": "Modern",
     "tags": [
-      "stories",
+      "story",
       "argentina",
-      "fantastic"
+      "fantasy"
     ]
   },
   {
@@ -19417,7 +19414,7 @@
     "tags": [
       "cairo",
       "society",
-      "stories"
+      "story"
     ],
     "title_en": "Stories of Our Neighborhood"
   },
@@ -19577,7 +19574,7 @@
     "period": "Modern",
     "tags": [
       "peru",
-      "stories",
+      "story",
       "urban"
     ]
   },
@@ -19616,9 +19613,9 @@
     "country": "AR",
     "period": "Modern",
     "tags": [
-      "stories",
+      "story",
       "argentina",
-      "fantastic"
+      "fantasy"
     ]
   },
   {
@@ -19836,7 +19833,7 @@
     "country": "ES",
     "period": "Modern",
     "tags": [
-      "stories",
+      "story",
       "spain",
       "women"
     ]
@@ -19977,7 +19974,7 @@
     "tags": [
       "myth",
       "feminism",
-      "trojan war"
+      "trojan-war"
     ],
     "title_en": "Cassandra"
   },
@@ -20038,7 +20035,7 @@
     "tags": [
       "family",
       "appalachia",
-      "coming of age"
+      "coming-of-age"
     ]
   },
   {
@@ -20178,7 +20175,7 @@
     "tags": [
       "western",
       "mexico",
-      "coming of age"
+      "coming-of-age"
     ]
   }
 ]
