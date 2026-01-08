@@ -2,7 +2,15 @@
 
 <script lang="ts">
 import { base } from '$app/paths';
-import { locale, t, titleFor } from '$lib/i18n';
+	import {
+		flagForLanguage,
+		flagFromCountry,
+		formatCountryName,
+		formatLanguageName,
+		locale,
+		t,
+		titleFor
+	} from '$lib/i18n';
 import type { PageData } from './$types';
 
 	export let data: PageData;
@@ -122,7 +130,7 @@ import type { PageData } from './$types';
 				<select class="rounded-xl border border-ink/10 bg-white/80 px-4 py-2" bind:value={country}>
 					<option value="">{'—'}</option>
 					{#each data.facets.countries as option}
-						<option value={option}>{option}</option>
+						<option value={option}>{formatCountryName(option, $locale)}</option>
 					{/each}
 				</select>
 			</label>
@@ -131,7 +139,7 @@ import type { PageData } from './$types';
 				<select class="rounded-xl border border-ink/10 bg-white/80 px-4 py-2" bind:value={language}>
 					<option value="">{'—'}</option>
 					{#each data.facets.languages as option}
-						<option value={option}>{option.toUpperCase()}</option>
+						<option value={option}>{formatLanguageName(option, $locale)}</option>
 					{/each}
 				</select>
 			</label>
@@ -234,11 +242,25 @@ import type { PageData } from './$types';
 						</div>
 						<div>
 							<div class="text-[11px] uppercase tracking-[0.14em] text-ink/50">{$t('language')}</div>
-							<div class="font-semibold text-ink">{book.lang?.toUpperCase() ?? '—'}</div>
+							<div class="font-semibold text-ink">
+								{#if book.lang}
+									<span class="flag">{flagForLanguage(book.lang)}</span>
+									&nbsp;{formatLanguageName(book.lang, $locale)}
+								{:else}
+									—
+								{/if}
+							</div>
 						</div>
 						<div>
 							<div class="text-[11px] uppercase tracking-[0.14em] text-ink/50">{$t('country')}</div>
-							<div class="font-semibold text-ink">{book.country ?? '—'}</div>
+							<div class="font-semibold text-ink">
+								{#if book.country}
+									<span class="flag">{flagFromCountry(book.country)}</span>
+									&nbsp;{formatCountryName(book.country, $locale)}
+								{:else}
+									—
+								{/if}
+							</div>
 						</div>
 						<div>
 							<div class="text-[11px] uppercase tracking-[0.14em] text-ink/50">{$t('period')}</div>

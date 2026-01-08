@@ -2,7 +2,7 @@
 
 <script lang="ts">
 	import { base } from '$app/paths';
-	import { locale, t, titleFor } from '$lib/i18n';
+import { flagFromCountry, formatCountryName, locale, t, titleFor } from '$lib/i18n';
 	import type { PageData } from './$types';
 
 	export let data: PageData;
@@ -31,7 +31,14 @@
 		<div class="grid gap-3 md:grid-cols-3">
 			<div class="glass rounded-xl p-4">
 				<div class="text-xs uppercase text-ink/60">{$t('country')}</div>
-				<div class="text-lg font-semibold text-ink">{data.author.country ?? 'N/A'}</div>
+				<div class="text-lg font-semibold text-ink">
+					{#if data.author.country}
+						<span class="flag">{flagFromCountry(data.author.country)}</span>
+						&nbsp;{formatCountryName(data.author.country, $locale)}
+					{:else}
+						N/A
+					{/if}
+				</div>
 			</div>
 			<div class="glass rounded-xl p-4">
 				<div class="text-xs uppercase text-ink/60">{$t('birth')}</div>

@@ -2,18 +2,18 @@
 
 <script lang="ts">
 	import { base } from '$app/paths';
-	import { locale, t, titleFor } from '$lib/i18n';
+	import {
+		flagForLanguage,
+		flagFromCountry,
+		formatCountryName,
+		formatLanguageName,
+		locale,
+		t,
+		titleFor
+	} from '$lib/i18n';
 	import type { PageData } from './$types';
 
 	export let data: PageData;
-
-	const metaItems = [
-		{ label: $t('year_range'), value: data.book.year ?? 'N/A' },
-		{ label: $t('language'), value: data.book.lang?.toUpperCase() ?? 'N/A' },
-		{ label: $t('country'), value: data.book.country ?? 'N/A' },
-		{ label: $t('difficulty'), value: data.book.difficulty ?? 'N/A' },
-		{ label: $t('importance'), value: data.book.importance ?? 'N/A' }
-	];
 </script>
 
 <section class="space-y-6">
@@ -41,12 +41,40 @@
 		</div>
 
 		<div class="grid gap-3 md:grid-cols-3">
-			{#each metaItems as item (item.label)}
-				<div class="glass rounded-xl p-4">
-					<div class="text-xs uppercase text-ink/60">{item.label}</div>
-					<div class="text-lg font-semibold text-ink">{item.value}</div>
+			<div class="glass rounded-xl p-4">
+				<div class="text-xs uppercase text-ink/60">{$t('year_range')}</div>
+				<div class="text-lg font-semibold text-ink">{data.book.year ?? 'N/A'}</div>
+			</div>
+			<div class="glass rounded-xl p-4">
+				<div class="text-xs uppercase text-ink/60">{$t('language')}</div>
+				<div class="text-lg font-semibold text-ink">
+					{#if data.book.lang}
+						<span class="flag">{flagForLanguage(data.book.lang)}</span>
+						&nbsp;{formatLanguageName(data.book.lang, $locale)}
+					{:else}
+						N/A
+					{/if}
 				</div>
-			{/each}
+			</div>
+			<div class="glass rounded-xl p-4">
+				<div class="text-xs uppercase text-ink/60">{$t('country')}</div>
+				<div class="text-lg font-semibold text-ink">
+					{#if data.book.country}
+						<span class="flag">{flagFromCountry(data.book.country)}</span>
+						&nbsp;{formatCountryName(data.book.country, $locale)}
+					{:else}
+						N/A
+					{/if}
+				</div>
+			</div>
+			<div class="glass rounded-xl p-4">
+				<div class="text-xs uppercase text-ink/60">{$t('difficulty')}</div>
+				<div class="text-lg font-semibold text-ink">{data.book.difficulty ?? 'N/A'}</div>
+			</div>
+			<div class="glass rounded-xl p-4">
+				<div class="text-xs uppercase text-ink/60">{$t('importance')}</div>
+				<div class="text-lg font-semibold text-ink">{data.book.importance ?? 'N/A'}</div>
+			</div>
 		</div>
 
 		{#if data.book.tags.length}

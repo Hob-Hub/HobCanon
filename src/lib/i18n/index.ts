@@ -21,7 +21,7 @@ const dictionaries: Record<Language, Record<string, string>> = {
 		total_authors: 'Authors',
 		filters: 'Filters',
 		search: 'Search',
-		year_range: 'Year range',
+		year_range: 'Year',
 		country: 'Country',
 		period: 'Period',
 		language: 'Language',
@@ -115,4 +115,82 @@ export const titleFor = (book: Book, lang: Language): string => {
 		return book.title_en ?? book.title_es ?? book.title_orig ?? 'Untitled';
 	}
 	return book.title_es ?? book.title_en ?? book.title_orig ?? 'Sin título';
+};
+
+const languageNames = new Map<Language, Intl.DisplayNames>();
+const countryNames = new Map<Language, Intl.DisplayNames>();
+const languageToFlag: Record<string, string> = {
+	en: 'GB',
+	es: 'ES',
+	fr: 'FR',
+	de: 'DE',
+	it: 'IT',
+	pt: 'PT',
+	ru: 'RU',
+	ja: 'JP',
+	zh: 'CN',
+	ko: 'KR',
+	ar: 'SA',
+	el: 'GR'
+};
+
+const getLanguageNames = (lang: Language) => {
+	if (!languageNames.has(lang)) {
+		languageNames.set(lang, new Intl.DisplayNames([lang], { type: 'language' }));
+	}
+	return languageNames.get(lang)!;
+};
+
+const getCountryNames = (lang: Language) => {
+	if (!countryNames.has(lang)) {
+		countryNames.set(lang, new Intl.DisplayNames([lang], { type: 'region' }));
+	}
+	return countryNames.get(lang)!;
+};
+
+export const flagFromCountry = (code: string | null | undefined): string => {
+	if (!code || !/^[A-Za-z]{2}$/.test(code)) return '';
+	const upper = code.toUpperCase();
+	return String.fromCodePoint(...[...upper].map((char) => 127397 + char.charCodeAt(0)));
+};
+
+export const formatLanguage = (code: string | null | undefined, lang: Language): string => {
+	if (!code) return '—';
+	const normalized = code.toLowerCase();
+	const flagCode = languageToFlag[normalized] ?? (normalized.length === 2 ? normalized.toUpperCase() : '');
+	const flag = flagCode ? flagFromCountry(flagCode) : '';
+	const name = formatLanguageName(code, lang);
+	return flag ? `${flag} ${name}` : name;
+};
+
+export const formatLanguageName = (code: string | null | undefined, lang: Language): string => {
+	if (!code) return '—';
+	try {
+		return getLanguageNames(lang).of(code) ?? code.toUpperCase();
+	} catch {
+		return code.toUpperCase();
+	}
+};
+
+export const flagForLanguage = (code: string | null | undefined): string => {
+	if (!code) return '';
+	const normalized = code.toLowerCase();
+	const flagCode = languageToFlag[normalized] ?? (normalized.length === 2 ? normalized.toUpperCase() : '');
+	return flagCode ? flagFromCountry(flagCode) : '';
+};
+
+export const formatCountry = (code: string | null | undefined, lang: Language): string => {
+	if (!code) return '—';
+	const flag = flagFromCountry(code);
+	const name = formatCountryName(code, lang);
+	return flag ? `${flag} ${name}` : name;
+};
+
+export const formatCountryName = (code: string | null | undefined, lang: Language): string => {
+	if (!code) return '—';
+	try {
+		return getCountryNames(lang).of(code) ?? code.toUpperCase();
+	} catch {
+		return code.toUpperCase();
+	}
 };

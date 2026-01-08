@@ -60,3 +60,7 @@ a {
 .badge-sand {
 	@apply bg-sand text-ink;
 }
+
+.flag {
+	font-family: 'Segoe UI Emoji', 'Apple Color Emoji', 'Noto Color Emoji', 'Twemoji Mozilla', 'Noto Emoji', sans-serif;
+}
