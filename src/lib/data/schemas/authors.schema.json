@@ -46,6 +46,22 @@
           "GB",
           "DE"
         ]
+      },
+      "url_wikipedia": {
+        "type": [
+          "string",
+          "null"
+        ],
+        "description": "English Wikipedia URL for the author, if available.",
+        "format": "uri"
+      },
+      "url_photo": {
+        "type": [
+          "string",
+          "null"
+        ],
+        "description": "URL to an author photo (ideally from Wikipedia), if available.",
+        "format": "uri"
       }
     },
     "required": [

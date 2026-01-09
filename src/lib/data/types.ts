@@ -6,6 +6,8 @@ export type Author = {
 	birth_year: number | null;
 	death_year: number | null;
 	country: string | null;
+	url_wikipedia: string | null;
+	url_photo: string | null;
 	slug: string;
 	bookCount: number;
 };

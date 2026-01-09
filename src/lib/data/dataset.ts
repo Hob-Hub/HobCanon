@@ -48,6 +48,8 @@ const buildDataset = (): Dataset & { index: Index } => {
 			birth_year: author.birth_year ?? null,
 			death_year: author.death_year ?? null,
 			country: author.country ?? null,
+			url_wikipedia: author.url_wikipedia ?? null,
+			url_photo: author.url_photo ?? null,
 			slug,
 			bookCount: 0
 		};

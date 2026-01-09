@@ -18,15 +18,42 @@
 	</a>
 
 	<article class="card space-y-4">
-		<div class="flex flex-col gap-3 md:flex-row md:items-center md:justify-between">
-			<div>
+		<div class="flex flex-col gap-4 md:flex-row md:items-start md:justify-between">
+			<div class="space-y-2">
 				<p class="text-xs uppercase tracking-[0.2em] text-ink/60">{$t('author_info')}</p>
 				<h1 class="font-display text-4xl text-ink">{data.author.name}</h1>
 				{#if data.author.alias}
 					<p class="text-sm text-ink/70">Alias: {data.author.alias}</p>
 				{/if}
+				{#if data.author.url_wikipedia}
+					<a
+						class="inline-flex items-center gap-2 text-sm font-semibold text-ink underline decoration-amber underline-offset-4"
+						href={data.author.url_wikipedia}
+						target="_blank"
+						rel="noreferrer noopener"
+					>
+						{$t('wikipedia')}
+					</a>
+				{/if}
 			</div>
-			<span class="badge bg-amber text-ink">{data.books.length} {$t('books')}</span>
+			<div class="flex flex-col items-start gap-3 md:items-end">
+				<span class="badge bg-amber text-ink">{data.books.length} {$t('books')}</span>
+				{#if data.author.url_photo}
+					<a
+						class="block"
+						href={data.author.url_wikipedia ?? data.author.url_photo}
+						target="_blank"
+						rel="noreferrer noopener"
+					>
+						<img
+							class="h-40 w-32 rounded-2xl object-cover shadow-soft"
+							src={data.author.url_photo}
+							alt={`${$t('photo')}: ${data.author.name}`}
+							loading="lazy"
+						/>
+					</a>
+				{/if}
+			</div>
 		</div>
 
 		<div class="grid gap-3 md:grid-cols-3">
