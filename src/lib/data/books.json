@@ -430,7 +430,7 @@
     "genre": "philosophy",
     "format": "prose",
     "country": "GR",
-    "period": "Classical Greece",
+    "period": "Hellenistic",
     "tags": [
       "ethics",
       "character-studies",
@@ -871,7 +871,7 @@
     "importance": 4,
     "genre": "epic",
     "format": "poetry",
-    "country": "IT",
+    "country": "ES",
     "period": "Roman Empire",
     "tags": [
       "civil-war",
@@ -959,7 +959,7 @@
     "importance": 5,
     "genre": "autobiography",
     "format": "prose",
-    "country": "IT",
+    "country": "DZ",
     "period": "Late Antiquity",
     "tags": [
       "theology",
@@ -981,7 +981,7 @@
     "importance": 3,
     "genre": "poetry",
     "format": "poetry",
-    "country": "IT",
+    "country": "ES",
     "period": "Late Antiquity",
     "tags": [
       "martyrs",
@@ -2394,7 +2394,7 @@
     "importance": 4,
     "genre": "pastoral romance",
     "format": "prose",
-    "country": "ES",
+    "country": "PT",
     "period": "Renaissance",
     "tags": [
       "pastoral",
@@ -4572,7 +4572,7 @@
     "importance": 4,
     "genre": "novel",
     "format": "prose",
-    "country": "GB",
+    "country": "IE",
     "period": "Enlightenment",
     "tags": [
       "family",
@@ -9904,7 +9904,7 @@
     "genre": "adventure",
     "format": "prose",
     "country": "GB",
-    "period": "Modern",
+    "period": "Victorian",
     "tags": [
       "africa",
       "adventure",
@@ -10192,7 +10192,7 @@
     "genre": "fantasy",
     "format": "prose",
     "country": "NL",
-    "period": "Modern",
+    "period": "Symbolism",
     "tags": [
       "fantasy",
       "allegory",
@@ -10236,7 +10236,7 @@
     "genre": "short story",
     "format": "prose",
     "country": "NI",
-    "period": "Modern",
+    "period": "Symbolism",
     "tags": [
       "modernism",
       "prose",
@@ -10436,7 +10436,7 @@
     "genre": "short story",
     "format": "prose",
     "country": "RU",
-    "period": "Modern",
+    "period": "Realism",
     "tags": [
       "russia",
       "realism",
@@ -10568,7 +10568,7 @@
     "genre": "novel",
     "format": "prose",
     "country": "SE",
-    "period": "Modern",
+    "period": "Romantic",
     "tags": [
       "sweden",
       "legend",
@@ -10590,7 +10590,7 @@
     "genre": "poetry",
     "format": "poetry",
     "country": "CU",
-    "period": "Modern",
+    "period": "Symbolism",
     "tags": [
       "lyric",
       "cuba",
@@ -10634,7 +10634,7 @@
     "genre": "mystery",
     "format": "prose",
     "country": "GB",
-    "period": "Modern",
+    "period": "Victorian",
     "tags": [
       "detective",
       "london",
@@ -10656,7 +10656,7 @@
     "genre": "drama",
     "format": "play",
     "country": "DE",
-    "period": "Modern",
+    "period": "Realism",
     "tags": [
       "workers",
       "industrial",
@@ -10678,7 +10678,7 @@
     "genre": "comedy",
     "format": "play",
     "country": "DE",
-    "period": "Modern",
+    "period": "Realism",
     "tags": [
       "satire",
       "theater",
@@ -10722,7 +10722,7 @@
     "genre": "poetry",
     "format": "poetry",
     "country": "GB",
-    "period": "Modern",
+    "period": "Victorian",
     "tags": [
       "lyric",
       "religion",
@@ -10744,7 +10744,7 @@
     "genre": "adventure",
     "format": "prose",
     "country": "GB",
-    "period": "Modern",
+    "period": "Victorian",
     "tags": [
       "adventure",
       "romance",
@@ -10766,7 +10766,7 @@
     "genre": "children",
     "format": "prose",
     "country": "GB",
-    "period": "Modern",
+    "period": "Victorian",
     "tags": [
       "animals",
       "india",
@@ -10920,7 +10920,7 @@
     "genre": "comedy",
     "format": "play",
     "country": "GB",
-    "period": "Modern",
+    "period": "Victorian",
     "tags": [
       "satire",
       "society",
@@ -10942,7 +10942,7 @@
     "genre": "drama",
     "format": "play",
     "country": "GB",
-    "period": "Modern",
+    "period": "Victorian",
     "tags": [
       "society",
       "politics",
@@ -11008,7 +11008,7 @@
     "genre": "drama",
     "format": "play",
     "country": "RU",
-    "period": "Modern",
+    "period": "Realism",
     "tags": [
       "theater",
       "art",
@@ -11050,9 +11050,9 @@
     "difficulty": 4,
     "importance": 4,
     "genre": "poetry",
-    "format": "prose",
+    "format": "poetry",
     "country": "CO",
-    "period": "Modern",
+    "period": "Symbolism",
     "tags": [
       "lyric",
       "colombia",
@@ -11074,7 +11074,7 @@
     "genre": "drama",
     "format": "play",
     "country": "RU",
-    "period": "Modern",
+    "period": "Realism",
     "tags": [
       "theater",
       "family",
@@ -11118,7 +11118,7 @@
     "genre": "drama",
     "format": "play",
     "country": "FR",
-    "period": "Modern",
+    "period": "Symbolism",
     "tags": [
       "romance",
       "theater",
@@ -11184,7 +11184,7 @@
     "genre": "novella",
     "format": "prose",
     "country": "GB",
-    "period": "Modern",
+    "period": "Victorian",
     "tags": [
       "gothic",
       "ghost",
@@ -11206,7 +11206,7 @@
     "genre": "science fiction",
     "format": "prose",
     "country": "GB",
-    "period": "Modern",
+    "period": "Victorian",
     "tags": [
       "aliens",
       "invasion",
@@ -11220,7 +11220,7 @@
     "title_en": "Cat's Cradle",
     "title_orig": "Cat's Cradle",
     "author": "BARING, Maurice",
-    "year": 1899,
+    "year": 1925,
     "pages": 300,
     "lang": "en",
     "difficulty": 3,
@@ -11294,7 +11294,7 @@
     "genre": "poetry",
     "format": "poetry",
     "country": "IE",
-    "period": "Modern",
+    "period": "Symbolism",
     "tags": [
       "irish",
       "symbolism",
@@ -15248,21 +15248,21 @@
   {
     "title_es": "Prueba de fuego",
     "title_en": "The Exile",
-    "title_orig": "Die Feuerprobe",
+    "title_orig": "The Exile",
     "author": "BUCK, Pearl S.",
-    "year": 1932,
-    "pages": 300,
-    "lang": "de",
+    "year": 1936,
+    "pages": 326,
+    "lang": "en",
     "difficulty": 3,
     "importance": 3,
-    "genre": "novel",
+    "genre": "memoir",
     "format": "prose",
     "country": "US",
     "period": "Modern",
     "tags": [
+      "memoir",
       "china",
-      "family",
-      "trial"
+      "missionary-family"
     ],
     "url_openlibrary": "https://openlibrary.org/works/OL1140125W",
     "url_photo": "https://covers.openlibrary.org/b/id/3215453-L.jpg"
