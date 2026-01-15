@@ -37,6 +37,17 @@
         "pattern": "^[a-z]{2}$",
         "examples": ["es", "en", "fr", "de", "it"]
       },
+      "url_openlibrary": {
+        "type": ["string", "null"],
+        "description": "Open Library work URL (use the canonical /works/ path).",
+        "format": "uri",
+        "pattern": "^https?://openlibrary\\.org/.*$"
+      },
+      "url_photo": {
+        "type": ["string", "null"],
+        "description": "URL to a cover image (Open Library cover or another stable host).",
+        "format": "uri"
+      },
       "difficulty": {
         "type": ["integer", "null"],
         "description": "Reading difficulty from 1 to 5.",

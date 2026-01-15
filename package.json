@@ -11,7 +11,7 @@
 		"check": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json",
 		"check:watch": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json --watch",
 		"lint": "eslint . --ext .svelte,.ts",
-		"validate": "npx ajv-cli validate -s src/lib/data/schemas/books.schema.json -d src/lib/data/books.json && npx ajv-cli validate -s src/lib/data/schemas/authors.schema.json -d src/lib/data/authors.json"
+		"validate": "npx ajv-cli validate -c ajv-formats -s src/lib/data/schemas/books.schema.json -d src/lib/data/books.json && npx ajv-cli validate -c ajv-formats -s src/lib/data/schemas/authors.schema.json -d src/lib/data/authors.json"
 	},
 	"devDependencies": {
 		"@sveltejs/adapter-static": "^3.0.10",
@@ -24,6 +24,7 @@
 		"@typescript-eslint/parser": "^8.52.0",
 		"ajv": "^8.17.1",
 		"ajv-cli": "^5.0.0",
+		"ajv-formats": "^3.0.1",
 		"autoprefixer": "^10.4.23",
 		"eslint": "^9.39.2",
 		"eslint-config-prettier": "^10.1.8",
