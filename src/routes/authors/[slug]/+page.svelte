@@ -43,12 +43,13 @@
 </script>
 
 <section class="space-y-6">
-	<a
-		class="inline-flex items-center gap-2 text-sm font-semibold text-ink underline decoration-amber underline-offset-4"
-		href={`${base}/authors/`}
-	>
-		← {$t('authors')}
-	</a>
+	<nav class="text-xs text-ink/70 flex flex-wrap items-center gap-1">
+		<a class="hover:underline" href={base + '/'}>{$t('nav_home')}</a>
+		<span>/</span>
+		<a class="hover:underline" href={`${base}/authors/`}>{$t('authors')}</a>
+		<span>/</span>
+		<span class="text-ink">{data.author.name}</span>
+	</nav>
 
 	<article class="card space-y-4">
 		<div class="flex flex-col gap-4 md:flex-row md:items-start md:justify-between">

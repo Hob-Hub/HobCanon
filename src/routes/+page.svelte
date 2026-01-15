@@ -34,23 +34,52 @@
 			<span class="badge bg-amber text-ink">{$t('authors')}: {data.stats.totalAuthors}</span>
 			<span class="badge bg-plum text-white">{$t('top_tags')}</span>
 		</div>
+		<div class="mt-4 space-y-2">
+			<p class="text-xs uppercase tracking-[0.16em] text-ink/60">{$t('home_paths_title')}</p>
+			<div class="flex flex-wrap gap-2">
+				<a
+					class="badge bg-ink text-white"
+					href={`${base}/books/?difficulty=2&importance=4`}
+				>
+					{$t('home_paths_classics')}
+				</a>
+				<a
+					class="badge bg-amber text-ink"
+					href={`${base}/stats/`}
+				>
+					{$t('home_paths_periods')}
+				</a>
+				<a
+					class="badge bg-plum text-white"
+					href={`${base}/books/`}
+				>
+					{$t('home_paths_countries')}
+				</a>
+			</div>
+		</div>
 	</div>
 	<div class="glass rounded-2xl p-6">
 		<p class="text-sm text-ink/70">{$t('stats_blurb')}</p>
 		<div class="mt-4 grid grid-cols-2 gap-4 text-sm">
 			{#each data.stats.topGenres as genre (genre.value)}
-				<div class="card p-4">
+				<a
+					class="card p-4 group cursor-pointer"
+					href={`${base}/books/?genre=${encodeURIComponent(genre.value)}`}
+				>
 					<div class="text-xs uppercase text-ink/60">{$t('genre')}</div>
-					<div class="text-lg font-semibold text-ink">{genre.value}</div>
+					<div class="text-lg font-semibold text-ink group-hover:underline">{genre.value}</div>
 					<div class="text-xs text-ink/60">{genre.count} {$t('books')}</div>
-				</div>
+				</a>
 			{/each}
 			{#each data.stats.topTags as tag (tag.value)}
-				<div class="card p-4">
+				<a
+					class="card p-4 group cursor-pointer"
+					href={`${base}/books/?tag=${encodeURIComponent(tag.value)}`}
+				>
 					<div class="text-xs uppercase text-ink/60">{$t('tag')}</div>
-					<div class="text-lg font-semibold text-ink">{tag.value}</div>
+					<div class="text-lg font-semibold text-ink group-hover:underline">{tag.value}</div>
 					<div class="text-xs text-ink/60">{tag.count} {$t('books')}</div>
-				</div>
+				</a>
 			{/each}
 		</div>
 	</div>
