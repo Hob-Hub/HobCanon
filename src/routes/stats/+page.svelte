@@ -1,6 +1,7 @@
 <svelte:options runes={false} />
 
 <script lang="ts">
+	import { base } from '$app/paths';
 	import { t } from '$lib/i18n';
 	import type { Book } from '$lib/data/types';
 	import type { PageData } from './$types';
@@ -191,13 +192,21 @@
 				<span class="text-xs text-ink/60">Top {byGenre.length}</span>
 			</div>
 			{#each byGenre as [label, value]}
-				<div class="flex items-center gap-3">
-					<div class="w-24 text-sm font-semibold text-ink">{label}</div>
+				<a
+					class="flex items-center gap-3 group cursor-pointer"
+					href={`${base}/books/?genre=${encodeURIComponent(label)}`}
+				>
+					<div class="w-24 text-sm font-semibold text-ink group-hover:underline">
+						{label}
+					</div>
 					<div class="flex-1 rounded-full bg-ink/5">
-						<div class="h-2 rounded-full bg-ink" style={`width:${(value / maxValue(byGenre)) * 100}%`}></div>
+						<div
+							class="h-2 rounded-full bg-ink group-hover:bg-ink/90"
+							style={`width:${(value / maxValue(byGenre)) * 100}%`}
+						></div>
 					</div>
 					<div class="w-8 text-right text-sm text-ink/70">{value}</div>
-				</div>
+				</a>
 			{/each}
 		</div>
 
@@ -207,13 +216,19 @@
 				<span class="text-xs text-ink/60">Top {byLanguage.length}</span>
 			</div>
 			{#each byLanguage as [label, value]}
-				<div class="flex items-center gap-3">
-					<div class="w-16 text-sm font-semibold text-ink">{label}</div>
+				<a
+					class="flex items-center gap-3 group cursor-pointer"
+					href={`${base}/books/?language=${encodeURIComponent(label.toLowerCase())}`}
+				>
+					<div class="w-16 text-sm font-semibold text-ink group-hover:underline">{label}</div>
 					<div class="flex-1 rounded-full bg-amber/20">
-						<div class="h-2 rounded-full bg-amber" style={`width:${(value / maxValue(byLanguage)) * 100}%`}></div>
+						<div
+							class="h-2 rounded-full bg-amber group-hover:bg-amber/90"
+							style={`width:${(value / maxValue(byLanguage)) * 100}%`}
+						></div>
 					</div>
 					<div class="w-8 text-right text-sm text-ink/70">{value}</div>
-				</div>
+				</a>
 			{/each}
 		</div>
 
@@ -223,13 +238,19 @@
 				<span class="text-xs text-ink/60">Top {byCountry.length}</span>
 			</div>
 			{#each byCountry as [label, value]}
-				<div class="flex items-center gap-3">
-					<div class="w-20 text-sm font-semibold text-ink">{label}</div>
+				<a
+					class="flex items-center gap-3 group cursor-pointer"
+					href={`${base}/books/?country=${encodeURIComponent(label)}`}
+				>
+					<div class="w-20 text-sm font-semibold text-ink group-hover:underline">{label}</div>
 					<div class="flex-1 rounded-full bg-plum/15">
-						<div class="h-2 rounded-full bg-plum" style={`width:${(value / maxValue(byCountry)) * 100}%`}></div>
+						<div
+							class="h-2 rounded-full bg-plum group-hover:bg-plum/90"
+							style={`width:${(value / maxValue(byCountry)) * 100}%`}
+						></div>
 					</div>
 					<div class="w-8 text-right text-sm text-ink/70">{value}</div>
-				</div>
+				</a>
 			{/each}
 		</div>
 
@@ -239,13 +260,19 @@
 				<span class="text-xs text-ink/60">Top {byFormat.length}</span>
 			</div>
 			{#each byFormat as [label, value]}
-				<div class="flex items-center gap-3">
-					<div class="w-20 text-sm font-semibold text-ink">{label}</div>
+				<a
+					class="flex items-center gap-3 group cursor-pointer"
+					href={`${base}/books/?format=${encodeURIComponent(label)}`}
+				>
+					<div class="w-20 text-sm font-semibold text-ink group-hover:underline">{label}</div>
 					<div class="flex-1 rounded-full bg-ink/10">
-						<div class="h-2 rounded-full bg-ink" style={`width:${(value / maxValue(byFormat)) * 100}%`}></div>
+						<div
+							class="h-2 rounded-full bg-ink group-hover:bg-ink/90"
+							style={`width:${(value / maxValue(byFormat)) * 100}%`}
+						></div>
 					</div>
 					<div class="w-8 text-right text-sm text-ink/70">{value}</div>
-				</div>
+				</a>
 			{/each}
 		</div>
 	</div>
