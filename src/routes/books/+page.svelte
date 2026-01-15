@@ -29,6 +29,8 @@
 	let authorSlug = '';
 	let sortOption: BookSortOption = 'canonical';
 
+	let initializedFromUrl = false;
+
 	const resetFilters = () => {
 		search = '';
 		country = '';
@@ -63,11 +65,13 @@
 		authorSlug
 	});
 
-	$: {
-		const slugFromUrl = $page.url.searchParams.get('author') ?? '';
-		if (slugFromUrl !== authorSlug) {
-			authorSlug = slugFromUrl;
-		}
+	$: if (!initializedFromUrl) {
+		const url = $page.url;
+		const slugFromUrl = url.searchParams.get('author') ?? '';
+		const tagFromUrl = url.searchParams.get('tag') ?? '';
+		authorSlug = slugFromUrl;
+		tag = tagFromUrl;
+		initializedFromUrl = true;
 	}
 
 	$: filtered = sortBooks(filterBooks(data.books, buildFilters(), $locale), $locale, sortOption);
