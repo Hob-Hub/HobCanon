@@ -706,28 +706,6 @@
     "url_photo": "https://covers.openlibrary.org/b/id/10032877-L.jpg"
   },
   {
-    "title_es": "Historia de Roma",
-    "title_en": "History of Rome",
-    "title_orig": "Ab Urbe Condita",
-    "author": "TITO LIVIO",
-    "year": -25,
-    "pages": 1200,
-    "lang": "la",
-    "difficulty": 5,
-    "importance": 5,
-    "genre": "history",
-    "format": "prose",
-    "country": "IT",
-    "period": "Roman Republic",
-    "tags": [
-      "rome",
-      "history",
-      "republic"
-    ],
-    "url_openlibrary": "https://openlibrary.org/works/OL16280566W",
-    "url_photo": "https://covers.openlibrary.org/b/id/6611450-L.jpg"
-  },
-  {
     "title_es": "Odas",
     "title_en": "Odes",
     "title_orig": "Carmina",
@@ -2285,32 +2263,11 @@
     "tags": [
       "exploration",
       "americas",
-      "survival"
+      "survival",
+      "new-world"
     ],
     "url_openlibrary": "https://openlibrary.org/works/OL8856749W",
     "url_photo": "https://covers.openlibrary.org/b/id/5267917-L.jpg"
-  },
-  {
-    "title_es": "Naufragios",
-    "title_en": "Shipwrecks",
-    "title_orig": "Naufragios",
-    "author": "NÚÑEZ CABEZA DE VACA, Alvar",
-    "year": 1542,
-    "pages": 200,
-    "lang": "es",
-    "difficulty": 3,
-    "importance": 4,
-    "genre": "travel",
-    "format": "prose",
-    "country": "ES",
-    "period": "Renaissance",
-    "tags": [
-      "survival",
-      "exploration",
-      "new-world"
-    ],
-    "url_openlibrary": "https://openlibrary.org/works/OL8253535W",
-    "url_photo": "https://covers.openlibrary.org/b/id/2324604-L.jpg"
   },
   {
     "title_es": "Crisfal",
@@ -2379,10 +2336,10 @@
     "url_photo": "https://covers.openlibrary.org/b/id/230615-L.jpg"
   },
   {
-    "title_es": "La Vida del Lazarillo de Tormes",
+    "title_es": "El lazarillo de Tormes",
     "title_en": "Lazarillo de Tormes",
-    "title_orig": "La vida de Lazarillo de Tormes",
-    "author": "ANONYME",
+    "title_orig": "La vida de Lazarillo de Tormes y de sus fortunas y adversidades",
+    "author": "ANÓNIMO",
     "year": 1554,
     "pages": 150,
     "lang": "es",
@@ -2393,30 +2350,10 @@
     "country": "ES",
     "period": "Renaissance",
     "tags": [
-      "satire",
-      "poverty",
-      "spain"
-    ],
-    "url_openlibrary": "https://openlibrary.org/works/OL7985190W",
-    "url_photo": "https://covers.openlibrary.org/b/id/3359629-L.jpg"
-  },
-  {
-    "title_es": "El lazarillo de Tormes",
-    "title_en": "Lazarillo de Tormes",
-    "title_orig": "La vida de Lazarillo de Tormes y de sus fortunas y adversidades",
-    "author": "ANÓNIMO",
-    "year": 1554,
-    "pages": 200,
-    "lang": "es",
-    "difficulty": 3,
-    "importance": 5,
-    "genre": "picaresque",
-    "format": "prose",
-    "country": "ES",
-    "period": "Renaissance",
-    "tags": [
       "picaresque",
       "satire",
+      "poverty",
+      "spain",
       "society"
     ],
     "url_openlibrary": "https://openlibrary.org/works/OL7985190W",
@@ -2529,7 +2466,7 @@
       "portugal",
       "myth"
     ],
-    "url_openlibrary": "https://openlibrary.org/books/OL22483685M",
+    "url_openlibrary": "https://openlibrary.org/works/OL848771W",
     "url_photo": "https://covers.openlibrary.org/b/id/12692579-L.jpg"
   },
   {
@@ -2749,7 +2686,7 @@
       "baroque",
       "love"
     ],
-    "url_openlibrary": "https://openlibrary.org/works/OL38847W",
+    "url_openlibrary": "https://openlibrary.org/works/OL3016969W",
     "url_photo": "https://covers.openlibrary.org/b/id/6968826-L.jpg"
   },
   {
@@ -3519,7 +3456,7 @@
       "poetry",
       "prose"
     ],
-    "url_openlibrary": "https://openlibrary.org/works/OL634478W",
+    "url_openlibrary": "https://openlibrary.org/works/OL914814W",
     "url_photo": "https://covers.openlibrary.org/b/id/8236406-L.jpg"
   },
   {
@@ -3629,7 +3566,7 @@
       "baroque",
       "lyric"
     ],
-    "url_openlibrary": "https://openlibrary.org/works/OL38847W",
+    "url_openlibrary": "https://openlibrary.org/works/OL7079285W",
     "url_photo": "https://covers.openlibrary.org/b/id/6968826-L.jpg"
   },
   {
@@ -4223,7 +4160,7 @@
       "poetry",
       "baroque"
     ],
-    "url_openlibrary": "https://openlibrary.org/works/OL634478W",
+    "url_openlibrary": "https://openlibrary.org/works/OL10341550W",
     "url_photo": "https://covers.openlibrary.org/b/id/8236406-L.jpg"
   },
   {
@@ -5125,7 +5062,7 @@
       "lyric",
       "italy"
     ],
-    "url_openlibrary": "https://openlibrary.org/works/OL88216W",
+    "url_openlibrary": "https://openlibrary.org/works/OL739289W",
     "url_photo": "https://covers.openlibrary.org/b/id/8243308-L.jpg"
   },
   {
@@ -6423,7 +6360,7 @@
       "history",
       "theater"
     ],
-    "url_openlibrary": "https://openlibrary.org/books/OL21215997M",
+    "url_openlibrary": "https://openlibrary.org/works/OL771124W",
     "url_photo": "https://covers.openlibrary.org/b/id/10581522-L.jpg"
   },
   {
@@ -6555,7 +6492,7 @@
       "philosophy",
       "italy"
     ],
-    "url_openlibrary": "https://openlibrary.org/works/OL15102116W",
+    "url_openlibrary": "https://openlibrary.org/works/OL15102111W",
     "url_photo": "https://covers.openlibrary.org/b/id/8974564-L.jpg"
   },
   {
@@ -7903,7 +7840,7 @@
       "fairy-tale",
       "russia"
     ],
-    "url_openlibrary": "https://openlibrary.org/books/OL9695684M",
+    "url_openlibrary": "https://openlibrary.org/works/OL20820034W",
     "url_photo": "https://covers.openlibrary.org/b/id/13155007-L.jpg"
   },
   {
@@ -9891,7 +9828,7 @@
     "title_es": "La isla del tesoro",
     "title_en": "Treasure Island",
     "title_orig": "Treasure Island",
-    "author": "STEVENSON, Robert L.",
+    "author": "STEVENSON, Robert Louis",
     "year": 1883,
     "pages": 300,
     "lang": "en",
@@ -10196,28 +10133,6 @@
     "url_photo": "https://covers.openlibrary.org/b/id/6579995-L.jpg"
   },
   {
-    "title_es": "El extraño caso del Dr. Jeckill y Mr. Hide",
-    "title_en": "The Strange Case of Dr Jekyll and Mr Hyde",
-    "title_orig": "Strange Case of Dr Jekyll and Mr Hyde",
-    "author": "STEVENSON, Robert L.",
-    "year": 1886,
-    "pages": 150,
-    "lang": "en",
-    "difficulty": 3,
-    "importance": 5,
-    "genre": "novella",
-    "format": "prose",
-    "country": "GB",
-    "period": "Victorian",
-    "tags": [
-      "gothic",
-      "science",
-      "dual-nature"
-    ],
-    "url_openlibrary": "https://openlibrary.org/works/OL24156W",
-    "url_photo": "https://covers.openlibrary.org/b/id/295773-L.jpg"
-  },
-  {
     "title_es": "El extraño caso del Dr. Jekyll y Mr. Hyde",
     "title_en": "Strange Case of Dr Jekyll and Mr Hyde",
     "title_orig": "Strange Case of Dr Jekyll and Mr Hyde",
@@ -10227,13 +10142,15 @@
     "lang": "en",
     "difficulty": 3,
     "importance": 5,
-    "genre": "gothic",
+    "genre": "novella",
     "format": "prose",
     "country": "GB",
     "period": "Victorian",
     "tags": [
       "duality",
+      "gothic",
       "science",
+      "dual-nature",
       "horror"
     ],
     "url_openlibrary": "https://openlibrary.org/works/OL24156W",
@@ -11272,7 +11189,7 @@
       "art",
       "symbolism"
     ],
-    "url_openlibrary": "https://openlibrary.org/books/OL11651950M",
+    "url_openlibrary": "https://openlibrary.org/works/OL2239465W",
     "url_photo": "https://covers.openlibrary.org/b/id/2751087-L.jpg"
   },
   {
@@ -11404,7 +11321,7 @@
       "symbolism",
       "lyric"
     ],
-    "url_openlibrary": "https://openlibrary.org/works/OL38847W",
+    "url_openlibrary": "https://openlibrary.org/works/OL15344642W",
     "url_photo": "https://covers.openlibrary.org/b/id/6968826-L.jpg"
   },
   {
@@ -11690,7 +11607,7 @@
       "lyric",
       "spain"
     ],
-    "url_openlibrary": "https://openlibrary.org/works/OL1344093W",
+    "url_openlibrary": "https://openlibrary.org/works/OL913560W",
     "url_photo": "https://covers.openlibrary.org/b/id/4221032-L.jpg"
   },
   {
@@ -12460,7 +12377,7 @@
       "spain",
       "modernism"
     ],
-    "url_openlibrary": "https://openlibrary.org/works/OL38847W",
+    "url_openlibrary": null,
     "url_photo": "https://covers.openlibrary.org/b/id/6968826-L.jpg"
   },
   {
@@ -12922,7 +12839,7 @@
       "spain",
       "generation-of-98"
     ],
-    "url_openlibrary": "https://openlibrary.org/works/OL1344093W",
+    "url_openlibrary": "https://openlibrary.org/works/OL1344055W",
     "url_photo": "https://covers.openlibrary.org/b/id/4221032-L.jpg"
   },
   {
@@ -13143,7 +13060,7 @@
       "russia",
       "acmeism"
     ],
-    "url_openlibrary": "https://openlibrary.org/works/OL38847W",
+    "url_openlibrary": "https://openlibrary.org/works/OL157089W",
     "url_photo": "https://covers.openlibrary.org/b/id/6968826-L.jpg"
   },
   {
@@ -13583,7 +13500,7 @@
       "war",
       "story"
     ],
-    "url_openlibrary": "https://openlibrary.org/books/OL12556912M",
+    "url_openlibrary": "https://openlibrary.org/works/OL42469198W",
     "url_photo": "https://covers.openlibrary.org/b/id/2980661-L.jpg"
   },
   {
@@ -13605,7 +13522,7 @@
       "lyric",
       "spain"
     ],
-    "url_openlibrary": "https://openlibrary.org/works/OL38847W",
+    "url_openlibrary": "https://openlibrary.org/works/OL914308W",
     "url_photo": "https://covers.openlibrary.org/b/id/6968826-L.jpg"
   },
   {
@@ -14376,7 +14293,7 @@
       "war",
       "middle-east"
     ],
-    "url_openlibrary": "https://openlibrary.org/books/OL17095082M",
+    "url_openlibrary": "https://openlibrary.org/works/OL43254077W",
     "url_photo": "https://covers.openlibrary.org/b/id/11483409-L.jpg"
   },
   {
@@ -15016,7 +14933,7 @@
       "spain",
       "poetry"
     ],
-    "url_openlibrary": "https://openlibrary.org/works/OL38847W",
+    "url_openlibrary": "https://openlibrary.org/works/OL10717692W",
     "url_photo": "https://covers.openlibrary.org/b/id/6968826-L.jpg"
   },
   {
@@ -16120,10 +16037,10 @@
     "url_photo": "https://covers.openlibrary.org/b/id/13283921-L.jpg"
   },
   {
-    "title_es": "Lejos de África",
+    "title_es": "Memorias de Africa",
     "title_en": "Out of Africa",
-    "title_orig": "Out of Africa",
-    "author": "BLIXEN DINESEN, Karen",
+    "title_orig": "Den afrikanske farm",
+    "author": "DINESEN, Isak",
     "year": 1937,
     "pages": 400,
     "lang": "en",
@@ -16135,8 +16052,9 @@
     "period": "Modern",
     "tags": [
       "africa",
-      "memoir",
-      "colonial"
+      "colonial",
+      "kenya",
+      "memoir"
     ],
     "url_openlibrary": "https://openlibrary.org/works/OL1325749W",
     "url_photo": "https://covers.openlibrary.org/b/id/4212788-L.jpg"
@@ -16164,28 +16082,6 @@
     "url_photo": "https://covers.openlibrary.org/b/id/291324-L.jpg"
   },
   {
-    "title_es": "Memorias de Africa",
-    "title_en": "Out of Africa",
-    "title_orig": "Den afrikanske farm",
-    "author": "DINESEN, Isak",
-    "year": 1937,
-    "pages": 400,
-    "lang": "da",
-    "difficulty": 3,
-    "importance": 4,
-    "genre": "memoir",
-    "format": "prose",
-    "country": "DK",
-    "period": "Modern",
-    "tags": [
-      "africa",
-      "memoir",
-      "kenya"
-    ],
-    "url_openlibrary": "https://openlibrary.org/works/OL1325749W",
-    "url_photo": "https://covers.openlibrary.org/b/id/4212788-L.jpg"
-  },
-  {
     "title_es": "Electra",
     "title_en": "Electra",
     "title_orig": "Électre",
@@ -16204,7 +16100,7 @@
       "theater",
       "modern"
     ],
-    "url_openlibrary": "https://openlibrary.org/works/OL43858W",
+    "url_openlibrary": "https://openlibrary.org/works/OL1208128W",
     "url_photo": "https://covers.openlibrary.org/b/id/8240385-L.jpg"
   },
   {
@@ -16600,7 +16496,7 @@
       "spain",
       "poetry"
     ],
-    "url_openlibrary": "https://openlibrary.org/works/OL38847W",
+    "url_openlibrary": "https://openlibrary.org/works/OL2474988W",
     "url_photo": "https://covers.openlibrary.org/b/id/6968826-L.jpg"
   },
   {
@@ -17175,7 +17071,7 @@
       "theater",
       "corruption"
     ],
-    "url_openlibrary": "https://openlibrary.org/books/OL14423637M",
+    "url_openlibrary": "https://openlibrary.org/works/OL22439910W",
     "url_photo": "https://covers.openlibrary.org/b/id/11446235-L.jpg"
   },
   {
@@ -17860,47 +17756,26 @@
     "url_photo": "https://covers.openlibrary.org/b/olid/OL6183580M-L.jpg"
   },
   {
-    "title_es": "Don Camillo",
-    "title_en": "Don Camillo",
-    "title_orig": "Don Camillo",
+    "title_es": "Don Camilo. Un mundo pequeño",
+    "title_en": "Don Camillo: A Small World",
+    "title_orig": "Mondo piccolo: Don Camillo",
     "author": "GUARESCHI, Giovanni",
     "year": 1948,
     "pages": 250,
     "lang": "it",
     "difficulty": 2,
     "importance": 4,
-    "genre": "novel",
-    "format": "prose",
-    "country": "IT",
-    "period": "Modern",
-    "tags": [
-      "humor",
-      "religion",
-      "italy"
-    ],
-    "url_openlibrary": "https://openlibrary.org/works/OL742300W",
-    "url_photo": "https://covers.openlibrary.org/b/id/4768620-L.jpg"
-  },
-  {
-    "title_es": "Don Camilo. Un mundo pequeño",
-    "title_en": "Don Camillo: A Small World",
-    "title_orig": "Mondo piccolo",
-    "author": "GUARESCHI, Giovanni",
-    "year": 1948,
-    "pages": 250,
-    "lang": "it",
-    "difficulty": 2,
-    "importance": 3,
     "genre": "humor",
     "format": "prose",
     "country": "IT",
     "period": "Modern",
     "tags": [
+      "humor",
       "italy",
-      "village",
-      "religion"
+      "religion",
+      "village"
     ],
-    "url_openlibrary": "https://openlibrary.org/works/OL742300W",
+    "url_openlibrary": "https://openlibrary.org/works/OL742237W",
     "url_photo": "https://covers.openlibrary.org/b/id/4768620-L.jpg"
   },
   {
@@ -18428,7 +18303,7 @@
       "spain",
       "lyric"
     ],
-    "url_openlibrary": "https://openlibrary.org/works/OL15420303W",
+    "url_openlibrary": "https://openlibrary.org/works/OL11963962W",
     "url_photo": "https://covers.openlibrary.org/b/id/8238738-L.jpg"
   },
   {
@@ -19265,7 +19140,7 @@
       "argentina",
       "psychology"
     ],
-    "url_openlibrary": "https://openlibrary.org/books/OL9485764M",
+    "url_openlibrary": "https://openlibrary.org/works/OL956597W",
     "url_photo": "https://covers.openlibrary.org/b/id/2290914-L.jpg"
   },
   {
@@ -19595,7 +19470,7 @@
       "spain",
       "lyric"
     ],
-    "url_openlibrary": "https://openlibrary.org/works/OL15420303W",
+    "url_openlibrary": "https://openlibrary.org/works/OL15542429W",
     "url_photo": "https://covers.openlibrary.org/b/id/8238738-L.jpg"
   },
   {
@@ -19617,7 +19492,7 @@
       "provence",
       "memoir"
     ],
-    "url_openlibrary": "https://openlibrary.org/works/OL15727452W",
+    "url_openlibrary": "https://openlibrary.org/works/OL3171222W",
     "url_photo": "https://covers.openlibrary.org/b/id/5504716-L.jpg"
   },
   {
@@ -19639,7 +19514,7 @@
       "provence",
       "memoir"
     ],
-    "url_openlibrary": "https://openlibrary.org/works/OL15727452W",
+    "url_openlibrary": "https://openlibrary.org/works/OL3171225W",
     "url_photo": "https://covers.openlibrary.org/b/id/5504716-L.jpg"
   },
   {
@@ -19668,7 +19543,7 @@
     "title_es": "Anécdotas del destino",
     "title_en": "Anecdotes of Destiny",
     "title_orig": "Anecdotes of Destiny",
-    "author": "BLIXEN DINESEN, Karen",
+    "author": "DINESEN, Isak",
     "year": 1958,
     "pages": 250,
     "lang": "en",
@@ -20497,7 +20372,7 @@
       "anthology",
       "spain"
     ],
-    "url_openlibrary": "https://openlibrary.org/works/OL38343918W",
+    "url_openlibrary": null,
     "url_photo": "https://covers.openlibrary.org/b/olid/OL52173732M-L.jpg"
   },
   {
@@ -20805,7 +20680,7 @@
       "anthology",
       "spain"
     ],
-    "url_openlibrary": "https://openlibrary.org/works/OL38343918W",
+    "url_openlibrary": null,
     "url_photo": "https://covers.openlibrary.org/b/olid/OL52173732M-L.jpg"
   },
   {
@@ -21289,7 +21164,7 @@
       "society",
       "story"
     ],
-    "url_openlibrary": "https://openlibrary.org/books/OL9147324M",
+    "url_openlibrary": "https://openlibrary.org/works/OL1599706W",
     "url_photo": "https://covers.openlibrary.org/b/id/1048452-L.jpg"
   },
   {
@@ -21663,8 +21538,8 @@
       "czech",
       "poetry"
     ],
-    "url_openlibrary": null,
-    "url_photo": null
+    "url_openlibrary": "https://openlibrary.org/works/OL573404W",
+    "url_photo": "https://covers.openlibrary.org/b/id/9257195-L.jpg"
   },
   {
     "title_es": "La partida de caza",

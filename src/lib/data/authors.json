@@ -630,15 +630,6 @@
     "url_photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Blasco%20Iba%C3%B1ez.jpg"
   },
   {
-    "name": "BLIXEN DINESEN, Karen",
-    "alias": null,
-    "birth_year": 1885,
-    "death_year": 1962,
-    "country": "DK",
-    "url_wikipedia": null,
-    "url_photo": null
-  },
-  {
     "name": "BLOY, Léon",
     "alias": null,
     "birth_year": 1846,
@@ -856,7 +847,7 @@
   },
   {
     "name": "BÉCQUER, Gustavo Adolfo",
-    "alias": "Gustavo Adolfo Bécquer",
+    "alias": null,
     "birth_year": 1836,
     "death_year": 1870,
     "country": "ES",
@@ -1117,7 +1108,7 @@
   },
   {
     "name": "CHAMPOURCÍN, Ernestina",
-    "alias": "Ernestina de Champourcín",
+    "alias": null,
     "birth_year": 1905,
     "death_year": 1999,
     "country": "ES",
@@ -1153,7 +1144,7 @@
   },
   {
     "name": "CHEJOV, Anton",
-    "alias": "Антоша Чехонте",
+    "alias": null,
     "birth_year": 1860,
     "death_year": 1904,
     "country": "RU",
@@ -4221,15 +4212,6 @@
     "url_photo": null
   },
   {
-    "name": "NÚÑEZ CABEZA DE VACA, Alvar",
-    "alias": null,
-    "birth_year": 1485,
-    "death_year": 1556,
-    "country": "ES",
-    "url_wikipedia": null,
-    "url_photo": null
-  },
-  {
     "name": "O'CONNOR, Flannery",
     "alias": null,
     "birth_year": 1925,
@@ -5400,15 +5382,6 @@
     "url_photo": "https://commons.wikimedia.org/wiki/Special:FilePath/John%20Steinbeck%201939%20%28cropped%29.jpg"
   },
   {
-    "name": "STEVENSON, Robert L.",
-    "alias": null,
-    "birth_year": 1890,
-    "death_year": 1952,
-    "country": "US",
-    "url_wikipedia": null,
-    "url_photo": null
-  },
-  {
     "name": "STEVENSON, Robert Louis",
     "alias": null,
     "birth_year": 1850,
@@ -5612,15 +5585,6 @@
     "birth_year": 1583,
     "death_year": 1648,
     "country": "ES",
-    "url_wikipedia": null,
-    "url_photo": null
-  },
-  {
-    "name": "TITO LIVIO",
-    "alias": null,
-    "birth_year": -59,
-    "death_year": 17,
-    "country": "IT",
     "url_wikipedia": null,
     "url_photo": null
   },
