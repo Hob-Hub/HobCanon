@@ -83,6 +83,8 @@ const buildDataset = (): Dataset & { index: Index } => {
 			year: book.year ?? null,
 			pages: book.pages ?? null,
 			lang: book.lang ?? null,
+			url_openlibrary: book.url_openlibrary ?? null,
+			url_photo: book.url_photo ?? null,
 			difficulty: book.difficulty ?? null,
 			importance: book.importance ?? null,
 			genre: book.genre ?? null,

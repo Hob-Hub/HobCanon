@@ -20,6 +20,8 @@ export type Book = {
 	year: number | null;
 	pages: number | null;
 	lang: string | null;
+	url_openlibrary: string | null;
+	url_photo: string | null;
 	difficulty: number | null;
 	importance: number | null;
 	genre: string | null;

@@ -180,8 +180,8 @@
 <section class="space-y-8">
 	<div class="space-y-2">
 		<p class="text-xs uppercase tracking-[0.2em] text-ink/60">{$t('stats')}</p>
-		<h1 class="font-display text-3xl text-ink">Books overview</h1>
-		<p class="text-sm text-ink/70">Snapshots using the current static dataset.</p>
+		<h1 class="font-display text-3xl text-ink">{$t('stats_overview_title')}</h1>
+		<p class="text-sm text-ink/70">{$t('stats_overview_subtitle')}</p>
 	</div>
 
 	<div class="grid gap-6 md:grid-cols-2">
@@ -253,8 +253,8 @@
 	<div class="space-y-6">
 		<div class="card space-y-3">
 			<div class="flex items-center justify-between">
-				<h2 class="text-sm uppercase tracking-[0.12em] text-ink/60">Timeline by century</h2>
-				<span class="text-xs text-ink/60">Up to 18c</span>
+				<h2 class="text-sm uppercase tracking-[0.12em] text-ink/60">{$t('timeline_century')}</h2>
+				<span class="text-xs text-ink/60">{$t('timeline_century_hint')}</span>
 			</div>
 			<div class="w-full">
 				<svg
@@ -307,7 +307,7 @@
 						text-anchor="start"
 						class="fill-ink/50"
 					>
-						Conteo
+						{$t('chart_count')}
 					</text>
 					<text
 						x={(centuryChart.padding.left + centuryChart.width - centuryChart.padding.right) / 2}
@@ -316,7 +316,7 @@
 						text-anchor="middle"
 						class="fill-ink/50"
 					>
-						Periodo
+						{$t('chart_period')}
 					</text>
 					<polyline
 						points={centuryChart.polyline}
@@ -352,8 +352,8 @@
 
 		<div class="card space-y-3">
 			<div class="flex items-center justify-between">
-				<h2 class="text-sm uppercase tracking-[0.12em] text-ink/60">Timeline by decade</h2>
-				<span class="text-xs text-ink/60">1800s-1990s</span>
+				<h2 class="text-sm uppercase tracking-[0.12em] text-ink/60">{$t('timeline_decade')}</h2>
+				<span class="text-xs text-ink/60">{$t('timeline_decade_hint')}</span>
 			</div>
 			<div class="w-full">
 				<svg
@@ -406,7 +406,7 @@
 						text-anchor="start"
 						class="fill-ink/50"
 					>
-						Conteo
+						{$t('chart_count')}
 					</text>
 					<text
 						x={(decadeChart.padding.left + decadeChart.width - decadeChart.padding.right) / 2}
@@ -415,7 +415,7 @@
 						text-anchor="middle"
 						class="fill-ink/50"
 					>
-						Periodo
+						{$t('chart_period')}
 					</text>
 					<polyline
 						points={decadeChart.polyline}
@@ -452,7 +452,7 @@
 	<div class="grid gap-6 md:grid-cols-2">
 		<div class="card space-y-3">
 			<div class="flex items-center justify-between">
-				<h2 class="text-sm uppercase tracking-[0.12em] text-ink/60">Difficulty</h2>
+				<h2 class="text-sm uppercase tracking-[0.12em] text-ink/60">{$t('difficulty_label')}</h2>
 				<span class="text-xs text-ink/60">1-5</span>
 			</div>
 			<div class="flex items-end justify-between gap-4">
@@ -472,7 +472,7 @@
 		</div>
 		<div class="card space-y-3">
 			<div class="flex items-center justify-between">
-				<h2 class="text-sm uppercase tracking-[0.12em] text-ink/60">Importance</h2>
+				<h2 class="text-sm uppercase tracking-[0.12em] text-ink/60">{$t('importance_label')}</h2>
 				<span class="text-xs text-ink/60">1-5</span>
 			</div>
 			<div class="flex items-end justify-between gap-4">

@@ -121,7 +121,7 @@
 					{#if author.death_year} — {author.death_year}{/if}
 					{#if author.country} • {author.country}{/if}
 				</p>
-				<a class="link inline-flex items-center gap-2 text-sm" href={`/authors/${author.slug}/`}>
+				<a class="link inline-flex items-center gap-2 text-sm" href={`${base}/authors/${author.slug}/`}>
 					{$t('read_more')}
 				</a>
 			</article>

@@ -7,6 +7,39 @@
 	import type { PageData } from './$types';
 
 	export let data: PageData;
+
+	type AuthorProfile = {
+		genres: string[];
+		periods: string[];
+	};
+
+	const buildAuthorProfile = (): AuthorProfile => {
+		const genreCounts = new Map<string, number>();
+		const periodCounts = new Map<string, number>();
+
+		for (const book of data.books) {
+			if (book.genre) {
+				genreCounts.set(book.genre, (genreCounts.get(book.genre) ?? 0) + 1);
+			}
+			if (book.period) {
+				periodCounts.set(book.period, (periodCounts.get(book.period) ?? 0) + 1);
+			}
+		}
+
+		const topGenres = [...genreCounts.entries()]
+			.sort((a, b) => b[1] - a[1])
+			.slice(0, 3)
+			.map(([genre]) => genre);
+
+		const topPeriods = [...periodCounts.entries()]
+			.sort((a, b) => b[1] - a[1])
+			.slice(0, 3)
+			.map(([period]) => period);
+
+		return { genres: topGenres, periods: topPeriods };
+	};
+
+	const profile = buildAuthorProfile();
 </script>
 
 <section class="space-y-6">
@@ -38,6 +71,12 @@
 			</div>
 			<div class="flex flex-col items-start gap-3 md:items-end">
 				<span class="badge bg-amber text-ink">{data.books.length} {$t('books')}</span>
+				<a
+					class="badge bg-ink text-white"
+					href={`${base}/books/?author=${data.author.slug}`}
+				>
+					{$t('books')}
+				</a>
 				{#if data.author.url_photo}
 					<a
 						class="block"
@@ -56,28 +95,49 @@
 			</div>
 		</div>
 
-		<div class="grid gap-3 md:grid-cols-3">
-			<div class="glass rounded-xl p-4">
-				<div class="text-xs uppercase text-ink/60">{$t('country')}</div>
-				<div class="text-lg font-semibold text-ink">
-					{#if data.author.country}
-						<span class="flag">{flagFromCountry(data.author.country)}</span>
-						&nbsp;{formatCountryName(data.author.country, $locale)}
-					{:else}
-						N/A
-					{/if}
+			<div class="grid gap-3 md:grid-cols-3">
+				<div class="glass rounded-xl p-4">
+					<div class="text-xs uppercase text-ink/60">{$t('country')}</div>
+					<div class="text-lg font-semibold text-ink">
+						{#if data.author.country}
+							<span class="flag">{flagFromCountry(data.author.country)}</span>
+							&nbsp;{formatCountryName(data.author.country, $locale)}
+						{:else}
+							{$t('not_available')}
+						{/if}
+					</div>
+				</div>
+				<div class="glass rounded-xl p-4">
+					<div class="text-xs uppercase text-ink/60">{$t('birth')}</div>
+					<div class="text-lg font-semibold text-ink">{data.author.birth_year ?? $t('not_available')}</div>
+				</div>
+				<div class="glass rounded-xl p-4">
+					<div class="text-xs uppercase text-ink/60">{$t('death')}</div>
+					<div class="text-lg font-semibold text-ink">{data.author.death_year ?? $t('not_available')}</div>
 				</div>
 			</div>
-			<div class="glass rounded-xl p-4">
-				<div class="text-xs uppercase text-ink/60">{$t('birth')}</div>
-				<div class="text-lg font-semibold text-ink">{data.author.birth_year ?? 'N/A'}</div>
-			</div>
-			<div class="glass rounded-xl p-4">
-				<div class="text-xs uppercase text-ink/60">{$t('death')}</div>
-				<div class="text-lg font-semibold text-ink">{data.author.death_year ?? 'N/A'}</div>
-			</div>
-		</div>
-	</article>
+
+			{#if profile.genres.length || profile.periods.length}
+				<div class="mt-4 grid gap-3 md:grid-cols-2">
+					{#if profile.genres.length}
+						<div class="flex flex-wrap items-center gap-2 text-xs">
+							<span class="text-ink/60 uppercase tracking-[0.12em]">{$t('genre')}</span>
+							{#each profile.genres as genre}
+								<span class="badge bg-sand text-ink">{genre}</span>
+							{/each}
+						</div>
+					{/if}
+					{#if profile.periods.length}
+						<div class="flex flex-wrap items-center gap-2 text-xs">
+							<span class="text-ink/60 uppercase tracking-[0.12em]">{$t('period')}</span>
+							{#each profile.periods as period}
+								<span class="badge bg-amber/30 text-ink">{period}</span>
+							{/each}
+						</div>
+					{/if}
+				</div>
+			{/if}
+		</article>
 
 	<section class="space-y-3">
 		<h2 class="font-display text-2xl text-ink">{$t('books')}</h2>

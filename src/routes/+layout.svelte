@@ -20,7 +20,11 @@
 		return stripped === '' ? '/' : stripped;
 	};
 
-	const isActive = (_path: string) => false;
+	const isActive = (target: string) => {
+		const current = normalizePath($page.url.pathname);
+		const normalizedTarget = normalizePath(target);
+		return current === normalizedTarget;
+	};
 </script>
 
 <svelte:head>
@@ -60,7 +64,7 @@
 					href={base + '/stats'}
 					aria-current={isActive(base + '/stats') ? 'page' : undefined}
 				>
-					Stats
+					{$t('stats')}
 				</a>
 				<button
 					type="button"

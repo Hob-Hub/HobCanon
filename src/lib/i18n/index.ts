@@ -47,7 +47,28 @@ const dictionaries: Record<Language, Record<string, string>> = {
 		read_more: 'Open details',
 		birth: 'Birth',
 		death: 'Death',
-		stats_blurb: 'Browse a living bookshelf with gentle filters and smart tags.'
+		stats_blurb: 'Browse a living bookshelf with gentle filters and smart tags.',
+		stats_overview_title: 'Books overview',
+		stats_overview_subtitle: 'Snapshots using the current static dataset.',
+		timeline_century: 'Timeline by century',
+		timeline_century_hint: 'Up to 18c',
+		timeline_decade: 'Timeline by decade',
+		timeline_decade_hint: '1800s–1990s',
+		difficulty_label: 'Difficulty',
+		importance_label: 'Importance',
+		chart_count: 'Count',
+		chart_period: 'Period',
+		search_placeholder_books: 'Title, author, genre...',
+		search_placeholder_authors: 'Name or alias...',
+		not_available: 'N/A',
+		pages: 'Pages',
+		min_books: 'Min. books in canon',
+		/** sorting */
+		sort_by: 'Sort by',
+		sort_canonical: 'Canonical relevance',
+		sort_title: 'Title',
+		sort_books: 'Books in canon',
+		sort_name: 'Name'
 	},
 	es: {
 		brand: 'HobCanon',
@@ -94,7 +115,28 @@ const dictionaries: Record<Language, Record<string, string>> = {
 		read_more: 'Abrir detalle',
 		birth: 'Nacimiento',
 		death: 'Fallecimiento',
-		stats_blurb: 'Explora esta estantería viva con filtros suaves y etiquetas inteligentes.'
+		stats_blurb: 'Explora esta estantería viva con filtros suaves y etiquetas inteligentes.',
+		stats_overview_title: 'Panorama de libros',
+		stats_overview_subtitle: 'Instantáneas usando el conjunto de datos estático actual.',
+		timeline_century: 'Cronología por siglo',
+		timeline_century_hint: 'Hasta el siglo XVIII',
+		timeline_decade: 'Cronología por década',
+		timeline_decade_hint: '1800–1990',
+		difficulty_label: 'Dificultad',
+		importance_label: 'Importancia',
+		chart_count: 'Conteo',
+		chart_period: 'Periodo',
+		search_placeholder_books: 'Título, autor, género...',
+		search_placeholder_authors: 'Nombre o alias...',
+		not_available: 'N/D',
+		pages: 'Páginas',
+		min_books: 'Mín. libros en el canon',
+		/** sorting */
+		sort_by: 'Ordenar por',
+		sort_canonical: 'Relevancia canónica',
+		sort_title: 'Título',
+		sort_books: 'Libros en el canon',
+		sort_name: 'Nombre'
 	}
 };
 

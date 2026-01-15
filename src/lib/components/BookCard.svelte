@@ -1,6 +1,7 @@
 <svelte:options runes={false} />
 
 <script lang="ts">
+	import { createEventDispatcher } from 'svelte';
 	import { base } from '$app/paths';
 	import type { Book } from '$lib/data/types';
 	import {
@@ -14,6 +15,15 @@
 	} from '$lib/i18n';
 
 	export let book: Book;
+
+	const dispatch = createEventDispatcher<{ tag: { tag: string } }>();
+
+	const summary = () => {
+		const parts = [book.genre, book.period, book.lang?.toUpperCase()].filter(Boolean);
+		return parts.join(' • ');
+	};
+
+	const topTags = () => book.tags.slice(0, 3);
 </script>
 
 <article class="card flex flex-col gap-3">
@@ -25,6 +35,9 @@
 				</a>
 			</h3>
 			<p class="text-sm text-ink/70 uppercase tracking-[0.12em]">{book.author}</p>
+			{#if summary()}
+				<p class="text-xs text-ink/60 mt-1">{summary()}</p>
+			{/if}
 		</div>
 		<div class="flex flex-wrap gap-2">
 			{#if book.format}
@@ -77,4 +90,17 @@
 			{$t('see_book')}
 		</a>
 	</div>
+	{#if book.tags.length}
+		<div class="flex flex-wrap gap-2 pt-2">
+			{#each topTags() as tag}
+				<button
+					type="button"
+					class="badge badge-ink"
+					on:click={() => dispatch('tag', { tag })}
+				>
+					{tag}
+				</button>
+			{/each}
+		</div>
+	{/if}
 </article>

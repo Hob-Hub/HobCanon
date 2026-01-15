@@ -43,7 +43,7 @@
 		<div class="grid gap-3 md:grid-cols-3">
 			<div class="glass rounded-xl p-4">
 				<div class="text-xs uppercase text-ink/60">{$t('year_range')}</div>
-				<div class="text-lg font-semibold text-ink">{data.book.year ?? 'N/A'}</div>
+				<div class="text-lg font-semibold text-ink">{data.book.year ?? $t('not_available')}</div>
 			</div>
 			<div class="glass rounded-xl p-4">
 				<div class="text-xs uppercase text-ink/60">{$t('language')}</div>
@@ -52,7 +52,7 @@
 						<span class="flag">{flagForLanguage(data.book.lang)}</span>
 						&nbsp;{formatLanguageName(data.book.lang, $locale)}
 					{:else}
-						N/A
+						{$t('not_available')}
 					{/if}
 				</div>
 			</div>
@@ -63,17 +63,17 @@
 						<span class="flag">{flagFromCountry(data.book.country)}</span>
 						&nbsp;{formatCountryName(data.book.country, $locale)}
 					{:else}
-						N/A
+						{$t('not_available')}
 					{/if}
 				</div>
 			</div>
 			<div class="glass rounded-xl p-4">
 				<div class="text-xs uppercase text-ink/60">{$t('difficulty')}</div>
-				<div class="text-lg font-semibold text-ink">{data.book.difficulty ?? 'N/A'}</div>
+				<div class="text-lg font-semibold text-ink">{data.book.difficulty ?? $t('not_available')}</div>
 			</div>
 			<div class="glass rounded-xl p-4">
 				<div class="text-xs uppercase text-ink/60">{$t('importance')}</div>
-				<div class="text-lg font-semibold text-ink">{data.book.importance ?? 'N/A'}</div>
+				<div class="text-lg font-semibold text-ink">{data.book.importance ?? $t('not_available')}</div>
 			</div>
 		</div>
 
@@ -88,19 +88,19 @@
 		<div class="grid gap-3 md:grid-cols-2">
 			<div class="glass rounded-xl p-4">
 				<div class="text-xs uppercase text-ink/60">{$t('format')}</div>
-				<div class="text-lg font-semibold text-ink">{data.book.format ?? 'N/A'}</div>
+				<div class="text-lg font-semibold text-ink">{data.book.format ?? $t('not_available')}</div>
 			</div>
 			<div class="glass rounded-xl p-4">
 				<div class="text-xs uppercase text-ink/60">{$t('genre')}</div>
-				<div class="text-lg font-semibold text-ink">{data.book.genre ?? 'N/A'}</div>
+				<div class="text-lg font-semibold text-ink">{data.book.genre ?? $t('not_available')}</div>
 			</div>
 			<div class="glass rounded-xl p-4">
 				<div class="text-xs uppercase text-ink/60">{$t('period')}</div>
-				<div class="text-lg font-semibold text-ink">{data.book.period ?? 'N/A'}</div>
+				<div class="text-lg font-semibold text-ink">{data.book.period ?? $t('not_available')}</div>
 			</div>
 			<div class="glass rounded-xl p-4">
-				<div class="text-xs uppercase text-ink/60">Pages</div>
-				<div class="text-lg font-semibold text-ink">{data.book.pages ?? 'N/A'}</div>
+				<div class="text-xs uppercase text-ink/60">{$t('pages')}</div>
+				<div class="text-lg font-semibold text-ink">{data.book.pages ?? $t('not_available')}</div>
 			</div>
 		</div>
 	</article>
