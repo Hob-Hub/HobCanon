@@ -15,6 +15,8 @@ export type BookFilters = {
 	importanceMin: string; // numeric string or ''
 	yearFrom: number;
 	yearTo: number;
+	pagesFrom: number;
+	pagesTo: number;
 	authorSlug: string;
 };
 
@@ -56,6 +58,7 @@ export const filterBooks = (
 		if (importanceMin !== null && (book.importance ?? 0) < importanceMin) return false;
 
 		if (!matchesRange(book.year, filters.yearFrom, filters.yearTo)) return false;
+		if (!matchesRange(book.pages, filters.pagesFrom, filters.pagesTo)) return false;
 
 		return true;
 	});

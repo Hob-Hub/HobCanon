@@ -4,6 +4,7 @@
 	import { base } from '$app/paths';
 	import BookCard from '$lib/components/BookCard.svelte';
 	import { flagFromCountry, formatCountryName, locale, t } from '$lib/i18n';
+	import type { Book } from '$lib/data/types';
 	import type { PageData } from './$types';
 
 	export let data: PageData;
@@ -11,6 +12,11 @@
 	type AuthorProfile = {
 		genres: string[];
 		periods: string[];
+	};
+
+	type BookGroup = {
+		label: string;
+		books: Book[];
 	};
 
 	const buildAuthorProfile = (): AuthorProfile => {
@@ -40,6 +46,21 @@
 	};
 
 	const profile = buildAuthorProfile();
+
+	const groupedByGenre: BookGroup[] = (() => {
+		const groups = new Map<string, Book[]>();
+		for (const book of data.books) {
+			const key = book.genre ?? '—';
+			const existing = groups.get(key) ?? [];
+			groups.set(key, [...existing, book]);
+		}
+		return [...groups.entries()]
+			.sort(([a], [b]) => a.localeCompare(b))
+			.map(([label, books]) => ({
+				label,
+				books: [...books].sort((a, b) => (b.importance ?? 0) - (a.importance ?? 0))
+			}));
+	})();
 </script>
 
 <section class="space-y-6">
@@ -145,9 +166,18 @@
 		{#if data.books.length === 0}
 			<div class="card text-ink/70">{$t('empty_state')}</div>
 		{:else}
-			<div class="grid gap-3">
-				{#each data.books as book (book.slug)}
-					<BookCard {book} />
+			<div class="space-y-4">
+				{#each groupedByGenre as group (group.label)}
+					<div class="space-y-2">
+						<h3 class="text-xs uppercase tracking-[0.16em] text-ink/60">
+							{group.label}
+						</h3>
+						<div class="grid gap-3">
+							{#each group.books as book (book.slug)}
+								<BookCard {book} />
+							{/each}
+						</div>
+					</div>
 				{/each}
 			</div>
 		{/if}

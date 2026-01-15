@@ -15,6 +15,10 @@
 	const minYear = years.length ? Math.min(...years) : 0;
 	const maxYear = years.length ? Math.max(...years) : new Date().getFullYear();
 
+	const pages = data.books.map((b) => b.pages).filter((p): p is number => typeof p === 'number');
+	const minPages = pages.length ? Math.min(...pages) : 0;
+	const maxPages = pages.length ? Math.max(...pages) : 0;
+
 	let search = '';
 	let country = '';
 	let language = '';
@@ -26,6 +30,8 @@
 	let importance = '';
 	let yearFrom = minYear;
 	let yearTo = maxYear;
+	let pagesFrom = minPages;
+	let pagesTo = maxPages;
 	let authorSlug = '';
 	let sortOption: BookSortOption = 'canonical';
 
@@ -43,6 +49,8 @@
 		importance = '';
 		yearFrom = minYear;
 		yearTo = maxYear;
+		pagesFrom = minPages;
+		pagesTo = maxPages;
 		authorSlug = '';
 		sortOption = 'canonical';
 		if (typeof window !== 'undefined') {
@@ -62,6 +70,8 @@
 		importanceMin: importance,
 		yearFrom,
 		yearTo,
+		pagesFrom,
+		pagesTo,
 		authorSlug
 	});
 
@@ -127,6 +137,26 @@
 							bind:value={yearTo}
 							min={yearFrom}
 							max={maxYear}
+						/>
+					</div>
+				</label>
+
+				<label class="flex flex-col gap-2 text-sm">
+					<span class="text-ink/70">{$t('pages')}</span>
+					<div class="flex gap-2">
+						<input
+							class="w-full rounded-xl border border-ink/10 bg-white/80 px-3 py-2"
+							type="number"
+							bind:value={pagesFrom}
+							min={minPages}
+							max={pagesTo}
+						/>
+						<input
+							class="w-full rounded-xl border border-ink/10 bg-white/80 px-3 py-2"
+							type="number"
+							bind:value={pagesTo}
+							min={pagesFrom}
+							max={maxPages}
 						/>
 					</div>
 				</label>
@@ -234,7 +264,7 @@
 			</div>
 		</div>
 
-		{#if search || country || language || format || genre || tag || period || difficulty || importance || authorSlug}
+		{#if search || country || language || format || genre || tag || period || difficulty || importance || authorSlug || pagesFrom !== minPages || pagesTo !== maxPages}
 			<div class="flex flex-wrap gap-2 text-xs">
 				{#if search}
 					<button
@@ -288,6 +318,18 @@
 						onclick={() => (tag = '')}
 					>
 						{$t('tag')}: {tag} ✕
+					</button>
+				{/if}
+				{#if pagesFrom !== minPages || pagesTo !== maxPages}
+					<button
+						type="button"
+						class="badge bg-sand text-ink"
+						onclick={() => {
+							pagesFrom = minPages;
+							pagesTo = maxPages;
+						}}
+					>
+						{$t('pages')}: {pagesFrom}–{pagesTo} ✕
 					</button>
 				{/if}
 				{#if period}
