@@ -69,8 +69,18 @@
 		const url = $page.url;
 		const slugFromUrl = url.searchParams.get('author') ?? '';
 		const tagFromUrl = url.searchParams.get('tag') ?? '';
+		const genreFromUrl = url.searchParams.get('genre') ?? '';
+		const countryFromUrl = url.searchParams.get('country') ?? '';
+		const languageFromUrl = url.searchParams.get('language') ?? '';
+		const formatFromUrl = url.searchParams.get('format') ?? '';
+
 		authorSlug = slugFromUrl;
 		tag = tagFromUrl;
+		genre = genreFromUrl;
+		country = countryFromUrl;
+		language = languageFromUrl;
+		format = formatFromUrl;
+
 		initializedFromUrl = true;
 	}
 
