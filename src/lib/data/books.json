@@ -1677,28 +1677,6 @@
   {
     "title_es": "La divina comedia",
     "title_en": "The Divine Comedy",
-    "title_orig": "Commedia",
-    "author": "DANTE, Alighieri",
-    "year": 1320,
-    "pages": 800,
-    "lang": "it",
-    "difficulty": 5,
-    "importance": 5,
-    "genre": "epic",
-    "format": "poetry",
-    "country": "IT",
-    "period": "Medieval",
-    "tags": [
-      "afterlife",
-      "allegory",
-      "religion"
-    ],
-    "url_openlibrary": "https://openlibrary.org/works/OL31708112W",
-    "url_photo": "https://covers.openlibrary.org/b/olid/OL40737179M-L.jpg"
-  },
-  {
-    "title_es": "Divina Comedia",
-    "title_en": "Divine Comedy",
     "title_orig": "La divina commedia",
     "author": "DANTE, Alighieri",
     "year": 1320,
@@ -1713,10 +1691,11 @@
     "tags": [
       "afterlife",
       "allegory",
+      "religion",
       "theology"
     ],
-    "url_openlibrary": "https://openlibrary.org/works/OL40125240W",
-    "url_photo": "https://covers.openlibrary.org/b/olid/OL54880742M-L.jpg"
+    "url_openlibrary": "https://openlibrary.org/works/OL93082W",
+    "url_photo": "https://covers.openlibrary.org/b/id/8240385-L.jpg"
   },
   {
     "title_es": "Libro de buen amor",
