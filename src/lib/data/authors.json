@@ -604,9 +604,9 @@
   },
   {
     "name": "BLACKMORE, Richard",
-    "alias": null,
-    "birth_year": 1654,
-    "death_year": 1729,
+    "alias": "Richard Doddridge Blackmore",
+    "birth_year": 1825,
+    "death_year": 1900,
     "country": "GB",
     "url_wikipedia": null,
     "url_photo": null
@@ -2792,8 +2792,8 @@
   {
     "name": "HOMERO",
     "alias": null,
-    "birth_year": -900,
-    "death_year": -800,
+    "birth_year": -750,
+    "death_year": -700,
     "country": "GR",
     "url_wikipedia": null,
     "url_photo": null
@@ -4511,8 +4511,8 @@
   {
     "name": "PLA, Josep",
     "alias": null,
-    "birth_year": 1728,
-    "death_year": 1762,
+    "birth_year": 1897,
+    "death_year": 1981,
     "country": "ES",
     "url_wikipedia": null,
     "url_photo": null
