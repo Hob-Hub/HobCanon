@@ -50,13 +50,13 @@
       },
       "difficulty": {
         "type": ["integer", "null"],
-        "description": "Reading difficulty from 1 to 5.",
+        "description": "Reading difficulty from 1 to 5. Scale: 1=very accessible; 2=easy narrative/modern translation; 3=moderate classic; 4=advanced (archaic form, dense style, long works); 5=very advanced, epic/technical texts that need context.",
         "minimum": 1,
         "maximum": 5
       },
       "importance": {
         "type": ["integer", "null"],
-        "description": "Importance or impact from 1 to 5 (e.g. canonical relevance or personal reading plan priority).",
+        "description": "Importance or impact from 1 to 5. Scale: 1=minor; 2=secondary/regional; 3=notable/representative; 4=major within a tradition or period; 5=canonical or foundational (high priority).",
         "minimum": 1,
         "maximum": 5
       },
