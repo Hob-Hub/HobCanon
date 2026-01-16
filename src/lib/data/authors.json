@@ -207,15 +207,6 @@
     "url_photo": "https://commons.wikimedia.org/wiki/Special:FilePath/S.%20Kragujevic%2C%20Ivo%20Andric%2C%201961.jpg"
   },
   {
-    "name": "ANONYME",
-    "alias": null,
-    "birth_year": null,
-    "death_year": null,
-    "country": null,
-    "url_wikipedia": null,
-    "url_photo": null
-  },
-  {
     "name": "ANOUILH, Jean",
     "alias": null,
     "birth_year": 1910,
@@ -227,8 +218,8 @@
   {
     "name": "ANÓNIMO",
     "alias": null,
-    "birth_year": 1320,
-    "death_year": 1360,
+    "birth_year": null,
+    "death_year": null,
     "country": null,
     "url_wikipedia": null,
     "url_photo": null
@@ -236,8 +227,8 @@
   {
     "name": "APOLONIO DE RODAS",
     "alias": null,
-    "birth_year": -294,
-    "death_year": -214,
+    "birth_year": -295,
+    "death_year": -215,
     "country": "EG",
     "url_wikipedia": null,
     "url_photo": null
@@ -614,7 +605,7 @@
   {
     "name": "BLACKMORE, Richard",
     "alias": null,
-    "birth_year": 1945,
+    "birth_year": 1654,
     "death_year": 1729,
     "country": "GB",
     "url_wikipedia": null,
@@ -875,8 +866,8 @@
   {
     "name": "CABEZA DE VACA, Alvar Núñez",
     "alias": null,
-    "birth_year": 1490,
-    "death_year": 1559,
+    "birth_year": 1485,
+    "death_year": 1556,
     "country": "ES",
     "url_wikipedia": "https://en.wikipedia.org/wiki/%C3%81lvar_N%C3%BA%C3%B1ez_Cabeza_de_Vaca",
     "url_photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Cabeza%20de%20Vaca1.jpg"
@@ -920,8 +911,8 @@
   {
     "name": "CALÍMACO",
     "alias": null,
-    "birth_year": -305,
-    "death_year": -239,
+    "birth_year": -320,
+    "death_year": -243,
     "country": "LY",
     "url_wikipedia": null,
     "url_photo": null
@@ -1191,7 +1182,7 @@
     "name": "CICERÓN, Marco Tulio",
     "alias": null,
     "birth_year": -106,
-    "death_year": -42,
+    "death_year": -43,
     "country": "IT",
     "url_wikipedia": null,
     "url_photo": null
@@ -1199,8 +1190,8 @@
   {
     "name": "CLARE, John",
     "alias": null,
-    "birth_year": 1564,
-    "death_year": 1637,
+    "birth_year": 1793,
+    "death_year": 1864,
     "country": null,
     "url_wikipedia": null,
     "url_photo": null
@@ -1325,8 +1316,8 @@
   {
     "name": "CRANE, Stephen",
     "alias": null,
-    "birth_year": 1709,
-    "death_year": 1780,
+    "birth_year": 1871,
+    "death_year": 1900,
     "country": "US",
     "url_wikipedia": null,
     "url_photo": null
@@ -1487,8 +1478,8 @@
   {
     "name": "DEMÓSTENES",
     "alias": null,
-    "birth_year": null,
-    "death_year": null,
+    "birth_year": -384,
+    "death_year": -322,
     "country": "PE",
     "url_wikipedia": "https://en.wikipedia.org/wiki/Demosthenes",
     "url_photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Demosthenes%20orator%20Louvre.jpg"
@@ -1496,7 +1487,7 @@
   {
     "name": "DENEVI, Marco",
     "alias": null,
-    "birth_year": 1920,
+    "birth_year": 1922,
     "death_year": 1998,
     "country": "AR",
     "url_wikipedia": null,
@@ -1811,16 +1802,16 @@
   {
     "name": "ESOPO",
     "alias": null,
-    "birth_year": -619,
-    "death_year": -563,
-    "country": "BG",
+    "birth_year": -620,
+    "death_year": -564,
+    "country": "GR",
     "url_wikipedia": null,
     "url_photo": null
   },
   {
     "name": "ESPINEL, Vicente",
     "alias": null,
-    "birth_year": 1551,
+    "birth_year": 1550,
     "death_year": 1624,
     "country": "ES",
     "url_wikipedia": null,
@@ -1847,8 +1838,8 @@
   {
     "name": "ESQUILO",
     "alias": null,
-    "birth_year": -524,
-    "death_year": -455,
+    "birth_year": -525,
+    "death_year": -456,
     "country": "GR",
     "url_wikipedia": null,
     "url_photo": null
@@ -1892,7 +1883,7 @@
   {
     "name": "FEDRO",
     "alias": null,
-    "birth_year": 15,
+    "birth_year": -20,
     "death_year": 50,
     "country": "IT",
     "url_wikipedia": "https://en.wikipedia.org/wiki/Phaedrus_(fabulist)",
@@ -2289,8 +2280,8 @@
     "name": "GOLDONI, Carlo",
     "alias": "Polisseno Fegejo",
     "birth_year": 1707,
-    "death_year": 1793,
-    "country": "FR",
+    "death_year": 1794,
+    "country": "IT",
     "url_wikipedia": "https://en.wikipedia.org/wiki/Carlo_Goldoni",
     "url_photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Alessandro%20Longhi%20-%20Ritratto%20di%20Carlo%20Goldoni%20%28c%201757%29%20Ca%20Goldoni%20Venezia.jpg"
   },
@@ -2450,7 +2441,7 @@
   {
     "name": "GRIMMELSHAUSEN, Hans Jakob Christoffel von",
     "alias": "Erich Stainfels von Frufensholm",
-    "birth_year": 1622,
+    "birth_year": 1621,
     "death_year": 1676,
     "country": "DE",
     "url_wikipedia": null,
@@ -2828,8 +2819,8 @@
   {
     "name": "HORACIO FLACO, Quinto",
     "alias": null,
-    "birth_year": -64,
-    "death_year": -7,
+    "birth_year": -65,
+    "death_year": -8,
     "country": "IT",
     "url_wikipedia": null,
     "url_photo": null
@@ -2964,7 +2955,7 @@
     "name": "JENOFONTE",
     "alias": null,
     "birth_year": -430,
-    "death_year": -353,
+    "death_year": -354,
     "country": "GR",
     "url_wikipedia": null,
     "url_photo": null
@@ -3018,7 +3009,7 @@
     "name": "JOINVILLE, Jean de",
     "alias": null,
     "birth_year": 1224,
-    "death_year": 1318,
+    "death_year": 1317,
     "country": "FR",
     "url_wikipedia": null,
     "url_photo": null
@@ -3054,7 +3045,7 @@
     "name": "JUAN MANUEL, Infante Don",
     "alias": null,
     "birth_year": 1282,
-    "death_year": 1349,
+    "death_year": 1348,
     "country": "ES",
     "url_wikipedia": null,
     "url_photo": null
@@ -3378,7 +3369,7 @@
     "name": "LEPRINCE DE BEAUMONT, Jeanne-Marie",
     "alias": null,
     "birth_year": 1711,
-    "death_year": 1776,
+    "death_year": 1780,
     "country": "FR",
     "url_wikipedia": null,
     "url_photo": null
@@ -3485,8 +3476,8 @@
   {
     "name": "LOPES, Fernão",
     "alias": null,
-    "birth_year": 1500,
-    "death_year": 1559,
+    "birth_year": 1385,
+    "death_year": 1458,
     "country": "PT",
     "url_wikipedia": null,
     "url_photo": null
@@ -3582,7 +3573,7 @@
     "url_photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Babington%20Macaulay.jpg"
   },
   {
-    "name": "MACCULLERS, Carson",
+    "name": "McCULLERS, Carson",
     "alias": null,
     "birth_year": 1917,
     "death_year": 1967,
@@ -3738,7 +3729,7 @@
     "name": "MARAGALL, Joan",
     "alias": null,
     "birth_year": 1860,
-    "death_year": 1910,
+    "death_year": 1911,
     "country": "ES",
     "url_wikipedia": null,
     "url_photo": null
@@ -4295,7 +4286,7 @@
   {
     "name": "OVIDIO NASÓN, Publio",
     "alias": null,
-    "birth_year": -42,
+    "birth_year": -43,
     "death_year": 17,
     "country": "IT",
     "url_wikipedia": null,
@@ -4647,7 +4638,7 @@
     "name": "PRUDENCIO CLEMENTE, Aurelio",
     "alias": null,
     "birth_year": 348,
-    "death_year": 405,
+    "death_year": 413,
     "country": "ES",
     "url_wikipedia": null,
     "url_photo": null
@@ -4655,8 +4646,8 @@
   {
     "name": "PUBLIO TERENCIO AFER",
     "alias": null,
-    "birth_year": -184,
-    "death_year": -158,
+    "birth_year": -185,
+    "death_year": -159,
     "country": "TN",
     "url_wikipedia": null,
     "url_photo": null
@@ -5079,7 +5070,7 @@
     "name": "SALUSTIO, Cayo Crispo",
     "alias": null,
     "birth_year": -86,
-    "death_year": -34,
+    "death_year": -35,
     "country": "IT",
     "url_wikipedia": null,
     "url_photo": null
@@ -5330,7 +5321,7 @@
   {
     "name": "SINGER, Isaac Bashevis",
     "alias": "Bashevis",
-    "birth_year": 1904,
+    "birth_year": 1903,
     "death_year": 1991,
     "country": "PL",
     "url_wikipedia": null,
@@ -5555,8 +5546,8 @@
   {
     "name": "TEOFRASTO",
     "alias": null,
-    "birth_year": -370,
-    "death_year": -286,
+    "birth_year": -371,
+    "death_year": -287,
     "country": "GR",
     "url_wikipedia": null,
     "url_photo": null
@@ -5573,8 +5564,8 @@
   {
     "name": "THOMPSON, Francis",
     "alias": null,
-    "birth_year": 1931,
-    "death_year": 2012,
+    "birth_year": 1859,
+    "death_year": 1907,
     "country": null,
     "url_wikipedia": null,
     "url_photo": null
@@ -5960,8 +5951,8 @@
   {
     "name": "WAGNER, Richard",
     "alias": null,
-    "birth_year": 1966,
-    "death_year": 2020,
+    "birth_year": 1813,
+    "death_year": 1883,
     "country": "DE",
     "url_wikipedia": null,
     "url_photo": null
