@@ -25,7 +25,7 @@
       },
       "year": {
         "type": ["integer", "null"],
-        "description": "Year written (approximate if unknown; use negative for BC)."
+        "description": "Year the work was composed/completed (integer; approximate if needed). Use negative numbers for BCE, positive for CE. If sources give a span, choose the best single-year estimate (e.g., midpoint or year of final events)."
       },
       "pages": {
         "type": ["integer", "null"],
