@@ -5,8 +5,8 @@
     "birth_year": 1839,
     "death_year": 1860,
     "country": "BR",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Casimiro_de_Abreu",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Casimiro_de_Abreu_%28Iconogr%C3%A1fico%29.jpg"
   },
   {
     "name": "AFANASIEV, Alexandr Nikoláievich",
@@ -14,8 +14,8 @@
     "birth_year": 1826,
     "death_year": 1871,
     "country": "RU",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Alexander_Afanasyev",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Alexander_Afanasyev_7.jpg"
   },
   {
     "name": "AGUSTÍ, Ignacio",
@@ -23,8 +23,8 @@
     "birth_year": 1913,
     "death_year": 1974,
     "country": "ES",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://es.wikipedia.org/wiki/Ignacio_Agust%C3%AD",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Ignasi_Agust%C3%AD_i_Peypoch.jpg"
   },
   {
     "name": "AGUSTÍN DE HIPONA",
@@ -32,8 +32,8 @@
     "birth_year": 354,
     "death_year": 430,
     "country": "DZ",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Augustine_of_Hippo",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Saint_Augustine_by_Philippe_de_Champaigne.jpg"
   },
   {
     "name": "AJMATOVA, Anna",
@@ -41,8 +41,8 @@
     "birth_year": 1889,
     "death_year": 1966,
     "country": "UA",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Anna_Akhmatova",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Anna_Akhmatova_portrait_by_Kuzma_Petrov-Vodkin%2C_1922_%28cropped%29.JPG"
   },
   {
     "name": "ALAIN-FOURNIER",
@@ -77,8 +77,8 @@
     "birth_year": 1902,
     "death_year": 1999,
     "country": "ES",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Rafael_Alberti",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/8/88/Rafael_Alberti_1978-10-01.jpg"
   },
   {
     "name": "ALCOTT, Louise May",
@@ -149,8 +149,8 @@
     "birth_year": 1221,
     "death_year": 1284,
     "country": "ES",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Alfonso_X_of_Castile",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Alfonso_X_el_Sabio_en_El_libro_de_los_juegos.jpg"
   },
   {
     "name": "ALLER, César",
@@ -158,7 +158,7 @@
     "birth_year": 1927,
     "death_year": null,
     "country": "ES",
-    "url_wikipedia": null,
+    "url_wikipedia": "https://es.wikipedia.org/wiki/C%C3%A9sar_Aller",
     "url_photo": null
   },
   {
@@ -176,8 +176,8 @@
     "birth_year": 1899,
     "death_year": 1990,
     "country": "ES",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/D%C3%A1maso_Alonso",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/c/ca/D%C3%A1maso_Alonso.jpg"
   },
   {
     "name": "ANDERSEN, Hans Christian",
@@ -230,8 +230,8 @@
     "birth_year": -295,
     "death_year": -215,
     "country": "EG",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://es.wikipedia.org/wiki/Apolonio_de_Rodas",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Apollonius.png"
   },
   {
     "name": "ARCINIEGAS, Germán",
@@ -239,8 +239,8 @@
     "birth_year": 1900,
     "death_year": 1999,
     "country": "CO",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Germ%C3%A1n_Arciniegas",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/en/2/20/German_Arciniegas_Angueyra.jpg"
   },
   {
     "name": "ARGUEDAS, Alcides",
@@ -248,8 +248,8 @@
     "birth_year": 1879,
     "death_year": 1946,
     "country": "BO",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Alcides_Arguedas",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Arguedas%2C_Alcides_02.jpg"
   },
   {
     "name": "ARIOSTO, Ludovico",
@@ -257,8 +257,8 @@
     "birth_year": 1474,
     "death_year": 1533,
     "country": "IT",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Ludovico_Ariosto",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Ludovico_Ariosto_1532.jpg"
   },
   {
     "name": "ARKELL, Réginald",
@@ -267,7 +267,7 @@
     "death_year": 1959,
     "country": "GB",
     "url_wikipedia": "https://en.wikipedia.org/wiki/Reginald_Arkell",
-    "url_photo": null
+    "url_photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Reginald%20Arkell.jpg"
   },
   {
     "name": "ARNIM, Achim von",
@@ -275,8 +275,8 @@
     "birth_year": 1781,
     "death_year": 1831,
     "country": "DE",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Achim_von_Arnim",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/9/97/Ludwig_Achim_von_Arnim.jpg"
   },
   {
     "name": "ARNIM, Elizabeth von",
@@ -338,12 +338,12 @@
     "birth_year": 1906,
     "death_year": 2009,
     "country": "ES",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Francisco_Ayala",
+    "url_photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Francisco%20Ayala%201957.jpg"
   },
   {
     "name": "AZORÍN",
-    "alias": "Azorín",
+    "alias": null,
     "birth_year": 1873,
     "death_year": 1967,
     "country": "ES",
@@ -356,8 +356,8 @@
     "birth_year": 1894,
     "death_year": 1940,
     "country": "UA",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Isaac_Babel",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Isaac_Babel.jpg"
   },
   {
     "name": "BAILLY, Auguste",
@@ -379,7 +379,7 @@
   },
   {
     "name": "BAQUEDANO, Lucía",
-    "alias": "Lucía Baquedano",
+    "alias": null,
     "birth_year": 1938,
     "death_year": null,
     "country": "ES",
@@ -392,8 +392,8 @@
     "birth_year": 1874,
     "death_year": 1945,
     "country": "GB",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Maurice_Baring",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/7/76/Maurice_Baring_Notable_Londoners_1922.jpg"
   },
   {
     "name": "BAROJA, Pío",
@@ -410,8 +410,8 @@
     "birth_year": 1860,
     "death_year": 1937,
     "country": "GB",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/J._M._Barrie",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/9/9c/James_Matthew_Barrie00.jpg"
   },
   {
     "name": "BARRIOS, Eduardo",
@@ -437,8 +437,8 @@
     "birth_year": 1566,
     "death_year": 1632,
     "country": "IT",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Giambattista_Basile",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Giambattista_Basile_by_Nicolaus_Perrey.jpg"
   },
   {
     "name": "BASSANI, Giorgio",
@@ -446,8 +446,8 @@
     "birth_year": 1916,
     "death_year": 2000,
     "country": "IT",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Giorgio_Bassani",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Giorgio_Bassani_%281974%29.jpg"
   },
   {
     "name": "BAUM, Lyman Frank",
@@ -455,8 +455,8 @@
     "birth_year": 1856,
     "death_year": 1919,
     "country": "US",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/L._Frank_Baum",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/6/69/L._Frank_Baum_%281911%29.jpg"
   },
   {
     "name": "BAZIN, René",
@@ -473,8 +473,8 @@
     "birth_year": 1732,
     "death_year": 1799,
     "country": "FR",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Pierre-Augustin_de_Beaumarchais",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/5/56/Jean-Marc_Nattier%2C_Portrait_de_Pierre-Augustin_Caron_de_Beaumarchais_%281755%29.jpg"
   },
   {
     "name": "BEECHER STOWE, Harriet",
@@ -509,8 +509,8 @@
     "birth_year": 1870,
     "death_year": 1953,
     "country": "GB",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Hilaire_Belloc",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Hilaire_Belloc_%28side_view%2C_1910%29.jpg"
   },
   {
     "name": "BELLOW, Saul",
@@ -536,8 +536,8 @@
     "birth_year": 1196,
     "death_year": 1260,
     "country": "ES",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Gonzalo_de_Berceo",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Gonzalo_de_berceo.jpg"
   },
   {
     "name": "BERGENGRUEN, Werner",
@@ -545,8 +545,8 @@
     "birth_year": 1892,
     "death_year": 1964,
     "country": "DE",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Werner_Bergengruen",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/2/25/WP_Werner_Bergengruen.jpg"
   },
   {
     "name": "BERGLAR, Peter",
@@ -554,7 +554,7 @@
     "birth_year": 1919,
     "death_year": 1989,
     "country": "DE",
-    "url_wikipedia": null,
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Peter_Berglar",
     "url_photo": null
   },
   {
@@ -581,7 +581,7 @@
     "birth_year": 1577,
     "death_year": 1639,
     "country": "DE",
-    "url_wikipedia": null,
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Jacob_Bidermann",
     "url_photo": null
   },
   {
@@ -608,8 +608,8 @@
     "birth_year": 1825,
     "death_year": 1900,
     "country": "GB",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Richard_Blackmore",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Richard_Blackmore.jpg"
   },
   {
     "name": "BLASCO IBÁÑEZ, Vicente",
@@ -635,8 +635,8 @@
     "birth_year": 1441,
     "death_year": 1494,
     "country": "IT",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Matteo_Maria_Boiardo",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/3/35/Matteo_Maria_Boiardo.gif"
   },
   {
     "name": "BOLT, Robert",
@@ -644,8 +644,8 @@
     "birth_year": 1924,
     "death_year": 1995,
     "country": "GB",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Robert_Bolt",
+    "url_photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Bolt.jpg"
   },
   {
     "name": "BORCHERT, Wolfgang",
@@ -680,7 +680,7 @@
     "birth_year": 1923,
     "death_year": 2015,
     "country": "ES",
-    "url_wikipedia": null,
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Carlos_Bouso%C3%B1o",
     "url_photo": null
   },
   {
@@ -743,8 +743,8 @@
     "birth_year": 1928,
     "death_year": 2016,
     "country": "GB",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Anita_Brookner",
+    "url_photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Anita%20Brookner.jpg"
   },
   {
     "name": "BRUYÈRE, Jean De La",
@@ -779,8 +779,8 @@
     "birth_year": 1891,
     "death_year": 1940,
     "country": "UA",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://es.wikipedia.org/wiki/Mija%C3%ADl_Bulg%C3%A1kov",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/c/c1/%D0%9C%D0%B8%D1%85%D0%B0%D0%B8%D0%BB-%D0%91%D1%83%D0%BB%D0%B3%D0%B0%D0%BA%D0%BE%D0%B2.jpg"
   },
   {
     "name": "BULWER-LYTTON, Edward George",
@@ -788,8 +788,8 @@
     "birth_year": 1803,
     "death_year": 1873,
     "country": "GB",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Edward_Bulwer-Lytton",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/4/48/Edward_George_Earle_Lytton_Bulwer_Lytton%2C_1st_Baron_Lytton_by_Henry_William_Pickersgill.jpg"
   },
   {
     "name": "BURNETT, Frances Elisa Hodgson",
@@ -797,8 +797,8 @@
     "birth_year": 1849,
     "death_year": 1924,
     "country": "US",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Frances_Hodgson_Burnett",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/d/db/Frances_Burnett.jpg"
   },
   {
     "name": "BURROUGHS, Edgard Rice",
@@ -806,8 +806,8 @@
     "birth_year": 1875,
     "death_year": 1950,
     "country": "US",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Edgar_Rice_Burroughs",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/f/ff/BurroughsEdgarRice.jpg"
   },
   {
     "name": "BUSCH, Wilhelm",
@@ -833,8 +833,8 @@
     "birth_year": 1788,
     "death_year": 1824,
     "country": "GB",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Lord_Byron",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Byron_1813_by_Phillips.jpg"
   },
   {
     "name": "BÉCQUER, Gustavo Adolfo",
@@ -860,8 +860,8 @@
     "birth_year": 1813,
     "death_year": 1837,
     "country": "DE",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Georg_B%C3%BCchner",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Georg_B%C3%BCchner_-_Franzos-Werkausgabe_%2104.jpg"
   },
   {
     "name": "CABEZA DE VACA, Alvar Núñez",
@@ -914,8 +914,8 @@
     "birth_year": -320,
     "death_year": -243,
     "country": "LY",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Callimachus",
+    "url_photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Ancientlibraryalex.jpg"
   },
   {
     "name": "CAMÕES, Luis Vaz de",
@@ -959,8 +959,8 @@
     "birth_year": 1878,
     "death_year": 1956,
     "country": "DE",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Hans_Carossa",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Hans_Carossa.jpg"
   },
   {
     "name": "CARRANZA, Eduardo",
@@ -968,7 +968,7 @@
     "birth_year": 1913,
     "death_year": 1985,
     "country": "CO",
-    "url_wikipedia": null,
+    "url_wikipedia": "https://es.wikipedia.org/wiki/Eduardo_Carranza",
     "url_photo": null
   },
   {
@@ -1013,8 +1013,8 @@
     "birth_year": 1925,
     "death_year": 1986,
     "country": "ES",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://es.wikipedia.org/wiki/Luis_de_Castresana",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/8/87/Luis_Castresana-P%C3%ADo-Blas_de_Otero-Rafael_Morales.jpg"
   },
   {
     "name": "CASTRO, Guillén de",
@@ -1031,8 +1031,8 @@
     "birth_year": 1837,
     "death_year": 1885,
     "country": "ES",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Rosal%C3%ADa_de_Castro",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/5/51/Rosal%C3%ADa_Castro_de_Murgu%C3%ADa_por_Luis_Sellier.jpg"
   },
   {
     "name": "CAVALCANTI, Guido",
@@ -1067,8 +1067,8 @@
     "birth_year": 1902,
     "death_year": 1963,
     "country": "ES",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Luis_Cernuda",
+    "url_photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Luis%20Cernuda%20image.jpg"
   },
   {
     "name": "CERVANTES, Miguel DE",
@@ -1085,8 +1085,8 @@
     "birth_year": 1913,
     "death_year": 1979,
     "country": "FR",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Gilbert_Cesbron",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/2/20/Cesbron_Harcourt_1947_3.jpg"
   },
   {
     "name": "CHACEL, Rosa",
@@ -1103,8 +1103,8 @@
     "birth_year": 1905,
     "death_year": 1999,
     "country": "ES",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Ernestina_de_Champourc%C3%ADn",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/f/ff/E._Champourcin_y_E.Checa.jpg"
   },
   {
     "name": "CHANDLER, Raymond",
@@ -1139,8 +1139,8 @@
     "birth_year": 1860,
     "death_year": 1904,
     "country": "RU",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://es.wikipedia.org/wiki/Ant%C3%B3n_Ch%C3%A9jov",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Chekhov_1898_by_Osip_Braz.jpg"
   },
   {
     "name": "CHESTERTON, Gilbert Keith",
@@ -1166,8 +1166,8 @@
     "birth_year": 1135,
     "death_year": 1181,
     "country": "FR",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://es.wikipedia.org/wiki/Chr%C3%A9tien_de_Troyes",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Chr%C3%A9tien_de_Troyes.jpg"
   },
   {
     "name": "CHURCHILL, Winston L. S.",
@@ -1184,8 +1184,8 @@
     "birth_year": -106,
     "death_year": -43,
     "country": "IT",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://es.wikipedia.org/wiki/Cicer%C3%B3n",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/f/f3/M._Tullius_Cicero%2C_Capitoline_Museum%2C_Rome_%28cropped%29.png"
   },
   {
     "name": "CLARE, John",
@@ -1193,8 +1193,8 @@
     "birth_year": 1793,
     "death_year": 1864,
     "country": null,
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/John_Clare",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/a/ae/John_Clare.jpg"
   },
   {
     "name": "CLAUDEL, Paul",
@@ -1220,7 +1220,7 @@
     "birth_year": 1931,
     "death_year": 2023,
     "country": "GB",
-    "url_wikipedia": null,
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Isabel_Colegate",
     "url_photo": null
   },
   {
@@ -1256,8 +1256,8 @@
     "birth_year": 1255,
     "death_year": 1324,
     "country": "IT",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Dino_Compagni",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Antonio_Puccinelli%2C_dino_compagni_in_san_giovanni_predica_la_pace_tra_guelfi_e_ghibellini_02.jpg"
   },
   {
     "name": "CONRAD, Joseph",
@@ -1301,7 +1301,7 @@
     "birth_year": 1921,
     "death_year": 2014,
     "country": "IT",
-    "url_wikipedia": null,
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Eugenio_Corti",
     "url_photo": null
   },
   {
@@ -1319,8 +1319,8 @@
     "birth_year": 1871,
     "death_year": 1900,
     "country": "US",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Stephen_Crane",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/6/6c/SCrane2.JPG"
   },
   {
     "name": "CRASHAW, Richard",
@@ -1328,8 +1328,8 @@
     "birth_year": 1612,
     "death_year": 1649,
     "country": "GB",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Richard_Crashaw",
+    "url_photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Cambridge%20Peterhouse%20OldCourt.JPG"
   },
   {
     "name": "CREANGA, Ion",
@@ -1346,8 +1346,8 @@
     "birth_year": 1896,
     "death_year": 1981,
     "country": "GB",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/A._J._Cronin",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/8/8a/A._J._Cronin_1939.jpg"
   },
   {
     "name": "CUADRA, Pablo Antonio",
@@ -1355,8 +1355,8 @@
     "birth_year": 1912,
     "death_year": 2002,
     "country": "MX",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Pablo_Antonio_Cuadra",
+    "url_photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Pablo%20Antonio%20Cuadra.jpg"
   },
   {
     "name": "CUNQUEIRO, Álvaro",
@@ -1436,8 +1436,8 @@
     "birth_year": 1515,
     "death_year": 1582,
     "country": "ES",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://es.wikipedia.org/wiki/Teresa_de_Jes%C3%BAs",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Teresa_de_Jes%C3%BAs_%28cropped%29.jpg"
   },
   {
     "name": "DE MARCHI, Emilio",
@@ -1454,8 +1454,8 @@
     "birth_year": 1660,
     "death_year": 1731,
     "country": "GB",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Daniel_Defoe",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Daniel_Defoe_Kneller_Style.jpg"
   },
   {
     "name": "DELEDDA, Grazia",
@@ -1490,8 +1490,8 @@
     "birth_year": 1922,
     "death_year": 1998,
     "country": "AR",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Marco_Denevi",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/7/7d/MarcoDenevi2.jpg"
   },
   {
     "name": "DICKENS, Charles",
@@ -1526,8 +1526,8 @@
     "birth_year": 1899,
     "death_year": 1981,
     "country": "ES",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Rafael_Dieste",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Rafael_Dieste_1926.jpg"
   },
   {
     "name": "DINESEN, Isak",
@@ -1553,8 +1553,8 @@
     "birth_year": 1910,
     "death_year": 1994,
     "country": "PL",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Jan_Dobraczynski",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Jan_Dobraczy%C5%84ski.jpg/330px-Jan_Dobraczy%C5%84ski.jpg"
   },
   {
     "name": "DOS PASSOS, John",
@@ -1571,8 +1571,8 @@
     "birth_year": 1821,
     "death_year": 1881,
     "country": "RU",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Fyodor_Dostoevsky",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/7/78/Vasily_Perov_-_%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82_%D0%A4.%D0%9C.%D0%94%D0%BE%D1%81%D1%82%D0%BE%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_-_Google_Art_Project.jpg"
   },
   {
     "name": "DOVLATOV, Sergei",
@@ -1580,8 +1580,8 @@
     "birth_year": 1941,
     "death_year": 1990,
     "country": "US",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Sergei_Dovlatov",
+    "url_photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Dovlatov-memorial-plaque-spb.jpg"
   },
   {
     "name": "DOYLE, A. Conan",
@@ -1589,8 +1589,8 @@
     "birth_year": 1859,
     "death_year": 1930,
     "country": "GB",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Arthur_Conan_Doyle",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Arthur_Conan_Doyle_by_Walter_Benington%2C_1914.png"
   },
   {
     "name": "DOYLE, Arthur Conan",
@@ -1598,8 +1598,8 @@
     "birth_year": 1859,
     "death_year": 1930,
     "country": "GB",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://es.wikipedia.org/wiki/Arthur_Conan_Doyle",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Conan_doyle.jpg"
   },
   {
     "name": "DROSTE-HÜLSHOFF, Annette von",
@@ -1625,8 +1625,8 @@
     "birth_year": 1522,
     "death_year": 1560,
     "country": "FR",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://es.wikipedia.org/wiki/Joachim_du_Bellay",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Joachim_du_Bellay_%281522-1560%29.jpg"
   },
   {
     "name": "DU MAURIER, Daphne",
@@ -1661,8 +1661,8 @@
     "birth_year": 1791,
     "death_year": 1865,
     "country": "ES",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/%C3%81ngel_de_Saavedra%2C_3rd_Duke_of_Rivas",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/b/b9/%C3%81ngel_de_Saavedra%2C_duque_de_Rivas_%28Museo_del_Prado%29.jpg"
   },
   {
     "name": "DÍAZ DEL CASTILLO, Bernal",
@@ -1670,8 +1670,8 @@
     "birth_year": 1492,
     "death_year": 1584,
     "country": "ES",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://es.wikipedia.org/wiki/Bernal_D%C3%ADaz_del_Castillo",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/4/49/Supuesto_retrato_de_Bernal_D%C3%ADaz_Del_Castillo_por_Genaro_Garc%C3%ADa_basado_en_el_retrato_del_rey_franc%C3%A9s_Enrique_IV_1904.jpeg"
   },
   {
     "name": "DÜRRENMATT, Friedrich",
@@ -1679,8 +1679,8 @@
     "birth_year": 1921,
     "death_year": 1990,
     "country": "CH",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://es.wikipedia.org/wiki/Friedrich_D%C3%BCrrenmatt",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Friedrich_duerrenmatt_19890427.jpg"
   },
   {
     "name": "EBNER ESCHENBACH, Marie von",
@@ -1760,8 +1760,8 @@
     "birth_year": 1468,
     "death_year": 1529,
     "country": "ES",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Juan_del_Encina",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/7/73/Juan_del_Enzina_Le%C3%B3n_%28cropped%29.JPG"
   },
   {
     "name": "ENDE, Michael",
@@ -1770,7 +1770,7 @@
     "death_year": 1995,
     "country": "DE",
     "url_wikipedia": "https://en.wikipedia.org/wiki/Michael_Ende",
-    "url_photo": null
+    "url_photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Michael-Ende-Unterschrift.png"
   },
   {
     "name": "ENDO, Shusaku",
@@ -1787,8 +1787,8 @@
     "birth_year": 1533,
     "death_year": 1594,
     "country": "ES",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://es.wikipedia.org/wiki/Alonso_de_Ercilla",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/AlonsoDeErcilla.jpg"
   },
   {
     "name": "ESCHENBACH, Wolfram von",
@@ -1805,8 +1805,8 @@
     "birth_year": -620,
     "death_year": -564,
     "country": "GR",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Aesop",
+    "url_photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Vel%C3%A1zquez%20-%20Esopo%20%28Museo%20del%20Prado%2C%201639-41%29.jpg"
   },
   {
     "name": "ESPINEL, Vicente",
@@ -1814,8 +1814,8 @@
     "birth_year": 1550,
     "death_year": 1624,
     "country": "ES",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Vicente_Espinel",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Vicente_espinel.jpg"
   },
   {
     "name": "ESPRIU, Salvador",
@@ -1823,8 +1823,8 @@
     "birth_year": 1913,
     "death_year": 1985,
     "country": "ES",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Salvador_Espriu",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Salvador_Espriu_i_Castell%C3%B3_%281980%29.jpg"
   },
   {
     "name": "ESPRONCEDA, José",
@@ -1832,8 +1832,8 @@
     "birth_year": 1808,
     "death_year": 1842,
     "country": "ES",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://es.wikipedia.org/wiki/Jos%C3%A9_de_Espronceda",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/9/96/Jos%C3%A9_de_Espronceda_%28detalle%29.jpg"
   },
   {
     "name": "ESQUILO",
@@ -1841,8 +1841,8 @@
     "birth_year": -525,
     "death_year": -456,
     "country": "GR",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://es.wikipedia.org/wiki/Esquilo",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Archeologico_firenze%2C_bronzi_della_Meloria%2C_eschilo.JPG"
   },
   {
     "name": "EURÍPIDES",
@@ -1850,8 +1850,8 @@
     "birth_year": -480,
     "death_year": -406,
     "country": "GR",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://es.wikipedia.org/wiki/Eur%C3%ADpides",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Euripides_Pio-Clementino_Inv302.jpg"
   },
   {
     "name": "FABBRI, Diego",
@@ -1859,8 +1859,8 @@
     "birth_year": 1911,
     "death_year": 1980,
     "country": "IT",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Diego_Fabbri",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/1/11/Diego_Fabbri.jpg"
   },
   {
     "name": "FALCAO, Cristovão De Sousa",
@@ -1868,7 +1868,7 @@
     "birth_year": 1512,
     "death_year": 1557,
     "country": "PT",
-    "url_wikipedia": null,
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Crist%C3%B3v%C3%A3o_Falc%C3%A3o",
     "url_photo": null
   },
   {
@@ -1904,7 +1904,7 @@
     "birth_year": 1575,
     "death_year": 1648,
     "country": "ES",
-    "url_wikipedia": null,
+    "url_wikipedia": "https://es.wikipedia.org/wiki/Andr%C3%A9s_Fern%C3%A1ndez_de_Andrada",
     "url_photo": null
   },
   {
@@ -1931,8 +1931,8 @@
     "birth_year": 1898,
     "death_year": 1974,
     "country": "PT",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://es.wikipedia.org/wiki/Ferreira_de_Castro",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Ferreira_de_Castro_-_Ilustra%C3%A7%C3%A3o_%281Nov1933%29.png"
   },
   {
     "name": "FITZGERALD, Francis Scott",
@@ -1967,8 +1967,8 @@
     "birth_year": 1842,
     "death_year": 1911,
     "country": "IT",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Antonio_Fogazzaro",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/0/09/Portrait_of_Antonio_Fogazzaro.jpg"
   },
   {
     "name": "FOIX, Josep Vicenç",
@@ -1976,8 +1976,8 @@
     "birth_year": 1893,
     "death_year": 1987,
     "country": "ES",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://es.wikipedia.org/wiki/Josep_Vicen%C3%A7_Foix",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/7/71/Josep_Vicen%C3%A7_Foix_i_Mas.jpg"
   },
   {
     "name": "FONTANE, Theodor",
@@ -2003,8 +2003,8 @@
     "birth_year": 1929,
     "death_year": 1945,
     "country": "DE",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Anne_Frank",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Anne_Frank_passport_photo%2C_May_1942_%28cropped%29.jpg"
   },
   {
     "name": "FREEDMAN, Benedict",
@@ -2012,7 +2012,7 @@
     "birth_year": 1919,
     "death_year": 2012,
     "country": "US",
-    "url_wikipedia": null,
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Benedict_Freedman",
     "url_photo": null
   },
   {
@@ -2039,8 +2039,8 @@
     "birth_year": 1907,
     "death_year": 2005,
     "country": "GB",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Christopher_Fry",
+    "url_photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Christopher%20Fry.jpg"
   },
   {
     "name": "FÉNELON",
@@ -2048,8 +2048,8 @@
     "birth_year": 1651,
     "death_year": 1715,
     "country": "FR",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://fr.wikipedia.org/wiki/F%C3%A9nelon",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Fran%C3%A7ois_de_Salignac_de_la_Mothe-F%C3%A9nelon.PNG"
   },
   {
     "name": "GALLEGOS, Rómulo",
@@ -2075,8 +2075,8 @@
     "birth_year": 1503,
     "death_year": 1536,
     "country": "ES",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Garcilaso_de_la_Vega_%28poet%29",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Retrato_de_hombre_con_la_cruz_de_caballero_de_Alc%C3%A1ntara.jpg"
   },
   {
     "name": "GARCILASO DE LA VEGA, el Inca",
@@ -2084,8 +2084,8 @@
     "birth_year": 1539,
     "death_year": 1616,
     "country": "PE",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://es.wikipedia.org/wiki/Inca_Garcilaso_de_la_Vega",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/7/71/Stamp_of_Peru_-_1969_-_Colnect_386673_-_Inca_Garcilaso_de_la_Vega.jpeg"
   },
   {
     "name": "GARCÍA BAENA, Pablo",
@@ -2093,7 +2093,7 @@
     "birth_year": 1921,
     "death_year": 2018,
     "country": "ES",
-    "url_wikipedia": null,
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Pablo_Garc%C3%ADa_Baena",
     "url_photo": null
   },
   {
@@ -2102,8 +2102,8 @@
     "birth_year": 1734,
     "death_year": 1787,
     "country": "ES",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Vicente_Antonio_Garc%C3%ADa_de_la_Huerta",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/7/78/Vicente_Garc%C3%ADa_de_la_Huerta.jpg"
   },
   {
     "name": "GARCÍA GUTIÉRREZ, Antonio",
@@ -2138,7 +2138,7 @@
     "birth_year": 1914,
     "death_year": 2001,
     "country": "ES",
-    "url_wikipedia": null,
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Jos%C3%A9_Garc%C3%ADa-Nieto",
     "url_photo": null
   },
   {
@@ -2147,7 +2147,7 @@
     "birth_year": 1919,
     "death_year": 1989,
     "country": "ES",
-    "url_wikipedia": null,
+    "url_wikipedia": "https://es.wikipedia.org/wiki/Francisco_Garc%C3%ADa_Pav%C3%B3n",
     "url_photo": null
   },
   {
@@ -2156,7 +2156,7 @@
     "birth_year": 1900,
     "death_year": 1991,
     "country": "ES",
-    "url_wikipedia": null,
+    "url_wikipedia": "https://es.wikipedia.org/wiki/Ricardo_Garc%C3%ADa_Villoslada",
     "url_photo": null
   },
   {
@@ -2183,8 +2183,8 @@
     "birth_year": 1903,
     "death_year": 1977,
     "country": "RO",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Constantin_Virgil_Gheorghiu",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/6/63/Virgil_Gheorghiu.jpg"
   },
   {
     "name": "GIL VICENTE",
@@ -2201,7 +2201,7 @@
     "birth_year": 1815,
     "death_year": 1846,
     "country": "ES",
-    "url_wikipedia": null,
+    "url_wikipedia": "https://es.wikipedia.org/wiki/Enrique_Gil_y_Carrasco",
     "url_photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Gil%20y%20Carrasco.jpg"
   },
   {
@@ -2255,8 +2255,8 @@
     "birth_year": 1749,
     "death_year": 1832,
     "country": "DE",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Goethe_%28Stieler_1828%29.jpg"
   },
   {
     "name": "GOGOL, Nicolai",
@@ -2264,8 +2264,8 @@
     "birth_year": 1809,
     "death_year": 1852,
     "country": "UA",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Nikolai_Gogol",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/3/31/NV_Gogol.png"
   },
   {
     "name": "GOLDING, William Gerald",
@@ -2300,8 +2300,8 @@
     "birth_year": 1868,
     "death_year": 1936,
     "country": "RU",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Maxim_Gorki_Theater",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Berlin%2C_Mitte%2C_Maxim-Gorki-Theater_02.jpg"
   },
   {
     "name": "GOSCINNI, René",
@@ -2309,8 +2309,8 @@
     "birth_year": 1926,
     "death_year": 1977,
     "country": "FR",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Ren%C3%A9_Goscinny",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Ren%C3%A9_Goscinny.jpg"
   },
   {
     "name": "GOSSE, Edmund",
@@ -2345,8 +2345,8 @@
     "birth_year": 1604,
     "death_year": 1658,
     "country": "ES",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Baltasar_Graci%C3%A1n",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/2/21/Graci%C3%A1n_Graus.jpg"
   },
   {
     "name": "GRACQ, Julien",
@@ -2355,7 +2355,7 @@
     "death_year": 2007,
     "country": "FR",
     "url_wikipedia": "https://en.wikipedia.org/wiki/Julien_Gracq",
-    "url_photo": null
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/2/24/Signature_julien_gracq.png"
   },
   {
     "name": "GRAHAME, Kenneth",
@@ -2408,7 +2408,7 @@
     "birth_year": 1929,
     "death_year": 2018,
     "country": "DE",
-    "url_wikipedia": null,
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Gregor_Dorfmeister",
     "url_photo": null
   },
   {
@@ -2435,8 +2435,8 @@
     "birth_year": 1785,
     "death_year": 1859,
     "country": "DE",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Brothers_Grimm",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Grimm.jpg"
   },
   {
     "name": "GRIMMELSHAUSEN, Hans Jakob Christoffel von",
@@ -2444,8 +2444,8 @@
     "birth_year": 1621,
     "death_year": 1676,
     "country": "DE",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://es.wikipedia.org/wiki/Hans_Jakob_Christoph_von_Grimmelshausen",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/9/94/Hans_Jakob_Christoffel_von_Grimmelshausen.jpeg"
   },
   {
     "name": "GROSSMAN, Vassili",
@@ -2462,8 +2462,8 @@
     "birth_year": 1616,
     "death_year": 1664,
     "country": "DE",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://de.wikipedia.org/wiki/Andreas_Gryphius",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Andreas_Gryphius_1.jpg"
   },
   {
     "name": "GUARDINI, Romano",
@@ -2480,8 +2480,8 @@
     "birth_year": 1908,
     "death_year": 1968,
     "country": "IT",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Giovannino_Guareschi",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Giovannino_Guareschi.jpg"
   },
   {
     "name": "GUILLÉN, Jorge",
@@ -2507,8 +2507,8 @@
     "birth_year": 1814,
     "death_year": 1873,
     "country": "CU",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Gertrudis_G%C3%B3mez_de_Avellaneda",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/c/c8/FEDERICO_DE_MADRAZO_-Gertrudis_G%C3%B3mez_de_Avellaneda_%28Museo_L%C3%A1zaro_Galdiano%2C_1857%29.jpg"
   },
   {
     "name": "GÓMEZ DE LA SERNA, Ramón",
@@ -2552,8 +2552,8 @@
     "birth_year": 1856,
     "death_year": 1925,
     "country": "GB",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/H._Rider_Haggard",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/2/23/Henry_Rider_Haggard_03.jpg"
   },
   {
     "name": "HAMMET, Samuel Dashiell",
@@ -2561,8 +2561,8 @@
     "birth_year": 1894,
     "death_year": 1961,
     "country": "US",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Dashiell_Hammett",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/5/58/Dashiell_Hammett_1951.jpg"
   },
   {
     "name": "HARDY, Thomas",
@@ -2588,8 +2588,8 @@
     "birth_year": 1160,
     "death_year": 1210,
     "country": "DE",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://de.wikipedia.org/wiki/Hartmann_von_Aue",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Codex_Manesse_Hartmann_von_Aue.jpg"
   },
   {
     "name": "HAUPTMANN, Gerhard",
@@ -2597,8 +2597,8 @@
     "birth_year": 1862,
     "death_year": 1946,
     "country": "DE",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Gerhart_Hauptmann",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/0/05/Gerhart_Hauptmann_nobel.jpg"
   },
   {
     "name": "HAWTHORNE, Nathaniel",
@@ -2651,8 +2651,8 @@
     "birth_year": 1862,
     "death_year": 1910,
     "country": "US",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/O._Henry",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/c/c6/William_Sydney_Porter_by_doubleday.jpg"
   },
   {
     "name": "HERBERT, George",
@@ -2678,8 +2678,8 @@
     "birth_year": 1863,
     "death_year": 1954,
     "country": "HU",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Ferenc_Herczeg",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/7/74/Herczeg_Ferenc.tif"
   },
   {
     "name": "HERDAN-ZUCKMAYER, Alice",
@@ -2687,7 +2687,7 @@
     "birth_year": 1901,
     "death_year": 1991,
     "country": "DE",
-    "url_wikipedia": null,
+    "url_wikipedia": "https://de.wikipedia.org/wiki/Alice_Herdan-Zuckmayer",
     "url_photo": null
   },
   {
@@ -2741,8 +2741,8 @@
     "birth_year": -750,
     "death_year": -680,
     "country": "GR",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://es.wikipedia.org/wiki/Hes%C3%ADodo",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/3/36/Pseudo-Seneca_BM_GR1962.8-24.1.jpg"
   },
   {
     "name": "HEYERDAHL, Thor",
@@ -2769,7 +2769,7 @@
     "death_year": 1954,
     "country": "GB",
     "url_wikipedia": "https://en.wikipedia.org/wiki/James_Hilton_(novelist)",
-    "url_photo": null
+    "url_photo": "https://upload.wikimedia.org/wikipedia/en/6/64/James_Hilton_7.jpg"
   },
   {
     "name": "HOFFMANN, Ernest Th. Amadeus",
@@ -2777,8 +2777,8 @@
     "birth_year": 1776,
     "death_year": 1822,
     "country": "DE",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/E._T._A._Hoffmann",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/5/5a/E._T._A._Hoffmann%2C_autorretrato.jpg"
   },
   {
     "name": "HOFMANNSTHAL, Hugo von",
@@ -2795,8 +2795,8 @@
     "birth_year": -750,
     "death_year": -700,
     "country": "GR",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Homer",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Homer_British_Museum.jpg"
   },
   {
     "name": "HOPE, Anthony",
@@ -2822,8 +2822,8 @@
     "birth_year": -65,
     "death_year": -8,
     "country": "IT",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Horace",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/7/77/%28contorniate_M%C3%A9daillon_Horace_Rome_%28...%29Horace_%280065-0008_btv1b11343890r_1_%28cropped%29.jpg"
   },
   {
     "name": "HOWELLS, William Dean",
@@ -2841,7 +2841,7 @@
     "death_year": 1976,
     "country": "GB",
     "url_wikipedia": "https://en.wikipedia.org/wiki/Richard_Hughes_(British_writer)",
-    "url_photo": null
+    "url_photo": "https://commons.wikimedia.org/wiki/Special:FilePath/NLW%20Image%20Richard%20Hughes.png"
   },
   {
     "name": "HUGO, Victor",
@@ -2894,8 +2894,8 @@
     "birth_year": 1898,
     "death_year": 1993,
     "country": "JP",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Masuji_Ibuse",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Masuji_Ibuse_01.jpg"
   },
   {
     "name": "INOUE, Yasushi",
@@ -2957,8 +2957,8 @@
     "birth_year": -430,
     "death_year": -354,
     "country": "GR",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://es.wikipedia.org/wiki/Jenofonte",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/1/14/Bust_of_Xenophon.jpg"
   },
   {
     "name": "JEROME, Jerome K.",
@@ -2975,8 +2975,8 @@
     "birth_year": 1930,
     "death_year": 2020,
     "country": "ES",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Jos%C3%A9_Jim%C3%A9nez_Lozano",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/7/75/Jos%C3%A9_Jim%C3%A9nez_Lozano.jpg"
   },
   {
     "name": "JIMÉNEZ, Juan Ramón",
@@ -2984,8 +2984,8 @@
     "birth_year": 1880,
     "death_year": 1958,
     "country": "ES",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Juan_Ram%C3%B3n_Jim%C3%A9nez",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/1/16/JRJimenez.JPG"
   },
   {
     "name": "JOERGENSEN, Jens Johannes",
@@ -2993,8 +2993,8 @@
     "birth_year": 1866,
     "death_year": 1956,
     "country": "DK",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Johannes_Jorgensen",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Johannes_J%C3%B8rgensen_%28ca_1925%29.jpg/330px-Johannes_J%C3%B8rgensen_%28ca_1925%29.jpg"
   },
   {
     "name": "JOFFO, Joseph",
@@ -3011,8 +3011,8 @@
     "birth_year": 1224,
     "death_year": 1317,
     "country": "FR",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/John_of_Joinville",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/5/59/Jean_de_Joinville_Louis_X.jpeg"
   },
   {
     "name": "JONSON, Ben",
@@ -3020,8 +3020,8 @@
     "birth_year": 1572,
     "death_year": 1637,
     "country": "GB",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Ben_Jonson",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/1/13/Benjamin_Jonson_by_Abraham_van_Blyenberch.jpg"
   },
   {
     "name": "JOYCE, James",
@@ -3038,8 +3038,8 @@
     "birth_year": null,
     "death_year": null,
     "country": null,
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://es.wikipedia.org/wiki/Juan_de_la_Cruz",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Johncross5.jpg"
   },
   {
     "name": "JUAN MANUEL, Infante Don",
@@ -3047,8 +3047,8 @@
     "birth_year": 1282,
     "death_year": 1348,
     "country": "ES",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Juan_Manuel",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/0/06/Don_Juan_Manuel.jpg"
   },
   {
     "name": "JUANA INÉS DE LA CRUZ, Sor",
@@ -3065,8 +3065,8 @@
     "birth_year": -100,
     "death_year": -44,
     "country": "IT",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Julio_C%C3%A9sar_Ch%C3%A1vez",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/1/16/Julio_C%C3%A9sar_Ch%C3%A1vez_2017.png"
   },
   {
     "name": "JUVENAL, Décimo Junio",
@@ -3074,8 +3074,8 @@
     "birth_year": 55,
     "death_year": 200,
     "country": "IT",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://es.wikipedia.org/wiki/Juvenal",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Juvenalcrowned.gif"
   },
   {
     "name": "JÜNGER, Ernst",
@@ -3137,8 +3137,8 @@
     "birth_year": 1795,
     "death_year": 1821,
     "country": "GB",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/John_Keats",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/a/a0/John_Keats_by_William_Hilton_circa_1822_02.jpg"
   },
   {
     "name": "KELLER, Gottfried",
@@ -3192,7 +3192,7 @@
     "death_year": 1957,
     "country": "GB",
     "url_wikipedia": "https://en.wikipedia.org/wiki/Ronald_Knox",
-    "url_photo": null
+    "url_photo": "https://commons.wikimedia.org/wiki/Special:FilePath/046CupolaSPietro.jpg"
   },
   {
     "name": "KONIGSBURG, E.L.",
@@ -3200,8 +3200,8 @@
     "birth_year": 1930,
     "death_year": 2013,
     "country": "US",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/E._L._Konigsburg",
+    "url_photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Tom%20Sawyer%201876%20frontispiece.jpg"
   },
   {
     "name": "KOROLENKO, Vládimir Galaktiónovich",
@@ -3219,7 +3219,7 @@
     "death_year": 1973,
     "country": "RU",
     "url_wikipedia": "https://en.wikipedia.org/wiki/Sergei_Kourdakov",
-    "url_photo": null
+    "url_photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Kourdakov%2C%20The%20Persecutor.png"
   },
   {
     "name": "KROSS, Jaan",
@@ -3236,8 +3236,8 @@
     "birth_year": 1634,
     "death_year": 1693,
     "country": "FR",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Madame_de_La_Fayette",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/2/28/Madame_de_Lafayette%2C_PA07840.jpg"
   },
   {
     "name": "LA FONTAINE, Jean de",
@@ -3254,8 +3254,8 @@
     "birth_year": 1921,
     "death_year": 2004,
     "country": "ES",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://es.wikipedia.org/wiki/Carmen_Laforet",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Portrait_Carmen_Laforet.jpg"
   },
   {
     "name": "LAGERKVIST, Pär",
@@ -3281,8 +3281,8 @@
     "birth_year": 1790,
     "death_year": 1869,
     "country": "FR",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Alphonse_de_Lamartine",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/5/55/Lamartine_par_Ary_Scheffer.png"
   },
   {
     "name": "LAMB, Charles",
@@ -3308,8 +3308,8 @@
     "birth_year": 1873,
     "death_year": 1961,
     "country": "AR",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Enrique_Larreta",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Enrique_Larreta_1914_%281%29.jpg"
   },
   {
     "name": "LAWRENCE, Thomas Edward",
@@ -3371,8 +3371,8 @@
     "birth_year": 1711,
     "death_year": 1780,
     "country": "FR",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Jeanne-Marie_Leprince_de_Beaumont",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Jeanne-Marie_Leprince_de_Beaumont.jpg"
   },
   {
     "name": "LERMONTOV, Michail",
@@ -3380,8 +3380,8 @@
     "birth_year": 1814,
     "death_year": 1841,
     "country": "RU",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Mikhail_Lermontov",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/2/24/Mikhail_lermontov.jpg"
   },
   {
     "name": "LESAGE, Alain-René",
@@ -3425,8 +3425,8 @@
     "birth_year": -59,
     "death_year": 17,
     "country": "IT",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Tito_Livio_Burattini",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/0/09/POL_COA_Boratini.svg"
   },
   {
     "name": "LLORÉNS, Bartolomé",
@@ -3434,8 +3434,8 @@
     "birth_year": 1922,
     "death_year": 1946,
     "country": "ES",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Joaqu%C3%ADn_Llorens_y_Fern%C3%A1ndez_de_C%C3%B3rdoba",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Llorens_1909.jpg"
   },
   {
     "name": "LLULL, Ramón",
@@ -3479,8 +3479,8 @@
     "birth_year": 1385,
     "death_year": 1458,
     "country": "PT",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://pt.wikipedia.org/wiki/Fern%C3%A3o_Lopes",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Fernao_Lopes.jpg"
   },
   {
     "name": "LORRIS, Guillaume de",
@@ -3497,8 +3497,8 @@
     "birth_year": 39,
     "death_year": 65,
     "country": "ES",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Lucan_%28poet%29",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Busto_de_Lucano%2C_Cordoba.JPG/330px-Busto_de_Lucano%2C_Cordoba.JPG"
   },
   {
     "name": "LUCIANI, Albino",
@@ -3506,8 +3506,8 @@
     "birth_year": 1912,
     "death_year": 1978,
     "country": "IT",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Pope_John_Paul_I",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Paus_Johannes_Paulus_I_%28Bestanddeelnr_929-9074%29_%28cropped%29.jpg"
   },
   {
     "name": "LUDWIG, Emil",
@@ -3533,8 +3533,8 @@
     "birth_year": 1527,
     "death_year": 1591,
     "country": "ES",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Luis_de_Le%C3%B3n",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/2/26/Pacheco%2C_Francisco_-_Description_book_of_real_Portraits%2C_of_Illustrious_and_Memorable_men._-_Google_Art_Project.jpg"
   },
   {
     "name": "LYNCH, Benito",
@@ -3542,8 +3542,8 @@
     "birth_year": 1885,
     "death_year": 1951,
     "country": "AR",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Benito_Lynch",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Benito_Lynch.jpg"
   },
   {
     "name": "LÓPEZ DE AYALA, Pedro",
@@ -3578,8 +3578,8 @@
     "birth_year": 1917,
     "death_year": 1967,
     "country": "US",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Carson_McCullers",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Carsonmccullers.jpg"
   },
   {
     "name": "MACHADO DE ASSIS, Joaquim Maria",
@@ -3587,8 +3587,8 @@
     "birth_year": 1839,
     "death_year": 1908,
     "country": "BR",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Machado_de_Assis",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Machado_de_Assis_by_Marc_Ferrez.jpg"
   },
   {
     "name": "MACHADO, Antonio",
@@ -3660,7 +3660,7 @@
     "death_year": 1471,
     "country": "GB",
     "url_wikipedia": "https://en.wikipedia.org/wiki/Thomas_Malory",
-    "url_photo": null
+    "url_photo": "https://commons.wikimedia.org/wiki/Special:FilePath/England%20of%20the%20Malory%20Candidates.png"
   },
   {
     "name": "MALOT, Héctor",
@@ -3677,8 +3677,8 @@
     "birth_year": 1876,
     "death_year": 1940,
     "country": "FR",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://fr.wikipedia.org/wiki/Joseph_Mal%C3%A8gue",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/1/16/Joseph_Mal%C3%A8gue_circa_1933.JPG"
   },
   {
     "name": "MANN, Thomas",
@@ -3686,8 +3686,8 @@
     "birth_year": 1875,
     "death_year": 1955,
     "country": "DE",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://es.wikipedia.org/wiki/Thomas_Mann",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/9/95/Thomas_Mann_1929.jpg"
   },
   {
     "name": "MANNING, Olivia",
@@ -3695,8 +3695,8 @@
     "birth_year": 1908,
     "death_year": 1980,
     "country": "GB",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Olivia_Manning",
+    "url_photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv%20B%20145%20Bild-F016198-04%2C%20Bukarest%2C%20K%C3%B6nigsschloss.jpg"
   },
   {
     "name": "MANRIQUE, Jorge",
@@ -3704,8 +3704,8 @@
     "birth_year": 1440,
     "death_year": 1479,
     "country": "ES",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Jorge_Manrique",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Jorge_Manrique_portrait.jpg"
   },
   {
     "name": "MANSFIELD, Katherine",
@@ -3713,8 +3713,8 @@
     "birth_year": 1888,
     "death_year": 1923,
     "country": "NZ",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Katherine_Mansfield",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Katherine_Mansfield_%28no_signature%29.jpg"
   },
   {
     "name": "MANZONI, Alessandro",
@@ -3731,8 +3731,8 @@
     "birth_year": 1860,
     "death_year": 1911,
     "country": "ES",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Joan_Maragall",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/5/58/Joan_Maragall_1903.jpg"
   },
   {
     "name": "MARAÑÓN, Gregorio",
@@ -3749,8 +3749,8 @@
     "birth_year": 1400,
     "death_year": 1459,
     "country": "ES",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Ausi%C3%A0s_March",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Ausias_Marc.jpg"
   },
   {
     "name": "MARECHAL, Leopoldo",
@@ -3776,8 +3776,8 @@
     "birth_year": 1688,
     "death_year": 1763,
     "country": "FR",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Pierre_de_Marivaux",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Pierre_de_Marivaux.jpeg"
   },
   {
     "name": "MARLOWE, Christopher",
@@ -3794,8 +3794,8 @@
     "birth_year": 1879,
     "death_year": 1946,
     "country": "ES",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://es.wikipedia.org/wiki/Eduardo_Marquina",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Eduardo_Marquina%2C_de_Audouard.jpg"
   },
   {
     "name": "MARQUÉS DE SANTILLANA",
@@ -3893,8 +3893,8 @@
     "birth_year": 1509,
     "death_year": 1583,
     "country": "PT",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://es.wikipedia.org/wiki/Fern%C3%A3o_Mendes_Pinto",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/8/85/Fernao_Mendes_Pinto.jpg"
   },
   {
     "name": "MEREDITH, George",
@@ -3911,8 +3911,8 @@
     "birth_year": 1825,
     "death_year": 1898,
     "country": "CH",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Conrad_Ferdinand_Meyer",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/9/95/Conrad_Ferdinand_Meyer.gif"
   },
   {
     "name": "MIHURA, Miguel",
@@ -3947,8 +3947,8 @@
     "birth_year": 1577,
     "death_year": 1644,
     "country": "ES",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Antonio_Mira_de_Amescua",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/6/60/Mira_de_amescua.jpg"
   },
   {
     "name": "MIRÓ, Gabriel",
@@ -3965,8 +3965,8 @@
     "birth_year": 1925,
     "death_year": 1970,
     "country": "JP",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Yukio_Mishima",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Yukio_Mishima%2C_1955_%28cropped_850%C3%97950_px%29.jpg"
   },
   {
     "name": "MISTRAL, Frédéric",
@@ -4029,7 +4029,7 @@
     "death_year": 1923,
     "country": "GB",
     "url_wikipedia": "https://en.wikipedia.org/wiki/Florence_Montgomery",
-    "url_photo": null
+    "url_photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Tom%20Sawyer%201876%20frontispiece.jpg"
   },
   {
     "name": "MONTGOMERY, Lucy Maud",
@@ -4055,8 +4055,8 @@
     "birth_year": 1919,
     "death_year": 2003,
     "country": "ES",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://es.wikipedia.org/wiki/Rafael_Morales",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/8/87/Luis_Castresana-P%C3%ADo-Blas_de_Otero-Rafael_Morales.jpg"
   },
   {
     "name": "MORETO, Agustín",
@@ -4091,8 +4091,8 @@
     "birth_year": 1879,
     "death_year": 1936,
     "country": "ES",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://es.wikipedia.org/wiki/Pedro_Mu%C3%B1oz_Seca",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/d/db/Pedro_Mu%C3%B1oz_Seca.JPG"
   },
   {
     "name": "McCARTHY, Cormac",
@@ -4136,7 +4136,7 @@
     "birth_year": 1869,
     "death_year": 1905,
     "country": "ES",
-    "url_wikipedia": null,
+    "url_wikipedia": "https://es.wikipedia.org/wiki/Francisco_Navarro_Ledesma",
     "url_photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Francisco%20Navarro%20Ledesma%2C%20de%20Christian%20Franzen.jpg"
   },
   {
@@ -4154,8 +4154,8 @@
     "birth_year": 1808,
     "death_year": 1855,
     "country": "FR",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/G%C3%A9rard_de_Nerval",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/0/03/F%C3%A9lix_Nadar_1820-1910_portraits_G%C3%A9rard_de_Nerval.jpg"
   },
   {
     "name": "NERVO, Amado",
@@ -4199,7 +4199,7 @@
     "birth_year": 1905,
     "death_year": 1982,
     "country": "ES",
-    "url_wikipedia": null,
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Alejandro_N%C3%BA%C3%B1ez_Alonso",
     "url_photo": null
   },
   {
@@ -4226,8 +4226,8 @@
     "birth_year": 1888,
     "death_year": 1953,
     "country": "US",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Eugene_O%27Neill",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/3/38/ONeill-Eugene-LOC.jpg"
   },
   {
     "name": "OLAIZOLA, José Luis",
@@ -4244,8 +4244,8 @@
     "birth_year": 1597,
     "death_year": 1639,
     "country": "DE",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://es.wikipedia.org/wiki/Martin_Opitz",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Strobel_Martin_Opitz_%28detail%29.jpg"
   },
   {
     "name": "ORCZY, Emmuska de",
@@ -4253,8 +4253,8 @@
     "birth_year": 1865,
     "death_year": 1947,
     "country": "GB",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://es.wikipedia.org/wiki/Emma_Orczy",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Emma_Orczy_at_Thirteen.jpg"
   },
   {
     "name": "ORTEGA Y GASSET, José",
@@ -4281,7 +4281,7 @@
     "death_year": 1985,
     "country": "VE",
     "url_wikipedia": "https://en.wikipedia.org/wiki/Miguel_Otero_Silva",
-    "url_photo": null
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/2/24/Otero_%28cropped%29.jpg"
   },
   {
     "name": "OVIDIO NASÓN, Publio",
@@ -4289,8 +4289,8 @@
     "birth_year": -43,
     "death_year": 17,
     "country": "IT",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://it.wikipedia.org/wiki/Publio_Ovidio_Nasone",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Ovid_18th_century_engraving_%28cropped%29.jpg"
   },
   {
     "name": "PAGNOL, Marcel",
@@ -4325,8 +4325,8 @@
     "birth_year": 1909,
     "death_year": 1962,
     "country": "ES",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Leopoldo_Panero",
+    "url_photo": "https://commons.wikimedia.org/wiki/Special:FilePath/LeopoldoPaneroImg.jpg"
   },
   {
     "name": "PAPINI, Giovanni",
@@ -4334,8 +4334,8 @@
     "birth_year": 1881,
     "death_year": 1956,
     "country": "IT",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Giovanni_Papini",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/6/62/Picture_of_Giovanni_Papini.jpg"
   },
   {
     "name": "PARDO BAZÁN, Emilia",
@@ -4343,8 +4343,8 @@
     "birth_year": 1851,
     "death_year": 1921,
     "country": "ES",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Emilia_Pardo_Baz%C3%A1n",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/7/77/Emilia_Pardo_Bazan_%281896%29.jpg"
   },
   {
     "name": "PARINI, Giuseppe",
@@ -4362,7 +4362,7 @@
     "death_year": 1967,
     "country": "US",
     "url_wikipedia": "https://en.wikipedia.org/wiki/Dorothy_Parker",
-    "url_photo": null
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/0/04/Young_Dorothy_Parker.jpg"
   },
   {
     "name": "PARRA, Teresa De La",
@@ -4370,8 +4370,8 @@
     "birth_year": 1889,
     "death_year": 1936,
     "country": "VE",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Teresa_de_la_Parra",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/6/69/Teresa_de_la_Parra.jpg"
   },
   {
     "name": "PASCOLI, Giovanni",
@@ -4379,8 +4379,8 @@
     "birth_year": 1855,
     "death_year": 1912,
     "country": "IT",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://es.wikipedia.org/wiki/Giovanni_Pascoli",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Giovanni_Pascoli_01.jpg"
   },
   {
     "name": "PASTERNAK, Boris",
@@ -4388,8 +4388,8 @@
     "birth_year": 1890,
     "death_year": 1960,
     "country": "RU",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://es.wikipedia.org/wiki/Bor%C3%ADs_Pasternak",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/5/55/Boris_Pasternak_1958_photo.jpg"
   },
   {
     "name": "PATERSON, Katherine",
@@ -4406,8 +4406,8 @@
     "birth_year": 1903,
     "death_year": 1988,
     "country": "ZA",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://es.wikipedia.org/wiki/Alan_Paton",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/8/89/Alan_Paton.jpg"
   },
   {
     "name": "PAZ, Octavio",
@@ -4425,7 +4425,7 @@
     "death_year": 2006,
     "country": "GB",
     "url_wikipedia": "https://en.wikipedia.org/wiki/Philippa_Pearce",
-    "url_photo": null
+    "url_photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Philippa%20Pearce.jpeg"
   },
   {
     "name": "PELLICO, Silvio",
@@ -4442,8 +4442,8 @@
     "birth_year": 1897,
     "death_year": 1981,
     "country": "ES",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Jos%C3%A9_Mar%C3%ADa_Pem%C3%A1n",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/9/98/Jos%C3%A9_Mar%C3%ADa_Pem%C3%A1n.png"
   },
   {
     "name": "PEREDA, José María de",
@@ -4478,8 +4478,8 @@
     "birth_year": 1920,
     "death_year": 2003,
     "country": "ES",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Joan_Perucho",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Joan_Perucho_portrait.jpg"
   },
   {
     "name": "PESSOA, Fernando",
@@ -4514,8 +4514,8 @@
     "birth_year": 1897,
     "death_year": 1981,
     "country": "ES",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Josep_Pla",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Josep_Pla_en_1917.jpg"
   },
   {
     "name": "PLATÓN",
@@ -4523,8 +4523,8 @@
     "birth_year": -428,
     "death_year": -348,
     "country": "GR",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://es.wikipedia.org/wiki/Plat%C3%B3n",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/d/db/Plato_bust.png"
   },
   {
     "name": "PLIEVIER, Theodor",
@@ -4541,8 +4541,8 @@
     "birth_year": 46,
     "death_year": 119,
     "country": "GR",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://es.wikipedia.org/wiki/Plutarco",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/6/62/Plutarch_head_only.jpg"
   },
   {
     "name": "POE, Edgar Allan",
@@ -4577,8 +4577,8 @@
     "birth_year": 1857,
     "death_year": 1943,
     "country": "DK",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Henrik_Pontoppidan",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Henrik_Pontoppidan_1913.jpg"
   },
   {
     "name": "POPE, Alexander",
@@ -4613,8 +4613,8 @@
     "birth_year": 1913,
     "death_year": 1991,
     "country": "IT",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://it.wikipedia.org/wiki/Vasco_Pratolini",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/it/a/a3/Vasco-pratolini.jpg"
   },
   {
     "name": "PRIESTLEY, John Boynton",
@@ -4640,8 +4640,8 @@
     "birth_year": 348,
     "death_year": 413,
     "country": "ES",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Prudentius",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/9/9d/BLAdd24199PrudentiusFol11v.jpg"
   },
   {
     "name": "PUBLIO TERENCIO AFER",
@@ -4649,8 +4649,8 @@
     "birth_year": -185,
     "death_year": -159,
     "country": "TN",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Terence",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Portrait_of_Terence_from_Vaticana%2C_Vat._lat.jpg"
   },
   {
     "name": "PUSHKIN, Alexander",
@@ -4658,8 +4658,8 @@
     "birth_year": 1799,
     "death_year": 1837,
     "country": "RU",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://es.wikipedia.org/wiki/Aleksandr_Pushkin",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/5/56/Kiprensky_Pushkin.jpg"
   },
   {
     "name": "PUSHKIN, Alexander S.",
@@ -4721,8 +4721,8 @@
     "birth_year": -516,
     "death_year": -436,
     "country": "GR",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Pindar",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Bust_of_Pindar.jpg"
   },
   {
     "name": "QUEIRÓZ, Eça de",
@@ -4739,8 +4739,8 @@
     "birth_year": 1584,
     "death_year": 1645,
     "country": "ES",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Francisco_de_Quevedo",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Quevedo_%28copia_de_Vel%C3%A1zquez%29.jpg"
   },
   {
     "name": "QUIROGA, Horacio",
@@ -4784,8 +4784,8 @@
     "birth_year": 1898,
     "death_year": 1970,
     "country": "DE",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Erich_Maria_Remarque",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/1/10/Bundesarchiv_Bild_183-R04034%2C_Erich_Maria_Remarque_%28cropped%29.jpg"
   },
   {
     "name": "RHYS, Jean",
@@ -4811,8 +4811,8 @@
     "birth_year": 1929,
     "death_year": 1994,
     "country": "PE",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Julio_Ram%C3%B3n_Ribeyro",
+    "url_photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Homenaje%20a%20Julio%20Ram%C3%B3n%20Ribeyro%20por%20Marco%20Sue%C3%B1o%20(4).jpg"
   },
   {
     "name": "RICHARSON, Samuel",
@@ -4820,8 +4820,8 @@
     "birth_year": 1689,
     "death_year": 1761,
     "country": "GB",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Samuel_Richardson",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/8/86/Samuel_Richardson_by_Joseph_Highmore.jpg"
   },
   {
     "name": "RICHTER, Jean Paul Friedrich",
@@ -4829,8 +4829,8 @@
     "birth_year": 1763,
     "death_year": 1825,
     "country": "DE",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Jean_Paul",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/f/f7/RichterJP.jpg"
   },
   {
     "name": "RILKE, Rainer Maria",
@@ -4865,8 +4865,8 @@
     "birth_year": 1908,
     "death_year": 1983,
     "country": "ES",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://es.wikipedia.org/wiki/Merc%C3%A8_Rodoreda",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/3/30/Rodoreda.jpg"
   },
   {
     "name": "RODRÍGUEZ DE MONTALVO, Garci",
@@ -4874,8 +4874,8 @@
     "birth_year": 1450,
     "death_year": 1505,
     "country": "ES",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Garci_Rodr%C3%ADguez_de_Montalvo",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/9/99/Amad%C3%ADs_de_Gaula_%28Zaragoza%2C_1508%29.jpg"
   },
   {
     "name": "ROJAS ZORRILLA, Francisco de",
@@ -4892,8 +4892,8 @@
     "birth_year": 1437,
     "death_year": 1541,
     "country": "ES",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Fernando_de_Rojas",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Fernando_de_Rojas.jpg"
   },
   {
     "name": "RONSARD, Pierre de",
@@ -4910,8 +4910,8 @@
     "birth_year": 1910,
     "death_year": 1992,
     "country": "ES",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Luis_Rosales",
+    "url_photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Autobiografia-plaque%20%2816474193297%29.jpg"
   },
   {
     "name": "ROSTAND, Edmond",
@@ -4919,8 +4919,8 @@
     "birth_year": 1868,
     "death_year": 1918,
     "country": "DE",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://es.wikipedia.org/wiki/Edmond_Rostand",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/5/51/Edmond_Rostand_en_habit_vert_01.jpg"
   },
   {
     "name": "ROTH, Henry",
@@ -4929,7 +4929,7 @@
     "death_year": 1995,
     "country": "US",
     "url_wikipedia": "https://en.wikipedia.org/wiki/Henry_Roth",
-    "url_photo": null
+    "url_photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Henry%20roth.jpg"
   },
   {
     "name": "ROTH, Joseph",
@@ -4946,8 +4946,8 @@
     "birth_year": 1581,
     "death_year": 1639,
     "country": "ES",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Juan_Ruiz_de_Alarc%C3%B3n",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Juan_Ruiz_de_Alarcon.jpg"
   },
   {
     "name": "RUIZ, Juan",
@@ -4956,7 +4956,7 @@
     "death_year": 1350,
     "country": "ES",
     "url_wikipedia": "https://en.wikipedia.org/wiki/Juan_Ruiz",
-    "url_photo": null
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Lba-codice.jpg"
   },
   {
     "name": "RULFO, Juan",
@@ -4973,8 +4973,8 @@
     "birth_year": 1858,
     "death_year": 1939,
     "country": "ES",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Joaquim_Ruyra",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/7/72/Joaquim_Ruyra.jpg"
   },
   {
     "name": "RUYRA, Joaquín",
@@ -4982,8 +4982,8 @@
     "birth_year": 1858,
     "death_year": 1939,
     "country": "ES",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://es.wikipedia.org/wiki/Joaquim_Ruyra",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/7/72/Joaquim_Ruyra.jpg"
   },
   {
     "name": "RYDBERG, Abraham Viktor",
@@ -5072,8 +5072,8 @@
     "birth_year": -86,
     "death_year": -35,
     "country": "IT",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Sallust",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Salluste_%28cropped%29.jpg"
   },
   {
     "name": "SAN AGUSTÍN",
@@ -5081,8 +5081,8 @@
     "birth_year": null,
     "death_year": null,
     "country": null,
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://es.wikipedia.org/wiki/Regla_de_san_Agust%C3%ADn",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/b/b5/7395_-_Venezia_-_Ex_convento_di_S._Stefano_-_An._padovano_-_S._Agostino_e_frati_%28sec._XV%29_-_Foto_Giovanni_Dall%27Orto%2C_12-Aug-2007.jpg"
   },
   {
     "name": "SAN JUAN DE LA CRUZ",
@@ -5090,8 +5090,8 @@
     "birth_year": null,
     "death_year": null,
     "country": null,
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://es.wikipedia.org/wiki/Juan_de_la_Cruz",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Johncross5.jpg"
   },
   {
     "name": "SAND, George",
@@ -5108,8 +5108,8 @@
     "birth_year": 1478,
     "death_year": 1535,
     "country": "GB",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Thomas_More",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Hans_Holbein%2C_the_Younger_-_Sir_Thomas_More_-_Google_Art_Project.jpg"
   },
   {
     "name": "SANTOS CHOCANO, José",
@@ -5154,7 +5154,7 @@
     "death_year": 1984,
     "country": "CH",
     "url_wikipedia": "https://en.wikipedia.org/wiki/Edzard_Schaper",
-    "url_photo": null
+    "url_photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Grab%20von%20Edzard%20Schaper.jpg"
   },
   {
     "name": "SCHILLER, Johann C. Friedrich von",
@@ -5162,8 +5162,8 @@
     "birth_year": 1759,
     "death_year": 1805,
     "country": "DE",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Friedrich_Schiller",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Anton_Graff_-_Friedrich_Schiller.jpg"
   },
   {
     "name": "SCHWAB, Gustav",
@@ -5171,8 +5171,8 @@
     "birth_year": 1792,
     "death_year": 1850,
     "country": "DE",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Gustav_Schwab",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Chr_Pfann_-_Gustav_Schwab_%28Litho_1850%29.jpg"
   },
   {
     "name": "SCIASCIA, Leonardo",
@@ -5198,8 +5198,8 @@
     "birth_year": 1900,
     "death_year": 1971,
     "country": "GR",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Giorgos_Seferis",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/8/87/George_Seferis.JPG"
   },
   {
     "name": "SEGHERS, Anna",
@@ -5216,8 +5216,8 @@
     "birth_year": 1901,
     "death_year": 1986,
     "country": "CZ",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Jaroslav_Seifert",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Jaroslav_Seifert_1981_foto_Hana_Hamplov%C3%A1.jpg"
   },
   {
     "name": "SENDER, Ramón J.",
@@ -5261,8 +5261,8 @@
     "birth_year": 1751,
     "death_year": 1816,
     "country": "GB",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Richard_Brinsley_Sheridan",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Portrait_of_Richard_Brinsley_Sheridan.jpg"
   },
   {
     "name": "SHERRIFF, Robert Cedric",
@@ -5288,8 +5288,8 @@
     "birth_year": 1846,
     "death_year": 1916,
     "country": "PL",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Henryk_Sienkiewicz",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/5/54/Henryk_Sienkiewicz_ca_1885_%2845871548%29_%28cropped%29.jpg"
   },
   {
     "name": "SILESIUS, Angelus",
@@ -5324,8 +5324,8 @@
     "birth_year": 1903,
     "death_year": 1991,
     "country": "PL",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Isaac_Bashevis_Singer",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Isaac_Bashevis_Singer_%28Gotfryd%29.jpg"
   },
   {
     "name": "SMOLLETT, Tobias",
@@ -5342,8 +5342,8 @@
     "birth_year": 1918,
     "death_year": 2008,
     "country": "RU",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Aleksandr_Solzhenitsyn",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Aleksandr_Solzhenitsyn_1974crop.jpg"
   },
   {
     "name": "SPEE, Friedrich von",
@@ -5360,8 +5360,8 @@
     "birth_year": 1827,
     "death_year": 1901,
     "country": "CH",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Johanna_Spyri",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/7/73/Johanna-spyri.jpg"
   },
   {
     "name": "STEGNER, Wallace",
@@ -5370,7 +5370,7 @@
     "death_year": 1993,
     "country": "US",
     "url_wikipedia": "https://en.wikipedia.org/wiki/Wallace_Stegner",
-    "url_photo": null
+    "url_photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Pulitzer%20Medal%20-%20obverse.png"
   },
   {
     "name": "STEINBECK, John",
@@ -5432,8 +5432,8 @@
     "birth_year": 1179,
     "death_year": 1241,
     "country": "IS",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Snorri_Sturluson",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Snorre_Sturluson-Christian_Krohg.jpg"
   },
   {
     "name": "SVEVO, Italo",
@@ -5478,7 +5478,7 @@
     "death_year": 2002,
     "country": "ES",
     "url_wikipedia": "https://en.wikipedia.org/wiki/Jos%C3%A9_Mar%C3%ADa_S%C3%A1nchez-Silva",
-    "url_photo": null
+    "url_photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Tom%20Sawyer%201876%20frontispiece.jpg"
   },
   {
     "name": "SÉNECA, Lucio Anneo",
@@ -5486,8 +5486,8 @@
     "birth_year": -4,
     "death_year": 65,
     "country": "IT",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://es.wikipedia.org/wiki/S%C3%A9neca",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/9/9e/C%C3%B3rdoba_2015_10_23_2668_%2825945264960%29_%28cropped%29.jpg"
   },
   {
     "name": "SÓFOCLES",
@@ -5495,8 +5495,8 @@
     "birth_year": -495,
     "death_year": -405,
     "country": "GR",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Sophocles",
+    "url_photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Bronze%20head%20of%20playwright%20Sophokles.jpg"
   },
   {
     "name": "TAGORE, Rabindranath",
@@ -5549,8 +5549,8 @@
     "birth_year": -371,
     "death_year": -287,
     "country": "GR",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://es.wikipedia.org/wiki/Teofrasto",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Teofrasto_Orto_botanico_detail.jpg"
   },
   {
     "name": "THACKERAY, William M.",
@@ -5558,8 +5558,8 @@
     "birth_year": 1811,
     "death_year": 1863,
     "country": "IN",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/William_Makepeace_Thackeray",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/b/bf/William_Makepeace_Thackeray_by_Jesse_Harrison_Whitehurst-crop.jpg"
   },
   {
     "name": "THOMPSON, Francis",
@@ -5567,8 +5567,8 @@
     "birth_year": 1859,
     "death_year": 1907,
     "country": null,
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Francis_Thompson",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/d/de/Francis_Thompson_at_19.jpg"
   },
   {
     "name": "TIECK, Johann Ludwig",
@@ -5585,8 +5585,8 @@
     "birth_year": 1583,
     "death_year": 1648,
     "country": "ES",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Tirso_de_Molina",
+    "url_photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Madrid%20-%20Monumento%20a%20Tirso%20de%20Molina%20-%2020110418%20155643.jpg"
   },
   {
     "name": "TOLKIEN, John Ronald Reuel",
@@ -5603,8 +5603,8 @@
     "birth_year": 1828,
     "death_year": 1910,
     "country": "RU",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Leo_Tolstoy",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/c/c6/L.N.Tolstoy_Prokudin-Gorsky.jpg"
   },
   {
     "name": "TOMASI DI LAMPEDUSA, Giuseppe",
@@ -5675,8 +5675,8 @@
     "birth_year": 1818,
     "death_year": 1883,
     "country": "RU",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Ivan_Turgenev",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/7/72/Turgenev_by_Repin.jpg"
   },
   {
     "name": "TWAIN, Mark",
@@ -5693,8 +5693,8 @@
     "birth_year": 55,
     "death_year": 120,
     "country": "IT",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://es.wikipedia.org/wiki/T%C3%A1cito",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Wien-_Parlament-Tacitus.jpg"
   },
   {
     "name": "UHLAND, Ludwig",
@@ -5801,7 +5801,7 @@
     "birth_year": 1920,
     "death_year": 1984,
     "country": "BR",
-    "url_wikipedia": null,
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Jos%C3%A9_Mauro_de_Vasconcelos",
     "url_photo": null
   },
   {
@@ -5810,8 +5810,8 @@
     "birth_year": 1850,
     "death_year": 1921,
     "country": "BG",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Ivan_Vazov",
+    "url_photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Bratislava%20Vazov%20Ivan-%20Venkov%20E.jpg"
   },
   {
     "name": "VENEZIS, Ilias",
@@ -5819,8 +5819,8 @@
     "birth_year": 1904,
     "death_year": 1973,
     "country": "GR",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Elias_Venezis",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/5/58/Elias_Venezis.jpg"
   },
   {
     "name": "VERCORS",
@@ -5873,8 +5873,8 @@
     "birth_year": 1813,
     "death_year": 1883,
     "country": "FR",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Louis_Veuillot",
+    "url_photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Louis%20Veuillot.jpg"
   },
   {
     "name": "VIGNY, Alfred de",
@@ -5909,8 +5909,8 @@
     "birth_year": -69,
     "death_year": -18,
     "country": "IT",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Virgil",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/1/15/Virgil_mosaic_in_the_Bardo_National_Museum_%28Tunis%29_%2812241228546%29.jpg"
   },
   {
     "name": "VOGELWEIDE, Walther Von Der",
@@ -5918,8 +5918,8 @@
     "birth_year": 1170,
     "death_year": 1230,
     "country": "AT",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://de.wikipedia.org/wiki/Walther_von_der_Vogelweide",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Codex_Manesse_Walther_von_der_Vogelweide.jpg"
   },
   {
     "name": "VORÁGINE, Santiago de la",
@@ -5927,8 +5927,8 @@
     "birth_year": 1228,
     "death_year": 1298,
     "country": "IT",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://es.wikipedia.org/wiki/Santiago_de_la_Vor%C3%A1gine",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Jacobus_de_Voragine_Legenda_aurea_XVe_si%C3%A8cle.jpg"
   },
   {
     "name": "VÁZQUEZ DE PRADA, Andrés",
@@ -5936,7 +5936,7 @@
     "birth_year": 1924,
     "death_year": 2005,
     "country": "ES",
-    "url_wikipedia": null,
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Andr%C3%A9s_V%C3%A1zquez_de_Prada",
     "url_photo": null
   },
   {
@@ -5954,8 +5954,8 @@
     "birth_year": 1813,
     "death_year": 1883,
     "country": "DE",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Richard_Wagner",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/9/9d/RichardWagner.jpg"
   },
   {
     "name": "WALLACE, Lewis",
@@ -5963,8 +5963,8 @@
     "birth_year": 1827,
     "death_year": 1905,
     "country": "US",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Lew_Wallace",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Lewis_Wallace.jpg"
   },
   {
     "name": "WALPOLE, Horace",
@@ -5990,8 +5990,8 @@
     "birth_year": 1878,
     "death_year": 1956,
     "country": "CH",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Robert_Walser",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/3/31/Robert_Walser.jpg"
   },
   {
     "name": "WALSH, William Th.",
@@ -5999,8 +5999,8 @@
     "birth_year": 1891,
     "death_year": 1949,
     "country": "US",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/J._J._Walsh",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/4/41/JJ_Walsh%2C_1920s_%28cropped%29.png"
   },
   {
     "name": "WALTON, Izaak",
@@ -6035,8 +6035,8 @@
     "birth_year": 1903,
     "death_year": 1966,
     "country": "GB",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Evelyn_Waugh",
+    "url_photo": "https://commons.wikimedia.org/wiki/Special:FilePath/069%20Canonbury%20Square.jpg"
   },
   {
     "name": "WEBSTER, Jean",
@@ -6053,7 +6053,7 @@
     "birth_year": 1923,
     "death_year": 1985,
     "country": "US",
-    "url_wikipedia": null,
+    "url_wikipedia": "https://it.wikipedia.org/wiki/James_Athanasius_Weisheipl",
     "url_photo": null
   },
   {
@@ -6062,8 +6062,8 @@
     "birth_year": 1866,
     "death_year": 1946,
     "country": "GB",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/H._G._Wells",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/4/4b/H.G._Wells_by_Beresford.jpg"
   },
   {
     "name": "WERFEL, Franz",
@@ -6099,7 +6099,7 @@
     "death_year": 1966,
     "country": "GB",
     "url_wikipedia": "https://en.wikipedia.org/wiki/Dorothy_Whipple",
-    "url_photo": null
+    "url_photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Tom%20Sawyer%201876%20frontispiece.jpg"
   },
   {
     "name": "WIELAND, Christoph Martin",
@@ -6134,8 +6134,8 @@
     "birth_year": 1802,
     "death_year": 1865,
     "country": "ES",
-    "url_wikipedia": null,
-    "url_photo": null
+    "url_wikipedia": "https://en.wikipedia.org/wiki/Nicholas_Wiseman",
+    "url_photo": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Nicholas_Wiseman_NPG.jpg"
   },
   {
     "name": "WOHL, Louis DE",
@@ -6144,7 +6144,7 @@
     "death_year": 1961,
     "country": "DE",
     "url_wikipedia": "https://en.wikipedia.org/wiki/Louis_de_Wohl",
-    "url_photo": null
+    "url_photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Louis%20de%20Wohl.jpg"
   },
   {
     "name": "WOLF, Christa",
